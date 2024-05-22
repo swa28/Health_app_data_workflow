@@ -1,5 +1,7 @@
 # Health app data workflow
 
+<img src="Health_app_data_workflow/SQL Query Results/1.png" width="600"/>
+
 # Health App Data Analysis. We have 6 tables here with 'user_details' as fact table and other 5 as dimentional table. 
 # We will run primary analyss to have basic understanding of data. 
 
