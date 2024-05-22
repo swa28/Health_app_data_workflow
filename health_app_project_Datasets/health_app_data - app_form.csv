@@ -1,0 +1,3651 @@
+user_id,age,weight,height,workout_in_week,meditation_in_week,diabetic,blood_pressure,vitamins,active_disease,care_wellbeing
+2824,35,65,164,2,1,No,No,Yes,Other,Care
+9928,25,87,167,0,2,No,No,Yes,None,Well-being
+6635,42,96,179,1,6,Yes,No,No,None,Well-being
+5741,47,68,155,3,1,No,No,No,Respiratory Problem,Care
+4598,35,84,196,3,2,No,No,No,None,Well-being
+8517,31,70,175,4,1,No,No,No,Tuberculosis,Care
+2743,34,65,197,4,6,No,No,Yes,None,Well-being
+6947,28,57,159,2,6,No,No,No,Other,Care
+7932,37,93,184,4,5,Yes,No,Yes,None,Well-being
+8744,41,90,169,3,2,No,Yes,No,None,Well-being
+2790,30,57,173,4,3,Yes,No,No,Heart Problem,Care
+4872,31,92,180,2,4,No,No,No,None,Well-being
+4566,42,92,191,5,7,No,No,Yes,Heart Problem,Care
+5033,34,71,154,3,4,No,No,Yes,None,Well-being
+5915,33,76,162,1,1,No,No,Yes,None,Well-being
+8179,36,71,156,3,3,Yes,No,Yes,Cancer,Care
+4335,39,50,155,3,2,No,No,No,None,Well-being
+1653,34,96,200,7,2,Yes,No,Yes,None,Well-being
+2771,49,55,161,1,1,No,No,Yes,None,Well-being
+4114,46,65,166,6,2,No,No,Yes,None,Well-being
+4501,35,66,158,5,1,No,No,Yes,None,Well-being
+9486,31,85,169,1,2,No,No,No,Respiratory Problem,Care
+8777,55,66,182,7,4,No,No,Yes,Other,Care
+3503,38,85,195,6,0,Yes,No,No,Respiratory Problem,Care
+7865,45,69,173,0,5,No,No,Yes,None,Well-being
+9031,28,71,200,6,3,No,No,Yes,None,Well-being
+2419,45,79,172,4,3,No,No,Yes,Cancer,Care
+9464,37,61,187,4,0,Yes,No,No,Tuberculosis,Care
+7046,32,86,162,4,0,No,Yes,No,None,Well-being
+9779,24,92,171,5,1,No,No,Yes,Other,Care
+1893,37,74,193,2,4,No,No,Yes,Alzheimer's Disease,Care
+2213,40,78,178,3,7,No,No,No,None,Well-being
+8253,22,65,193,4,3,No,Yes,Yes,None,Well-being
+8381,31,90,186,3,6,No,No,No,Heart Problem,Care
+2169,33,61,194,7,0,No,No,Yes,Respiratory Problem,Care
+8078,26,78,189,6,7,No,No,Yes,Cancer,Care
+8700,38,95,168,3,4,No,No,Yes,Respiratory Problem,Care
+2899,24,84,179,6,0,No,No,No,None,Well-being
+8941,32,72,169,6,6,No,No,No,None,Well-being
+5781,31,79,158,0,6,No,No,Yes,Other,Care
+7798,30,70,163,7,5,No,No,Yes,None,Well-being
+4090,36,99,191,0,0,No,Yes,Yes,Respiratory Problem,Care
+8213,41,95,157,2,4,Yes,Yes,Yes,None,Well-being
+7751,21,90,165,1,4,No,No,Yes,None,Well-being
+9955,35,73,154,5,0,No,No,Yes,None,Well-being
+7484,38,61,196,4,7,No,No,No,Tuberculosis,Care
+1645,26,70,161,7,3,No,No,Yes,None,Well-being
+5210,34,55,165,6,7,No,No,Yes,None,Well-being
+5295,30,77,197,5,5,No,No,Yes,Respiratory Problem,Care
+5986,42,80,167,4,1,No,No,Yes,Tuberculosis,Care
+8285,30,85,168,2,7,Yes,Yes,Yes,Other,Care
+4990,36,53,159,2,4,Yes,No,No,Other,Care
+3858,34,74,178,7,4,No,No,Yes,None,Well-being
+6277,36,92,155,2,3,Yes,Yes,Yes,Other,Care
+2874,37,95,168,7,1,No,No,No,None,Well-being
+5176,34,64,191,2,4,No,Yes,Yes,Tuberculosis,Care
+8030,36,69,194,6,4,No,No,Yes,Heart Problem,Care
+1502,40,86,187,0,4,No,No,Yes,None,Well-being
+8957,36,70,192,1,2,No,No,Yes,None,Well-being
+1897,41,70,166,5,1,No,No,No,None,Well-being
+1693,26,62,183,5,7,No,No,Yes,None,Well-being
+3754,37,88,165,2,4,No,No,Yes,None,Well-being
+1932,29,68,182,4,6,No,No,Yes,None,Well-being
+6543,40,76,171,4,0,No,No,No,None,Well-being
+3317,27,62,194,3,6,No,No,Yes,None,Well-being
+3953,43,100,191,2,7,No,Yes,No,Tuberculosis,Care
+3147,35,71,189,6,1,No,No,No,Other,Care
+8684,44,90,193,4,3,No,No,Yes,None,Well-being
+2680,46,51,152,5,0,No,No,Yes,None,Well-being
+2337,33,89,174,3,7,No,Yes,Yes,Cancer,Care
+5772,32,72,187,4,6,No,No,Yes,None,Well-being
+1713,36,72,186,4,4,Yes,No,Yes,Heart Problem,Care
+4131,34,68,199,3,5,No,Yes,Yes,None,Well-being
+2293,34,90,191,0,4,No,Yes,Yes,Respiratory Problem,Care
+1939,40,62,158,5,4,No,No,No,Other,Care
+7077,41,54,159,3,6,No,No,Yes,None,Well-being
+8311,26,90,173,1,3,No,No,No,Tuberculosis,Care
+5757,42,94,169,6,1,Yes,No,Yes,Other,Care
+3126,23,96,159,6,1,No,No,No,Cancer,Care
+3981,29,73,156,5,5,No,No,No,None,Well-being
+5105,36,90,188,0,0,No,No,Yes,None,Well-being
+5336,27,100,188,0,4,No,Yes,Yes,Cancer,Care
+3589,35,100,165,5,0,Yes,Yes,No,None,Well-being
+3007,41,82,187,1,7,No,No,Yes,None,Well-being
+2475,43,51,153,7,6,No,No,No,Other,Care
+5333,33,58,167,5,6,No,No,Yes,None,Well-being
+2946,35,77,178,3,6,No,No,Yes,Heart Problem,Care
+6456,47,55,155,6,1,No,No,Yes,Heart Problem,Care
+1272,28,76,172,6,0,No,No,Yes,None,Well-being
+4968,35,64,177,0,4,Yes,No,No,None,Well-being
+8837,30,59,197,0,1,No,No,Yes,Tuberculosis,Care
+5876,37,53,159,2,0,No,No,No,Other,Care
+2294,52,64,175,0,0,No,No,No,None,Well-being
+9700,30,72,154,6,0,No,No,Yes,Tuberculosis,Care
+2465,38,51,170,2,7,No,No,Yes,None,Well-being
+2758,36,54,182,1,3,No,No,No,None,Well-being
+5215,29,62,161,2,1,Yes,No,Yes,None,Well-being
+3303,47,86,191,5,5,No,No,Yes,Tuberculosis,Care
+2936,37,55,189,6,7,No,No,No,Heart Problem,Care
+8714,31,88,180,2,0,No,No,No,None,Well-being
+9281,33,60,173,5,4,No,No,No,Heart Problem,Care
+6049,26,85,193,6,4,No,No,No,None,Well-being
+2102,38,55,169,6,5,No,No,No,None,Well-being
+6224,39,77,182,5,0,No,Yes,Yes,None,Well-being
+7244,35,100,156,0,5,No,No,No,Respiratory Problem,Care
+5177,34,76,173,3,7,No,No,No,Alzheimer's Disease,Care
+6455,39,78,179,4,6,No,No,Yes,Respiratory Problem,Care
+9401,45,73,185,1,1,No,No,Yes,None,Well-being
+6404,42,82,173,3,6,No,No,Yes,None,Well-being
+2217,24,52,168,7,2,No,No,No,None,Well-being
+5379,26,99,168,3,4,Yes,No,No,None,Well-being
+1154,34,65,195,2,4,No,No,Yes,Other,Care
+6152,38,54,183,0,6,No,Yes,Yes,Other,Care
+6666,37,65,196,1,5,Yes,No,Yes,None,Well-being
+6050,35,58,154,7,0,No,Yes,Yes,Heart Problem,Care
+6315,30,84,180,4,0,No,Yes,Yes,None,Well-being
+3390,34,73,177,6,7,No,No,No,Other,Care
+7483,34,61,184,4,5,Yes,No,Yes,Other,Care
+9044,30,78,152,5,6,No,No,No,Heart Problem,Care
+7703,22,93,160,0,2,No,No,Yes,Respiratory Problem,Care
+9796,27,78,173,5,7,No,No,No,Other,Care
+4389,37,83,174,1,4,No,No,Yes,None,Well-being
+7985,31,54,178,2,7,No,No,No,None,Well-being
+4371,31,69,160,2,5,No,Yes,Yes,Respiratory Problem,Care
+7431,46,73,179,2,1,Yes,No,No,Other,Care
+3316,37,91,154,7,7,No,No,No,None,Well-being
+8939,27,77,182,0,1,No,No,Yes,None,Well-being
+5729,25,85,167,2,4,No,Yes,No,None,Well-being
+5055,38,88,171,0,0,Yes,No,No,Cancer,Care
+4390,28,80,165,6,4,No,No,Yes,Other,Care
+2525,25,72,175,2,5,No,Yes,Yes,Respiratory Problem,Care
+9105,33,60,170,5,3,No,No,No,Other,Care
+1011,32,53,153,4,7,No,No,No,Cancer,Care
+2559,42,86,185,3,5,No,Yes,No,None,Well-being
+5902,36,75,173,5,5,No,No,No,None,Well-being
+2646,35,88,182,2,5,No,No,Yes,None,Well-being
+5842,26,82,184,7,4,No,Yes,Yes,Respiratory Problem,Care
+3830,46,91,200,3,0,No,Yes,No,None,Well-being
+7590,41,52,186,1,3,Yes,No,Yes,None,Well-being
+4909,52,63,185,5,7,No,No,Yes,None,Well-being
+5403,41,65,167,4,3,No,No,No,None,Well-being
+2685,33,85,200,4,4,Yes,No,Yes,None,Well-being
+6241,30,95,155,5,7,No,No,Yes,None,Well-being
+5777,39,87,165,3,0,No,No,No,Heart Problem,Care
+1023,41,80,180,3,4,No,No,No,Heart Problem,Care
+9515,24,52,161,6,2,No,Yes,No,None,Well-being
+3141,33,56,171,4,7,No,No,Yes,None,Well-being
+7660,24,57,171,2,7,No,No,Yes,Tuberculosis,Care
+1802,34,75,177,5,1,No,Yes,No,Other,Care
+7098,42,78,198,4,5,No,No,Yes,None,Well-being
+8096,41,69,160,6,4,No,No,No,Other,Care
+8848,23,85,180,3,3,No,No,No,None,Well-being
+1427,36,57,153,3,2,Yes,No,Yes,None,Well-being
+7363,26,78,153,7,2,No,No,Yes,Other,Care
+9064,28,50,197,3,1,Yes,No,Yes,None,Well-being
+3235,36,61,199,2,6,No,No,Yes,None,Well-being
+7415,33,72,157,2,6,No,No,Yes,Heart Problem,Care
+2453,27,65,179,5,2,No,No,No,Respiratory Problem,Care
+7783,35,51,165,3,1,Yes,Yes,No,None,Well-being
+3787,36,64,196,5,5,No,No,No,None,Well-being
+6424,26,85,181,0,5,No,No,No,Tuberculosis,Care
+2435,36,69,195,2,7,No,No,No,None,Well-being
+6632,35,62,153,4,6,No,No,No,Respiratory Problem,Care
+1568,41,71,169,0,3,No,No,Yes,None,Well-being
+3422,43,85,170,4,6,No,No,Yes,Other,Care
+9561,33,80,198,5,3,No,No,No,Alzheimer's Disease,Care
+8955,39,68,159,3,5,No,No,Yes,None,Well-being
+1331,33,81,196,7,7,No,No,Yes,None,Well-being
+9462,32,54,192,0,0,No,No,Yes,None,Well-being
+6730,40,85,176,0,0,No,No,No,Heart Problem,Care
+1145,41,61,156,1,2,No,No,Yes,Other,Care
+5950,35,79,186,3,3,No,No,Yes,None,Well-being
+5529,42,74,185,7,0,No,No,Yes,None,Well-being
+7628,35,56,183,0,3,No,No,No,Other,Care
+8598,28,70,151,3,2,No,No,Yes,Heart Problem,Care
+3470,34,71,174,2,1,No,No,Yes,Other,Care
+3762,32,88,175,5,0,No,No,Yes,Alzheimer's Disease,Care
+7112,37,87,192,6,1,No,No,Yes,Heart Problem,Care
+1749,31,73,156,1,0,No,No,No,Respiratory Problem,Care
+3768,24,85,155,5,6,No,No,No,None,Well-being
+8772,36,93,174,2,2,No,No,Yes,Respiratory Problem,Care
+9154,41,56,158,4,0,No,No,No,None,Well-being
+1208,29,88,194,3,7,No,No,No,Cancer,Care
+6615,41,100,175,5,1,No,Yes,No,Respiratory Problem,Care
+3571,39,94,154,6,7,No,No,Yes,Respiratory Problem,Care
+2291,35,73,194,1,1,No,No,Yes,None,Well-being
+4122,29,66,164,3,7,No,No,No,None,Well-being
+3903,23,100,163,7,5,No,No,No,Tuberculosis,Care
+7839,37,60,171,6,7,No,No,Yes,None,Well-being
+5835,35,74,150,3,3,No,No,No,None,Well-being
+6122,26,62,179,1,4,No,No,No,Tuberculosis,Care
+9418,35,89,161,4,1,No,No,Yes,Respiratory Problem,Care
+5934,39,74,177,2,7,No,No,No,None,Well-being
+5809,25,70,178,0,5,No,No,Yes,Other,Care
+9468,31,76,195,7,7,No,No,No,Alzheimer's Disease,Care
+7950,37,97,199,7,1,No,No,No,None,Well-being
+7678,29,84,163,6,1,No,No,Yes,None,Well-being
+8170,37,87,194,5,6,No,No,Yes,Alzheimer's Disease,Care
+1082,38,95,168,4,4,No,No,No,None,Well-being
+2143,23,65,159,5,3,No,No,Yes,None,Well-being
+3200,29,67,194,5,7,No,No,Yes,None,Well-being
+1305,39,72,154,6,3,No,No,Yes,Tuberculosis,Care
+6985,32,100,179,0,1,No,Yes,Yes,None,Well-being
+5600,28,67,155,5,4,Yes,No,No,Heart Problem,Care
+1706,36,95,156,0,3,No,Yes,Yes,None,Well-being
+4548,41,54,164,6,1,No,Yes,Yes,None,Well-being
+2127,26,50,189,2,7,No,No,No,None,Well-being
+5155,37,96,174,5,6,No,No,Yes,Heart Problem,Care
+7522,34,99,194,0,4,No,No,Yes,Other,Care
+1086,36,65,181,1,0,No,No,Yes,None,Well-being
+8192,34,98,180,1,0,No,Yes,Yes,None,Well-being
+7544,48,95,182,6,6,No,No,No,None,Well-being
+4187,33,91,193,1,4,No,No,No,Heart Problem,Care
+4985,35,97,161,1,0,No,No,Yes,None,Well-being
+9776,38,97,199,4,1,No,Yes,No,Cancer,Care
+4965,32,53,181,2,5,Yes,No,No,None,Well-being
+5501,40,74,159,2,0,No,No,No,Other,Care
+1137,34,86,173,1,0,Yes,No,No,None,Well-being
+7866,31,79,150,5,3,No,No,No,Alzheimer's Disease,Care
+3450,28,98,200,3,2,Yes,No,Yes,Tuberculosis,Care
+9363,42,97,196,4,1,No,No,Yes,None,Well-being
+5773,28,52,164,6,5,No,No,No,None,Well-being
+2687,38,53,177,2,3,No,No,No,Other,Care
+5655,37,64,154,3,2,No,No,Yes,Respiratory Problem,Care
+3900,27,66,157,1,2,No,No,No,None,Well-being
+7753,29,51,175,7,3,Yes,Yes,No,Respiratory Problem,Care
+4089,34,54,151,1,3,No,No,Yes,None,Well-being
+2121,43,79,153,2,6,No,No,Yes,None,Well-being
+8183,47,59,152,3,4,No,No,Yes,Heart Problem,Care
+7429,24,84,200,0,6,No,No,No,Other,Care
+6113,29,61,151,5,3,Yes,No,Yes,None,Well-being
+1983,27,67,184,0,3,No,No,Yes,None,Well-being
+3207,37,70,197,5,0,No,No,No,Respiratory Problem,Care
+8362,31,81,152,1,0,No,No,No,Heart Problem,Care
+6285,35,95,161,5,0,Yes,No,No,None,Well-being
+7814,27,75,187,1,5,No,Yes,Yes,None,Well-being
+5075,30,95,185,5,3,No,No,Yes,None,Well-being
+6319,28,86,152,2,5,No,No,Yes,None,Well-being
+5660,48,65,172,5,2,No,No,No,None,Well-being
+6827,29,63,165,1,5,No,Yes,Yes,Other,Care
+1807,29,80,200,3,2,No,No,Yes,Heart Problem,Care
+8046,44,55,171,7,0,No,No,No,Other,Care
+4825,36,69,165,1,0,No,No,Yes,Heart Problem,Care
+1372,37,63,160,4,1,No,Yes,No,Other,Care
+5444,30,74,161,5,6,No,No,Yes,Other,Care
+8503,37,56,155,5,6,No,No,No,None,Well-being
+4387,31,80,169,1,6,No,No,No,None,Well-being
+3384,37,78,161,2,3,No,Yes,Yes,None,Well-being
+6886,40,75,185,5,4,No,No,Yes,None,Well-being
+7767,33,59,186,1,1,No,Yes,Yes,None,Well-being
+7232,45,88,193,6,0,No,No,No,Heart Problem,Care
+9456,38,69,169,4,7,No,No,No,Alzheimer's Disease,Care
+9952,33,88,191,1,3,No,No,Yes,Other,Care
+7292,52,100,160,1,4,No,No,No,None,Well-being
+5731,25,62,153,3,0,No,No,No,Cancer,Care
+8794,29,57,193,0,3,No,No,Yes,None,Well-being
+1531,38,66,197,1,4,Yes,Yes,No,None,Well-being
+6901,35,82,151,0,7,No,No,No,Heart Problem,Care
+9666,22,72,179,4,3,No,No,No,Other,Care
+4812,33,88,168,4,1,No,No,Yes,Tuberculosis,Care
+2111,39,98,165,0,6,No,No,No,None,Well-being
+6434,34,87,195,3,5,No,No,No,None,Well-being
+5448,44,60,192,2,4,Yes,Yes,Yes,None,Well-being
+1755,30,72,164,4,6,No,No,Yes,Cancer,Care
+5467,46,87,187,1,7,No,No,No,Other,Care
+3806,32,71,176,7,2,No,No,No,Other,Care
+8304,39,50,178,4,3,No,Yes,No,Other,Care
+5227,30,90,177,6,6,No,No,Yes,Respiratory Problem,Care
+2752,53,50,190,3,3,No,No,Yes,Other,Care
+8063,31,69,168,7,5,No,No,Yes,None,Well-being
+7648,43,96,158,3,0,No,Yes,Yes,None,Well-being
+6885,34,53,194,1,6,No,Yes,Yes,None,Well-being
+6902,51,92,183,4,2,No,No,No,None,Well-being
+7813,28,68,160,0,7,No,No,Yes,Alzheimer's Disease,Care
+4878,39,55,199,1,1,No,No,Yes,None,Well-being
+9574,49,70,177,1,1,No,No,Yes,Respiratory Problem,Care
+5827,35,89,167,1,5,No,Yes,Yes,None,Well-being
+2259,36,60,157,2,0,No,No,Yes,None,Well-being
+9640,32,72,189,0,2,No,No,No,Other,Care
+8602,23,96,186,3,5,No,No,No,Other,Care
+8353,25,91,174,2,0,Yes,No,No,Other,Care
+7408,40,91,174,6,3,Yes,No,No,Heart Problem,Care
+9605,32,52,185,0,1,No,No,No,None,Well-being
+3915,29,64,179,5,7,No,No,Yes,Heart Problem,Care
+8305,59,90,168,5,1,Yes,Yes,Yes,None,Well-being
+2148,26,62,157,6,3,No,No,No,Respiratory Problem,Care
+5750,31,78,179,2,7,Yes,No,No,Other,Care
+9856,22,61,194,2,2,Yes,No,No,Tuberculosis,Care
+4613,27,68,178,2,2,No,No,No,Cancer,Care
+7801,39,85,190,3,3,No,No,No,None,Well-being
+2460,33,90,170,1,5,No,No,No,None,Well-being
+2442,38,77,150,1,0,No,Yes,Yes,Cancer,Care
+4409,45,53,194,4,3,No,Yes,No,Respiratory Problem,Care
+7759,31,100,200,4,0,No,No,No,None,Well-being
+4181,26,90,195,5,3,No,No,Yes,Respiratory Problem,Care
+8014,34,77,167,4,2,Yes,No,Yes,Other,Care
+8852,36,88,153,4,7,No,No,Yes,None,Well-being
+5994,37,82,160,6,6,No,No,Yes,Tuberculosis,Care
+6454,54,98,191,0,1,No,No,No,None,Well-being
+1669,52,74,200,1,6,No,No,Yes,None,Well-being
+5380,34,81,152,4,3,No,Yes,Yes,None,Well-being
+8501,31,63,192,3,6,No,No,No,None,Well-being
+9870,29,54,197,2,0,No,No,Yes,Heart Problem,Care
+3161,42,64,166,6,6,No,No,Yes,Other,Care
+3514,29,87,152,1,5,No,Yes,No,Tuberculosis,Care
+9845,40,58,197,6,4,No,Yes,No,None,Well-being
+4197,37,59,157,0,0,No,No,No,Heart Problem,Care
+9381,30,64,189,4,3,Yes,No,No,Heart Problem,Care
+8278,35,54,168,1,4,Yes,No,Yes,Tuberculosis,Care
+7708,33,71,189,4,2,No,No,Yes,Other,Care
+8593,30,58,193,5,7,No,No,Yes,None,Well-being
+6917,29,90,154,1,0,No,No,No,None,Well-being
+2251,39,84,180,2,5,No,No,No,None,Well-being
+4438,31,92,165,2,2,No,Yes,No,None,Well-being
+6698,30,64,154,4,5,No,No,No,None,Well-being
+6149,31,90,167,4,2,No,No,No,None,Well-being
+7672,35,88,150,2,7,Yes,Yes,No,Alzheimer's Disease,Care
+3764,43,71,196,1,7,No,No,No,None,Well-being
+3414,30,86,159,0,2,No,Yes,No,None,Well-being
+2792,34,80,160,3,6,No,No,No,Respiratory Problem,Care
+6779,44,71,179,1,3,No,Yes,Yes,None,Well-being
+7749,32,56,161,7,0,No,No,No,Heart Problem,Care
+8695,29,99,193,6,6,No,No,No,Alzheimer's Disease,Care
+2234,33,97,198,1,6,Yes,No,Yes,None,Well-being
+2256,38,50,174,3,5,No,Yes,Yes,None,Well-being
+8656,30,85,200,7,2,No,No,Yes,Tuberculosis,Care
+7757,34,100,194,2,1,No,No,Yes,None,Well-being
+1606,22,50,155,2,7,No,No,Yes,Alzheimer's Disease,Care
+2479,34,68,195,0,2,No,No,Yes,None,Well-being
+6134,43,88,182,3,2,No,No,No,None,Well-being
+2850,45,87,162,0,1,No,No,No,None,Well-being
+3625,23,79,175,0,4,Yes,No,No,None,Well-being
+7722,46,74,186,7,3,No,No,Yes,Other,Care
+7182,33,54,174,3,3,No,No,Yes,None,Well-being
+5262,28,75,193,5,1,No,Yes,Yes,Alzheimer's Disease,Care
+8682,26,65,197,3,4,No,No,Yes,None,Well-being
+8715,28,84,152,7,5,No,No,No,None,Well-being
+9253,32,82,167,6,3,No,Yes,No,Other,Care
+3703,28,93,199,2,7,No,No,Yes,None,Well-being
+8653,31,67,180,5,5,No,No,Yes,None,Well-being
+9335,36,56,196,4,3,No,No,Yes,None,Well-being
+2998,32,76,181,2,5,No,No,No,None,Well-being
+1797,37,78,197,5,4,No,No,No,Cancer,Care
+4411,26,91,184,2,4,No,No,Yes,None,Well-being
+7358,26,90,159,2,5,No,No,Yes,None,Well-being
+2297,36,67,178,5,7,No,No,Yes,None,Well-being
+5151,37,56,156,1,7,No,Yes,Yes,None,Well-being
+8371,44,74,169,3,3,No,No,Yes,None,Well-being
+5764,35,84,161,7,6,No,No,Yes,Tuberculosis,Care
+6681,33,76,166,2,4,Yes,No,No,Respiratory Problem,Care
+7395,36,64,200,0,5,Yes,No,Yes,Alzheimer's Disease,Care
+9089,34,66,155,6,3,No,No,No,None,Well-being
+8968,31,54,161,2,4,Yes,No,Yes,None,Well-being
+3736,49,68,167,2,7,No,No,Yes,Other,Care
+8251,36,71,155,2,0,No,No,No,Respiratory Problem,Care
+1947,26,50,157,3,6,No,No,No,Heart Problem,Care
+8244,34,69,170,2,0,No,No,Yes,Other,Care
+3043,42,50,160,4,1,No,No,No,None,Well-being
+5057,37,55,165,2,7,Yes,No,No,None,Well-being
+9622,30,94,184,1,2,No,No,No,None,Well-being
+9408,49,96,158,4,0,No,No,Yes,None,Well-being
+3511,39,88,185,2,1,No,No,No,None,Well-being
+9235,28,54,192,6,3,No,No,No,None,Well-being
+9052,26,58,161,0,3,Yes,Yes,Yes,None,Well-being
+5187,30,64,188,1,0,No,No,Yes,None,Well-being
+6311,23,95,153,4,0,No,No,Yes,Alzheimer's Disease,Care
+8615,47,74,162,3,3,No,No,No,None,Well-being
+9199,33,94,192,6,1,Yes,Yes,Yes,Tuberculosis,Care
+1156,26,96,170,3,3,No,No,No,Other,Care
+1138,34,69,150,4,3,No,No,No,None,Well-being
+1602,26,86,159,1,0,No,Yes,Yes,None,Well-being
+3101,42,63,196,1,5,No,Yes,No,None,Well-being
+1849,38,52,196,6,1,No,No,Yes,None,Well-being
+4188,39,88,150,6,0,No,Yes,No,Respiratory Problem,Care
+1393,35,96,175,7,1,No,No,Yes,Respiratory Problem,Care
+8314,37,75,182,6,2,No,No,Yes,Other,Care
+7581,32,83,165,3,1,No,No,No,None,Well-being
+1201,39,72,189,7,2,No,No,Yes,None,Well-being
+1722,40,57,169,7,7,No,No,No,Alzheimer's Disease,Care
+1894,35,96,159,0,6,No,No,Yes,Respiratory Problem,Care
+3658,45,50,154,6,4,No,No,Yes,Respiratory Problem,Care
+2818,42,82,179,0,0,No,No,Yes,Other,Care
+8037,27,82,167,0,4,No,No,No,Heart Problem,Care
+2333,27,75,192,2,1,No,No,No,None,Well-being
+1599,26,77,169,5,7,No,No,Yes,None,Well-being
+4771,29,83,158,6,2,No,No,Yes,Heart Problem,Care
+6883,37,59,196,0,5,No,No,Yes,Other,Care
+5496,52,56,158,2,0,No,No,Yes,None,Well-being
+8773,35,80,195,5,2,No,No,Yes,Respiratory Problem,Care
+3102,36,62,198,3,1,Yes,No,Yes,None,Well-being
+3910,39,88,197,6,5,No,No,No,None,Well-being
+1180,37,79,152,3,6,No,Yes,Yes,None,Well-being
+8778,30,69,199,4,7,Yes,No,No,None,Well-being
+1640,31,55,196,1,2,No,No,No,Respiratory Problem,Care
+6341,38,91,195,2,1,Yes,No,No,Heart Problem,Care
+8606,32,74,185,6,0,No,No,No,None,Well-being
+1183,32,58,162,0,4,Yes,No,Yes,None,Well-being
+4305,32,92,180,7,6,No,No,Yes,None,Well-being
+9396,39,53,191,5,0,Yes,Yes,No,None,Well-being
+1196,28,92,194,2,7,No,No,Yes,None,Well-being
+6314,31,68,180,2,1,No,No,No,None,Well-being
+4808,50,96,190,1,7,No,No,No,None,Well-being
+1885,40,96,190,7,7,No,No,Yes,Cancer,Care
+3318,28,76,152,5,5,No,No,Yes,Alzheimer's Disease,Care
+5079,36,71,175,0,2,Yes,No,No,Other,Care
+8897,29,84,171,7,6,No,No,No,None,Well-being
+8688,51,86,193,5,5,No,No,No,Tuberculosis,Care
+3660,28,88,157,4,5,No,No,Yes,None,Well-being
+5143,28,80,182,2,3,No,No,No,Tuberculosis,Care
+1025,38,63,196,0,7,No,No,Yes,Tuberculosis,Care
+1966,30,56,183,4,0,No,No,No,Tuberculosis,Care
+2651,44,59,160,4,1,Yes,No,No,Alzheimer's Disease,Care
+6521,37,54,169,5,7,No,No,No,Heart Problem,Care
+5072,44,94,178,5,4,No,Yes,No,None,Well-being
+8800,28,94,179,1,7,No,No,No,Other,Care
+6452,27,75,161,5,5,No,No,Yes,Other,Care
+6574,24,95,200,1,5,No,Yes,Yes,Other,Care
+6237,34,60,180,6,1,No,No,No,None,Well-being
+3389,34,54,197,7,1,No,No,No,None,Well-being
+4450,47,70,181,0,1,No,Yes,No,None,Well-being
+6706,25,84,168,6,7,No,No,Yes,None,Well-being
+9444,39,72,155,0,6,No,No,Yes,None,Well-being
+8292,36,72,157,4,0,No,No,Yes,Tuberculosis,Care
+3051,28,74,173,6,2,No,No,Yes,Heart Problem,Care
+4399,34,92,177,2,1,Yes,No,No,None,Well-being
+1573,38,82,177,7,6,No,No,No,None,Well-being
+6127,32,76,184,5,0,No,No,No,Respiratory Problem,Care
+7914,24,83,189,1,3,No,No,No,Heart Problem,Care
+4156,45,71,184,0,7,No,No,No,Tuberculosis,Care
+7664,49,100,186,4,0,No,No,No,None,Well-being
+6716,39,67,166,0,1,No,No,No,None,Well-being
+5244,39,59,188,2,7,No,No,Yes,None,Well-being
+6799,33,72,153,4,1,Yes,No,Yes,Other,Care
+9074,36,95,174,7,4,Yes,No,Yes,None,Well-being
+9652,34,90,172,6,4,No,No,Yes,None,Well-being
+5092,41,71,193,2,5,No,No,No,Heart Problem,Care
+8542,34,66,162,0,0,No,Yes,No,None,Well-being
+1113,28,58,174,2,1,No,No,Yes,None,Well-being
+4251,28,92,199,5,4,Yes,Yes,No,Other,Care
+7370,44,81,156,2,6,No,No,No,None,Well-being
+5623,25,52,192,6,4,Yes,No,Yes,Heart Problem,Care
+3436,39,96,199,1,3,Yes,No,No,Other,Care
+7980,30,75,153,1,5,No,No,Yes,Other,Care
+6269,23,74,192,3,4,No,No,No,Other,Care
+5521,40,84,191,4,7,No,No,Yes,None,Well-being
+4309,38,64,154,0,2,No,Yes,No,None,Well-being
+9255,33,79,189,2,1,No,Yes,Yes,None,Well-being
+4015,30,86,184,2,5,No,No,No,None,Well-being
+3427,46,52,158,1,6,No,Yes,Yes,Heart Problem,Care
+4341,35,99,180,2,3,Yes,No,Yes,Alzheimer's Disease,Care
+1339,32,85,165,3,1,No,No,No,None,Well-being
+2392,27,90,192,3,4,Yes,Yes,Yes,None,Well-being
+2684,27,52,153,5,4,No,No,No,None,Well-being
+7303,40,51,181,1,1,No,No,No,Tuberculosis,Care
+2389,32,64,156,3,6,No,No,Yes,Other,Care
+3435,21,79,196,3,5,No,No,Yes,None,Well-being
+7911,30,90,189,2,3,Yes,No,Yes,None,Well-being
+3283,42,77,197,3,3,No,No,No,None,Well-being
+9222,38,75,180,1,7,No,Yes,No,None,Well-being
+2264,30,86,197,0,7,No,Yes,No,Respiratory Problem,Care
+3666,50,90,154,6,5,No,No,No,None,Well-being
+6056,27,93,155,5,0,No,No,Yes,Heart Problem,Care
+1612,26,85,195,1,3,Yes,No,No,None,Well-being
+2428,25,64,170,5,4,No,No,Yes,Other,Care
+5696,29,93,184,4,7,No,No,No,None,Well-being
+1130,39,79,155,1,6,No,No,No,Respiratory Problem,Care
+7230,30,84,158,7,5,No,No,Yes,Respiratory Problem,Care
+2338,33,87,171,5,7,No,No,No,Other,Care
+8890,24,64,180,5,4,No,Yes,Yes,Other,Care
+3416,44,95,194,2,2,No,Yes,Yes,Respiratory Problem,Care
+4541,41,60,184,4,1,No,No,Yes,Respiratory Problem,Care
+6770,32,68,180,4,2,No,No,No,Tuberculosis,Care
+8167,32,69,151,6,3,No,Yes,Yes,None,Well-being
+1534,34,67,162,0,1,No,No,No,Heart Problem,Care
+5384,35,88,182,0,5,No,No,Yes,Other,Care
+7412,35,78,197,6,7,No,No,No,Other,Care
+3069,36,55,159,3,4,No,No,No,Heart Problem,Care
+3138,33,90,167,6,2,No,No,No,Respiratory Problem,Care
+2694,27,64,151,0,2,No,No,No,Other,Care
+2250,36,94,191,3,0,Yes,No,No,Heart Problem,Care
+5169,31,66,190,7,1,No,No,Yes,Cancer,Care
+2506,34,94,158,5,2,Yes,No,No,None,Well-being
+8992,25,90,161,1,2,No,No,No,None,Well-being
+9691,31,72,159,0,2,No,No,Yes,Tuberculosis,Care
+6268,29,64,162,1,6,No,Yes,No,None,Well-being
+6244,38,88,183,5,2,No,Yes,No,Alzheimer's Disease,Care
+1076,35,58,163,2,1,No,No,Yes,Heart Problem,Care
+6665,29,66,152,1,4,No,No,No,None,Well-being
+7218,30,82,199,3,1,Yes,No,Yes,Alzheimer's Disease,Care
+7931,37,61,178,1,2,No,No,Yes,None,Well-being
+9698,36,68,185,0,1,No,Yes,Yes,None,Well-being
+4597,34,81,193,1,6,No,No,Yes,Respiratory Problem,Care
+5395,38,71,162,6,1,No,No,Yes,None,Well-being
+8458,43,91,175,5,7,No,No,No,None,Well-being
+8742,29,53,154,7,0,No,No,No,Respiratory Problem,Care
+9940,25,98,183,7,7,No,No,Yes,Cancer,Care
+6715,38,74,178,7,0,Yes,No,No,Tuberculosis,Care
+3410,30,95,174,7,1,No,No,No,None,Well-being
+3022,38,81,187,6,5,No,No,Yes,None,Well-being
+4223,39,72,172,6,5,No,No,Yes,Tuberculosis,Care
+3280,36,77,186,6,4,Yes,No,Yes,Tuberculosis,Care
+9627,30,81,156,3,5,No,No,No,Respiratory Problem,Care
+5954,22,63,168,4,0,No,No,No,None,Well-being
+5426,27,67,154,7,6,No,No,No,Tuberculosis,Care
+3535,28,62,176,6,4,No,No,No,Respiratory Problem,Care
+9287,37,92,197,7,4,No,No,No,None,Well-being
+9956,45,79,159,3,2,No,No,No,Other,Care
+8488,28,76,167,4,2,No,No,Yes,Respiratory Problem,Care
+9602,35,77,177,0,3,Yes,Yes,Yes,None,Well-being
+6309,32,96,181,0,0,No,Yes,No,None,Well-being
+8168,28,96,158,3,1,No,No,Yes,None,Well-being
+9653,39,55,165,1,5,No,No,Yes,None,Well-being
+4777,42,73,194,1,5,No,No,Yes,Cancer,Care
+9944,35,73,169,0,0,No,No,No,None,Well-being
+2194,38,69,190,5,1,No,No,Yes,Heart Problem,Care
+6738,35,98,165,4,3,No,Yes,Yes,Tuberculosis,Care
+7180,33,55,199,7,7,No,No,Yes,Other,Care
+1164,44,66,182,1,5,No,No,No,Tuberculosis,Care
+6146,27,90,178,2,0,No,No,Yes,Heart Problem,Care
+3246,27,78,180,2,4,Yes,No,Yes,Cancer,Care
+5428,22,85,191,3,1,No,Yes,No,Respiratory Problem,Care
+4021,37,60,186,1,0,No,No,No,Other,Care
+1935,39,62,200,4,4,No,No,Yes,Alzheimer's Disease,Care
+5495,34,100,159,0,4,No,No,Yes,Alzheimer's Disease,Care
+6259,36,58,170,6,3,No,No,No,Cancer,Care
+8216,29,74,169,6,5,No,No,Yes,Respiratory Problem,Care
+4734,31,95,183,6,2,No,No,No,Other,Care
+4882,32,77,168,4,4,No,No,Yes,None,Well-being
+5765,28,53,164,2,0,No,Yes,Yes,Respiratory Problem,Care
+2285,27,95,185,7,7,No,No,No,Respiratory Problem,Care
+5801,35,87,163,0,2,No,Yes,No,None,Well-being
+8932,28,57,175,5,1,No,Yes,Yes,None,Well-being
+7692,38,88,192,0,5,No,No,No,Tuberculosis,Care
+2196,43,53,191,4,5,No,No,No,None,Well-being
+6815,32,60,174,6,4,No,No,Yes,Cancer,Care
+1687,34,56,173,3,7,No,No,Yes,None,Well-being
+5726,25,77,155,0,5,No,No,No,None,Well-being
+1422,27,55,168,7,6,No,No,Yes,None,Well-being
+2908,26,77,168,0,1,No,No,No,Other,Care
+1583,35,99,182,0,1,No,No,No,None,Well-being
+9039,39,79,198,7,4,No,No,No,Alzheimer's Disease,Care
+7425,29,80,179,6,7,No,No,No,None,Well-being
+6694,41,58,158,0,3,Yes,Yes,No,None,Well-being
+8240,44,99,179,2,7,No,Yes,No,None,Well-being
+1326,33,90,195,6,6,No,No,No,None,Well-being
+1397,35,83,151,6,5,No,No,No,None,Well-being
+4183,33,51,160,4,3,No,No,No,None,Well-being
+8325,34,96,195,6,6,No,No,No,None,Well-being
+9575,23,94,197,1,7,Yes,Yes,No,Respiratory Problem,Care
+6128,33,72,193,2,2,No,No,Yes,Heart Problem,Care
+7949,22,85,167,2,1,No,No,Yes,Other,Care
+3936,40,56,185,0,1,Yes,Yes,Yes,Other,Care
+4703,41,96,156,2,5,No,Yes,No,Other,Care
+2676,32,98,176,5,3,Yes,No,Yes,Alzheimer's Disease,Care
+6991,45,51,178,2,0,No,No,Yes,Tuberculosis,Care
+2007,48,94,185,4,5,No,Yes,Yes,None,Well-being
+2928,31,84,189,7,5,No,No,Yes,Respiratory Problem,Care
+5042,39,58,183,4,3,Yes,No,No,None,Well-being
+4084,45,99,169,6,1,No,No,Yes,None,Well-being
+4451,30,50,179,5,3,No,No,No,None,Well-being
+8790,25,92,200,2,6,No,No,Yes,None,Well-being
+5138,35,95,177,6,1,Yes,No,Yes,Alzheimer's Disease,Care
+9586,36,75,166,7,6,No,No,No,None,Well-being
+4024,35,97,160,5,1,No,No,Yes,None,Well-being
+7165,30,100,159,2,6,Yes,No,No,Alzheimer's Disease,Care
+3918,31,72,154,0,6,No,No,Yes,Tuberculosis,Care
+2521,24,78,159,5,1,No,No,Yes,Alzheimer's Disease,Care
+7626,34,60,195,0,4,No,Yes,No,Respiratory Problem,Care
+9765,46,83,162,7,0,Yes,No,Yes,Heart Problem,Care
+5615,38,87,178,1,5,No,Yes,No,Heart Problem,Care
+5877,25,61,166,1,2,No,No,Yes,None,Well-being
+6658,29,59,176,5,4,No,No,Yes,Alzheimer's Disease,Care
+5947,30,98,182,6,1,No,No,No,Heart Problem,Care
+8158,41,91,200,2,4,No,No,No,None,Well-being
+6212,49,100,165,6,7,No,No,No,None,Well-being
+1205,27,80,167,4,6,No,No,Yes,None,Well-being
+9676,37,75,194,1,2,No,No,No,Alzheimer's Disease,Care
+6767,39,95,178,4,3,No,No,Yes,None,Well-being
+1054,24,94,195,7,6,No,No,No,Heart Problem,Care
+6325,29,94,150,1,7,No,Yes,Yes,None,Well-being
+4920,44,89,190,4,3,No,No,Yes,Cancer,Care
+8559,23,90,175,1,4,No,No,No,None,Well-being
+5260,26,87,158,1,2,No,No,Yes,None,Well-being
+6942,49,85,179,0,6,No,No,Yes,None,Well-being
+3430,36,52,196,3,0,No,No,Yes,Heart Problem,Care
+4996,28,69,154,1,0,No,No,No,None,Well-being
+4522,31,54,199,7,1,No,No,Yes,Heart Problem,Care
+6384,38,78,153,4,6,Yes,No,No,Cancer,Care
+9348,44,100,192,0,7,No,No,No,None,Well-being
+5916,43,62,156,1,0,No,Yes,No,Respiratory Problem,Care
+5413,26,80,196,7,2,No,No,Yes,Tuberculosis,Care
+7697,33,99,159,2,7,No,No,Yes,Heart Problem,Care
+8210,29,85,153,6,5,No,No,No,None,Well-being
+5522,28,87,186,5,4,No,Yes,Yes,None,Well-being
+6371,33,89,163,3,7,No,No,Yes,None,Well-being
+5243,38,72,151,1,2,No,Yes,No,None,Well-being
+8060,28,61,166,1,0,No,Yes,No,None,Well-being
+5441,28,58,200,3,3,No,No,Yes,Other,Care
+4369,32,62,184,4,2,No,Yes,No,None,Well-being
+3905,44,80,200,1,2,No,No,No,None,Well-being
+1491,36,90,200,0,3,No,No,No,Other,Care
+1244,27,58,198,1,4,No,No,No,Other,Care
+5208,44,76,173,7,5,No,No,Yes,Cancer,Care
+2724,32,64,156,1,1,No,No,Yes,None,Well-being
+3984,21,98,195,4,0,No,No,Yes,None,Well-being
+8425,33,80,191,2,6,No,No,Yes,Alzheimer's Disease,Care
+7988,38,79,171,1,5,No,No,No,Other,Care
+9370,49,50,181,5,5,No,No,No,None,Well-being
+9697,52,86,200,0,2,Yes,No,Yes,None,Well-being
+3230,47,74,163,6,1,No,Yes,Yes,None,Well-being
+4972,33,88,181,0,2,Yes,No,Yes,Alzheimer's Disease,Care
+5513,32,58,184,6,7,No,No,No,Alzheimer's Disease,Care
+5185,57,92,180,2,4,No,No,No,Cancer,Care
+5354,27,97,155,4,7,No,No,No,Other,Care
+6909,29,89,196,6,7,No,No,No,Heart Problem,Care
+6389,24,60,167,4,1,No,No,Yes,Other,Care
+9966,27,54,198,1,5,No,Yes,Yes,Heart Problem,Care
+2481,38,75,162,6,0,Yes,Yes,No,Tuberculosis,Care
+5853,27,85,192,3,7,Yes,No,No,Respiratory Problem,Care
+7311,37,98,150,4,2,No,Yes,No,None,Well-being
+4587,28,90,183,1,6,No,No,No,Heart Problem,Care
+3109,30,51,150,5,3,No,Yes,No,Heart Problem,Care
+8146,45,76,182,1,5,No,No,No,None,Well-being
+9041,42,79,164,1,4,No,No,Yes,Alzheimer's Disease,Care
+1111,27,88,170,6,2,No,No,No,Tuberculosis,Care
+9109,34,88,187,7,6,No,No,No,None,Well-being
+8051,34,77,198,3,1,Yes,No,Yes,Respiratory Problem,Care
+1969,37,58,167,5,0,No,No,No,Cancer,Care
+9162,33,96,164,6,5,No,No,Yes,Other,Care
+2765,33,63,158,1,2,No,No,No,Alzheimer's Disease,Care
+2072,43,90,162,4,7,Yes,No,Yes,Respiratory Problem,Care
+3219,33,100,180,0,6,No,Yes,No,Tuberculosis,Care
+5705,36,74,179,4,7,No,No,Yes,Tuberculosis,Care
+7306,44,50,150,5,7,No,No,Yes,None,Well-being
+1255,26,52,157,6,2,Yes,No,Yes,None,Well-being
+7927,24,94,173,0,6,No,No,Yes,Heart Problem,Care
+7479,28,59,166,7,2,No,No,No,None,Well-being
+5202,37,55,183,3,6,Yes,No,No,None,Well-being
+9490,30,76,198,1,1,No,No,Yes,Respiratory Problem,Care
+1716,23,60,181,0,1,Yes,No,No,None,Well-being
+6503,33,95,158,3,7,Yes,No,Yes,None,Well-being
+7716,31,76,178,1,2,Yes,Yes,Yes,Heart Problem,Care
+2211,26,50,192,0,1,No,No,Yes,None,Well-being
+6782,33,77,171,5,5,No,No,No,None,Well-being
+6954,47,79,194,6,2,Yes,Yes,No,None,Well-being
+3567,37,93,192,7,6,No,No,No,None,Well-being
+5025,28,88,181,6,1,No,No,No,Other,Care
+3467,28,88,162,2,0,Yes,No,Yes,None,Well-being
+8693,29,57,180,3,3,No,No,No,Heart Problem,Care
+6937,42,80,192,1,2,No,No,Yes,None,Well-being
+4229,41,74,195,6,6,No,No,Yes,Heart Problem,Care
+5591,35,70,174,0,4,Yes,No,No,None,Well-being
+1514,38,87,164,1,6,Yes,No,Yes,None,Well-being
+9398,39,94,157,4,7,No,No,Yes,None,Well-being
+6220,40,99,161,7,6,No,No,No,Respiratory Problem,Care
+8549,38,68,168,3,6,Yes,No,No,None,Well-being
+4239,47,62,197,0,5,No,No,No,None,Well-being
+6922,26,61,153,1,5,No,No,No,Other,Care
+6781,42,99,194,1,7,No,No,Yes,None,Well-being
+3474,41,86,180,4,1,No,Yes,Yes,None,Well-being
+9177,31,94,151,6,7,No,No,No,None,Well-being
+7062,31,94,161,0,7,No,Yes,Yes,Alzheimer's Disease,Care
+1967,39,92,150,3,4,Yes,No,No,Cancer,Care
+4193,40,70,183,5,3,No,No,Yes,Heart Problem,Care
+8276,35,72,167,2,6,Yes,No,Yes,None,Well-being
+1915,28,90,196,4,3,No,No,No,None,Well-being
+6629,41,84,157,6,1,No,Yes,No,None,Well-being
+4694,29,69,187,7,1,No,No,No,None,Well-being
+2113,43,74,161,5,6,No,No,Yes,None,Well-being
+4368,48,93,188,6,7,No,No,No,None,Well-being
+3964,38,55,169,6,5,No,No,Yes,Alzheimer's Disease,Care
+1819,29,96,158,7,7,No,No,No,None,Well-being
+5873,41,72,165,0,7,No,No,No,None,Well-being
+8859,27,60,173,1,5,No,No,No,None,Well-being
+1399,42,91,182,0,7,No,No,Yes,Heart Problem,Care
+9922,47,62,155,2,6,Yes,No,Yes,None,Well-being
+3418,36,92,178,2,2,No,No,Yes,None,Well-being
+9850,29,92,167,1,6,No,No,No,Respiratory Problem,Care
+3698,42,97,174,2,1,No,No,Yes,Tuberculosis,Care
+1509,32,68,181,1,6,No,Yes,No,Alzheimer's Disease,Care
+6751,26,62,180,1,2,Yes,No,No,Respiratory Problem,Care
+6527,58,55,153,6,6,No,No,No,Alzheimer's Disease,Care
+3969,28,73,167,5,6,No,No,Yes,Heart Problem,Care
+6429,45,67,188,1,6,Yes,No,Yes,Tuberculosis,Care
+9083,26,73,197,5,3,No,No,Yes,None,Well-being
+8044,38,56,154,5,4,No,No,Yes,None,Well-being
+4039,35,57,177,1,7,No,No,No,Heart Problem,Care
+5969,30,53,200,3,6,No,No,No,Heart Problem,Care
+3382,26,87,194,0,7,No,No,Yes,None,Well-being
+7465,42,65,168,0,2,No,No,Yes,None,Well-being
+8090,32,91,172,5,5,No,No,No,None,Well-being
+3248,41,96,167,2,4,No,No,No,None,Well-being
+4922,23,74,191,4,3,No,No,Yes,None,Well-being
+9521,42,96,196,6,5,No,No,Yes,Other,Care
+8521,43,96,161,4,0,No,No,No,None,Well-being
+7889,37,96,198,0,1,No,Yes,No,None,Well-being
+9986,30,55,167,2,0,No,Yes,No,None,Well-being
+5370,32,98,186,7,2,No,No,Yes,None,Well-being
+5419,35,51,164,6,6,No,No,Yes,None,Well-being
+8130,33,57,173,1,0,No,Yes,No,None,Well-being
+4393,30,72,156,4,7,No,No,No,None,Well-being
+9043,43,70,159,6,7,No,No,Yes,Heart Problem,Care
+6973,28,58,161,6,5,No,No,No,Other,Care
+8141,43,91,165,6,6,No,No,Yes,None,Well-being
+3751,31,94,197,3,1,No,Yes,No,Heart Problem,Care
+7021,35,85,176,3,3,No,Yes,Yes,None,Well-being
+3331,41,77,173,0,1,No,Yes,No,None,Well-being
+7333,28,80,197,2,4,No,No,Yes,None,Well-being
+3391,29,60,150,6,6,No,No,No,None,Well-being
+1834,32,77,160,4,1,No,No,Yes,Alzheimer's Disease,Care
+4216,35,97,185,1,7,No,No,Yes,Other,Care
+5180,48,54,173,5,0,No,Yes,Yes,Alzheimer's Disease,Care
+5228,24,86,186,0,7,Yes,No,No,Heart Problem,Care
+7630,30,75,196,5,2,No,Yes,Yes,None,Well-being
+7869,33,93,179,1,1,No,No,Yes,None,Well-being
+9058,38,88,191,5,7,No,No,Yes,None,Well-being
+2348,33,86,190,7,1,No,Yes,No,None,Well-being
+2433,26,70,160,4,2,Yes,No,Yes,Heart Problem,Care
+9619,33,66,198,7,2,No,No,Yes,Other,Care
+6877,28,89,170,5,1,No,No,Yes,None,Well-being
+7402,41,94,185,0,2,No,No,Yes,Other,Care
+3689,49,91,184,7,1,Yes,No,No,None,Well-being
+1151,34,70,171,7,3,No,No,Yes,Heart Problem,Care
+8453,26,73,200,6,7,No,No,Yes,None,Well-being
+4651,27,75,155,4,7,No,No,No,Cancer,Care
+4847,31,69,160,3,5,No,No,No,None,Well-being
+5230,44,86,174,0,3,Yes,No,No,Tuberculosis,Care
+5424,27,79,159,7,5,No,No,Yes,None,Well-being
+2415,27,87,156,0,3,No,Yes,No,None,Well-being
+8920,23,93,186,0,5,No,Yes,No,None,Well-being
+6823,35,76,176,5,5,No,No,No,Tuberculosis,Care
+1532,26,85,188,2,6,No,No,No,Other,Care
+4478,26,89,176,1,7,No,No,No,None,Well-being
+5408,43,76,163,3,7,No,Yes,No,None,Well-being
+5056,36,100,164,4,4,No,No,No,None,Well-being
+4897,37,70,171,2,6,No,No,Yes,None,Well-being
+2877,28,90,174,2,6,No,No,Yes,Heart Problem,Care
+3178,45,100,175,4,2,No,No,Yes,Other,Care
+9501,42,95,184,1,6,Yes,No,No,None,Well-being
+8099,34,64,169,3,3,No,No,Yes,Cancer,Care
+2069,27,56,157,7,1,Yes,No,No,Heart Problem,Care
+8961,45,100,151,6,1,No,No,Yes,Other,Care
+2755,26,69,150,2,0,Yes,No,Yes,None,Well-being
+4069,34,66,157,3,0,No,No,No,Alzheimer's Disease,Care
+6507,25,62,155,5,4,No,No,Yes,None,Well-being
+7756,48,95,167,6,1,No,No,Yes,None,Well-being
+8370,33,77,188,4,5,No,No,Yes,None,Well-being
+9020,26,82,166,6,4,No,No,No,None,Well-being
+3691,25,59,199,5,1,Yes,No,No,Alzheimer's Disease,Care
+3581,42,88,163,3,1,No,No,No,None,Well-being
+3215,29,70,170,3,3,Yes,No,Yes,Cancer,Care
+2532,22,51,191,0,7,No,No,Yes,None,Well-being
+9957,32,54,180,1,6,No,No,No,Other,Care
+8877,55,75,169,7,7,No,No,Yes,Other,Care
+3423,30,50,158,1,5,No,No,Yes,Heart Problem,Care
+1800,54,50,194,0,4,No,Yes,Yes,Tuberculosis,Care
+9383,48,58,187,7,1,Yes,No,No,None,Well-being
+1278,37,57,183,3,7,No,No,Yes,None,Well-being
+5237,28,65,192,3,1,Yes,No,Yes,None,Well-being
+3799,38,98,169,7,2,No,Yes,Yes,None,Well-being
+7392,32,62,154,4,6,Yes,No,No,None,Well-being
+7736,36,61,167,0,7,No,No,Yes,None,Well-being
+6569,28,67,173,1,0,No,No,Yes,Cancer,Care
+6292,29,52,186,4,3,Yes,Yes,Yes,None,Well-being
+1481,39,96,194,4,7,No,No,Yes,Cancer,Care
+2961,35,94,189,7,4,No,No,Yes,None,Well-being
+5505,23,61,166,1,2,No,No,No,None,Well-being
+2448,40,51,186,4,3,No,Yes,Yes,Heart Problem,Care
+8952,33,72,169,5,7,No,No,No,Heart Problem,Care
+8330,28,72,181,0,3,No,No,Yes,Alzheimer's Disease,Care
+1376,43,93,172,5,6,No,No,Yes,Respiratory Problem,Care
+1286,32,77,200,7,5,No,No,Yes,None,Well-being
+5358,33,60,169,7,4,Yes,No,Yes,Alzheimer's Disease,Care
+5375,40,50,177,5,0,Yes,Yes,No,None,Well-being
+1903,31,95,167,2,3,No,No,Yes,Heart Problem,Care
+2198,23,74,177,6,1,No,No,No,Respiratory Problem,Care
+9114,27,66,158,6,3,No,Yes,No,None,Well-being
+1781,41,77,156,2,7,No,No,No,Other,Care
+6147,26,89,169,3,5,Yes,No,No,Cancer,Care
+7912,37,50,179,7,0,Yes,No,No,Respiratory Problem,Care
+1805,36,71,153,1,0,No,No,No,None,Well-being
+5098,37,96,150,7,3,Yes,Yes,No,Respiratory Problem,Care
+3988,33,57,169,6,7,No,No,No,None,Well-being
+7636,27,90,151,2,2,No,No,Yes,None,Well-being
+6997,31,92,156,7,5,No,No,No,Respiratory Problem,Care
+8482,31,92,189,7,0,No,No,Yes,None,Well-being
+9884,45,82,163,5,6,No,No,Yes,None,Well-being
+8231,40,58,167,4,6,Yes,No,Yes,None,Well-being
+9719,27,82,199,4,2,No,No,No,None,Well-being
+4890,41,96,160,3,1,No,No,No,Tuberculosis,Care
+5396,35,57,152,1,7,No,No,No,None,Well-being
+2689,44,66,181,7,4,No,No,Yes,None,Well-being
+2674,32,92,156,3,0,No,No,Yes,Other,Care
+5707,40,96,196,7,3,No,No,Yes,Other,Care
+7983,47,74,154,1,2,No,No,Yes,Alzheimer's Disease,Care
+3156,40,68,166,6,5,No,No,No,Heart Problem,Care
+6444,44,53,184,1,7,No,No,No,Heart Problem,Care
+4638,39,86,189,0,5,No,No,No,None,Well-being
+2734,47,77,180,4,3,Yes,Yes,No,None,Well-being
+8588,42,51,185,7,0,No,No,Yes,None,Well-being
+1535,36,89,173,5,3,No,No,Yes,Heart Problem,Care
+8256,34,50,196,3,0,Yes,Yes,Yes,Heart Problem,Care
+7997,38,80,192,1,1,Yes,No,Yes,None,Well-being
+3001,31,73,199,4,3,No,No,No,None,Well-being
+8320,28,63,158,3,4,No,No,Yes,None,Well-being
+9010,29,67,167,6,4,No,Yes,Yes,None,Well-being
+5949,33,52,184,5,0,No,No,Yes,None,Well-being
+3743,48,97,198,0,1,No,No,No,Cancer,Care
+9189,33,96,186,4,2,No,No,No,Alzheimer's Disease,Care
+7597,34,55,165,4,5,No,Yes,Yes,Cancer,Care
+4414,32,86,192,5,4,No,No,Yes,Heart Problem,Care
+6351,40,55,167,5,1,No,No,No,Cancer,Care
+3135,53,52,161,7,5,No,No,Yes,None,Well-being
+8259,25,88,165,5,1,Yes,No,No,Alzheimer's Disease,Care
+3598,47,68,159,0,5,No,No,No,None,Well-being
+2063,40,59,187,0,1,No,No,No,None,Well-being
+1973,37,63,174,0,2,No,No,Yes,Heart Problem,Care
+9458,37,90,185,6,1,No,No,Yes,Other,Care
+5038,36,86,168,3,5,No,No,Yes,Other,Care
+6821,24,96,176,5,1,No,No,No,None,Well-being
+8200,31,86,158,3,6,No,No,No,None,Well-being
+7602,31,99,162,2,7,Yes,Yes,Yes,None,Well-being
+5303,25,77,151,2,1,Yes,No,No,None,Well-being
+9141,22,71,171,1,0,Yes,No,No,None,Well-being
+2631,34,94,158,2,1,Yes,Yes,No,None,Well-being
+1899,25,71,153,6,4,No,No,Yes,Respiratory Problem,Care
+8281,36,86,189,5,1,No,Yes,Yes,Other,Care
+8393,32,56,163,2,0,No,Yes,No,None,Well-being
+1767,30,86,177,7,2,No,No,Yes,None,Well-being
+7938,51,58,167,1,5,No,No,Yes,Heart Problem,Care
+1740,25,52,177,1,5,Yes,No,No,None,Well-being
+1190,44,74,164,3,4,No,No,Yes,Other,Care
+5067,51,81,185,3,2,Yes,No,No,None,Well-being
+1717,34,68,192,7,7,No,No,Yes,Other,Care
+5482,51,70,165,6,1,Yes,No,No,Tuberculosis,Care
+3383,35,81,188,6,3,Yes,No,Yes,None,Well-being
+7485,33,75,178,6,6,No,No,Yes,Alzheimer's Disease,Care
+8827,47,64,186,2,3,No,Yes,No,None,Well-being
+7730,27,54,191,0,3,No,Yes,Yes,None,Well-being
+5099,26,73,171,6,3,No,No,Yes,None,Well-being
+6966,30,100,181,0,2,No,Yes,No,None,Well-being
+4019,41,97,167,1,1,Yes,No,No,Other,Care
+8404,30,100,175,3,4,No,No,No,Tuberculosis,Care
+9247,32,64,176,4,7,No,No,No,Other,Care
+1876,35,64,186,0,6,No,No,Yes,Respiratory Problem,Care
+3864,28,63,181,3,1,Yes,No,Yes,None,Well-being
+5672,34,66,176,4,5,No,Yes,No,None,Well-being
+7523,27,85,200,7,7,No,No,Yes,None,Well-being
+1193,36,58,198,0,2,No,Yes,Yes,None,Well-being
+6889,29,85,176,6,0,No,No,Yes,None,Well-being
+6251,31,73,186,2,2,No,No,No,None,Well-being
+8884,35,80,150,5,6,No,No,No,Heart Problem,Care
+4709,20,79,171,1,0,No,No,Yes,None,Well-being
+9432,32,62,167,4,6,No,No,No,Other,Care
+7323,34,56,196,3,4,Yes,No,Yes,None,Well-being
+4854,45,87,188,4,7,No,Yes,Yes,Alzheimer's Disease,Care
+2600,36,80,150,5,1,No,Yes,No,Other,Care
+7388,31,57,165,6,6,No,No,Yes,None,Well-being
+8522,46,77,185,7,7,No,No,Yes,None,Well-being
+8024,32,79,199,5,6,No,No,No,None,Well-being
+2288,32,83,162,0,4,No,No,No,None,Well-being
+2478,30,95,166,4,0,No,No,No,None,Well-being
+3665,40,97,191,1,0,No,No,No,None,Well-being
+1743,44,53,170,1,4,No,Yes,No,Heart Problem,Care
+1965,27,83,150,6,6,No,No,Yes,None,Well-being
+8002,40,52,167,3,6,Yes,No,No,Heart Problem,Care
+5201,46,55,157,1,2,No,Yes,No,None,Well-being
+5212,36,79,155,3,4,No,No,No,Respiratory Problem,Care
+6763,31,95,168,2,4,Yes,No,Yes,Respiratory Problem,Care
+4733,39,55,181,5,5,No,No,Yes,None,Well-being
+2666,34,86,163,6,5,No,No,Yes,Tuberculosis,Care
+7653,24,67,155,3,4,No,No,No,None,Well-being
+1831,35,70,173,6,0,No,Yes,Yes,None,Well-being
+4542,28,61,198,0,7,No,No,No,Other,Care
+9892,48,52,164,1,6,No,No,No,None,Well-being
+4958,33,98,158,2,5,No,Yes,Yes,None,Well-being
+7176,33,65,163,6,1,No,Yes,No,None,Well-being
+4008,37,80,192,6,7,No,No,Yes,Respiratory Problem,Care
+1523,40,68,193,6,6,No,No,No,None,Well-being
+4603,34,75,154,3,2,No,Yes,Yes,Heart Problem,Care
+1760,36,61,160,6,1,No,Yes,No,Respiratory Problem,Care
+1404,31,86,182,6,7,No,No,No,Other,Care
+3800,38,80,195,5,5,No,No,Yes,None,Well-being
+2336,38,95,187,4,3,No,No,No,Other,Care
+7151,37,93,168,0,4,Yes,No,Yes,Tuberculosis,Care
+1884,31,52,184,6,3,Yes,No,Yes,Respiratory Problem,Care
+9159,33,54,170,5,0,Yes,No,No,None,Well-being
+4228,30,97,166,1,6,No,No,No,None,Well-being
+1477,36,73,186,7,3,No,No,No,None,Well-being
+7011,32,63,151,6,2,No,No,No,None,Well-being
+5173,31,71,184,6,7,No,No,Yes,Tuberculosis,Care
+4109,58,60,193,6,4,No,No,No,Heart Problem,Care
+2661,23,70,178,7,0,Yes,No,No,None,Well-being
+2386,37,65,174,2,6,No,No,Yes,Alzheimer's Disease,Care
+4684,25,60,199,6,6,No,No,No,Cancer,Care
+5400,33,90,198,5,6,No,No,No,Cancer,Care
+6293,40,84,171,7,2,No,Yes,No,Other,Care
+5684,28,89,182,1,6,No,No,Yes,None,Well-being
+7760,24,100,191,6,3,No,Yes,Yes,None,Well-being
+5601,37,78,165,2,7,No,Yes,No,Tuberculosis,Care
+7732,29,54,150,0,6,No,No,No,Heart Problem,Care
+2014,27,88,191,0,7,No,No,Yes,Other,Care
+3919,32,82,190,7,6,No,No,No,None,Well-being
+2992,47,76,192,5,2,No,No,Yes,Heart Problem,Care
+4716,31,81,198,3,4,No,No,Yes,Other,Care
+9311,30,51,164,5,5,No,No,No,None,Well-being
+4275,31,58,159,4,6,No,No,No,None,Well-being
+6313,26,60,172,2,5,No,No,No,None,Well-being
+6795,32,74,150,1,5,No,No,Yes,None,Well-being
+4871,45,81,179,0,3,No,No,Yes,None,Well-being
+6986,27,84,197,1,0,No,No,Yes,None,Well-being
+5385,28,61,152,4,4,Yes,Yes,No,Heart Problem,Care
+1986,38,64,165,7,7,No,No,Yes,None,Well-being
+4306,40,86,150,6,1,No,No,No,None,Well-being
+4407,44,67,181,2,5,No,No,No,Cancer,Care
+3371,24,85,182,4,7,Yes,No,Yes,Heart Problem,Care
+1019,31,61,154,6,4,Yes,No,Yes,None,Well-being
+7989,40,64,163,4,4,No,No,Yes,Tuberculosis,Care
+4055,26,60,162,6,2,No,No,Yes,None,Well-being
+7029,43,96,167,3,4,No,No,Yes,Respiratory Problem,Care
+7782,40,86,175,6,0,No,No,No,Other,Care
+5234,26,95,162,3,4,No,No,Yes,None,Well-being
+8815,30,67,156,1,3,Yes,No,No,None,Well-being
+3839,31,94,195,7,3,No,No,Yes,Respiratory Problem,Care
+5557,36,68,157,7,2,No,Yes,No,None,Well-being
+8560,32,62,185,1,7,No,No,No,Cancer,Care
+6906,28,99,199,1,5,No,No,No,None,Well-being
+3223,46,51,158,1,6,No,No,No,None,Well-being
+9851,30,68,186,5,1,No,No,No,None,Well-being
+6517,33,89,191,3,1,No,No,Yes,Other,Care
+2766,38,61,191,5,7,No,No,No,Other,Care
+7993,30,77,159,4,3,No,No,No,None,Well-being
+4551,38,59,163,4,2,Yes,No,No,Heart Problem,Care
+6894,31,69,160,6,4,No,No,No,Heart Problem,Care
+9745,48,51,178,3,6,Yes,No,Yes,None,Well-being
+1772,29,82,187,1,2,No,Yes,Yes,None,Well-being
+5125,31,55,182,5,7,No,No,Yes,Heart Problem,Care
+9332,41,54,177,4,3,No,Yes,No,Other,Care
+8343,43,65,161,0,2,No,Yes,Yes,Heart Problem,Care
+7725,33,60,176,2,2,No,No,No,None,Well-being
+5246,49,75,190,5,4,No,Yes,Yes,Heart Problem,Care
+2371,25,88,196,2,2,Yes,No,Yes,Other,Care
+5881,33,88,190,0,4,No,No,Yes,Tuberculosis,Care
+8871,31,80,181,3,2,No,Yes,No,Alzheimer's Disease,Care
+8315,34,61,196,4,5,No,No,No,None,Well-being
+1343,29,70,177,5,2,No,No,Yes,None,Well-being
+3940,35,52,200,3,2,No,Yes,Yes,None,Well-being
+8081,26,99,182,5,5,No,No,Yes,None,Well-being
+2364,33,71,198,4,1,No,No,Yes,None,Well-being
+4696,33,58,172,4,7,No,No,Yes,None,Well-being
+7922,35,82,162,2,3,No,Yes,No,None,Well-being
+6798,33,73,184,3,2,No,Yes,Yes,None,Well-being
+1368,30,77,162,4,0,No,No,Yes,None,Well-being
+6766,28,96,169,0,1,No,No,Yes,None,Well-being
+9503,37,58,159,7,2,No,No,No,Alzheimer's Disease,Care
+3730,30,65,172,1,3,No,No,No,Respiratory Problem,Care
+3935,39,93,167,5,0,No,No,No,None,Well-being
+2736,31,57,184,7,2,Yes,No,No,Tuberculosis,Care
+6830,27,83,156,1,5,No,No,Yes,None,Well-being
+1319,24,67,166,5,6,No,No,Yes,Heart Problem,Care
+1708,42,64,187,6,4,Yes,No,No,None,Well-being
+8826,24,92,174,0,1,No,No,No,None,Well-being
+8870,33,95,197,0,5,No,No,Yes,None,Well-being
+5709,47,63,186,2,0,No,No,Yes,Other,Care
+5435,34,72,172,3,4,No,Yes,Yes,None,Well-being
+2894,45,72,199,2,7,No,No,No,None,Well-being
+8726,31,56,196,1,6,No,No,Yes,Other,Care
+4328,27,70,151,1,3,No,No,No,None,Well-being
+1613,34,94,154,3,1,Yes,No,No,Other,Care
+2025,25,56,197,4,1,No,No,No,Alzheimer's Disease,Care
+7250,35,78,191,3,2,Yes,No,Yes,None,Well-being
+8045,28,62,176,2,6,No,No,No,None,Well-being
+1277,34,77,173,5,3,No,No,No,Respiratory Problem,Care
+8176,24,58,156,7,5,No,No,Yes,Tuberculosis,Care
+2212,33,79,167,0,7,No,No,Yes,None,Well-being
+9570,45,96,167,4,0,No,No,No,None,Well-being
+6514,38,84,194,4,5,No,No,No,Other,Care
+4621,49,89,153,5,1,No,Yes,Yes,Other,Care
+9726,39,91,181,1,5,Yes,No,No,None,Well-being
+1999,50,66,181,1,2,No,No,Yes,None,Well-being
+4964,54,88,153,0,5,Yes,Yes,No,Heart Problem,Care
+8486,29,81,161,3,5,Yes,No,Yes,Other,Care
+2717,29,78,151,0,1,No,No,Yes,Tuberculosis,Care
+1354,44,78,157,1,5,No,Yes,No,Other,Care
+6744,27,80,192,1,1,No,No,No,None,Well-being
+5439,34,62,168,5,2,No,Yes,No,Other,Care
+6884,42,99,168,0,0,Yes,Yes,No,None,Well-being
+4052,51,53,184,0,0,No,No,Yes,None,Well-being
+1119,33,61,182,5,0,No,Yes,No,None,Well-being
+6071,40,63,186,0,0,No,No,No,None,Well-being
+4524,45,75,152,2,2,No,No,Yes,None,Well-being
+9908,36,91,197,4,6,No,No,Yes,Cancer,Care
+1567,42,90,194,6,0,No,No,No,Alzheimer's Disease,Care
+5159,29,81,154,2,5,Yes,No,No,None,Well-being
+3370,26,86,166,1,1,No,No,Yes,Heart Problem,Care
+5421,32,80,180,1,1,No,No,Yes,None,Well-being
+8705,35,78,197,2,7,No,Yes,No,None,Well-being
+2809,36,71,166,2,5,No,No,Yes,Other,Care
+9416,30,90,162,5,7,No,No,No,None,Well-being
+2451,37,70,173,0,2,No,No,Yes,Heart Problem,Care
+1159,56,51,191,7,6,No,No,Yes,None,Well-being
+7607,34,79,180,2,7,No,No,Yes,None,Well-being
+9101,35,77,169,2,0,No,No,No,Alzheimer's Disease,Care
+5002,34,92,175,2,3,No,No,No,None,Well-being
+1297,54,85,198,6,5,No,No,Yes,Respiratory Problem,Care
+9410,28,63,171,2,6,No,No,No,Heart Problem,Care
+2903,45,75,186,3,2,No,No,No,Respiratory Problem,Care
+7691,28,89,183,0,1,No,Yes,Yes,None,Well-being
+3049,29,89,170,7,7,No,No,Yes,None,Well-being
+7864,27,85,190,7,4,No,No,No,None,Well-being
+5251,35,94,173,7,2,No,Yes,Yes,None,Well-being
+7556,38,89,169,6,2,Yes,No,No,Respiratory Problem,Care
+6924,32,55,172,7,0,No,No,No,Other,Care
+7199,39,60,153,3,4,No,No,Yes,Cancer,Care
+2656,28,85,152,2,0,No,Yes,Yes,None,Well-being
+5710,35,73,182,6,6,No,No,Yes,Cancer,Care
+7577,48,98,156,3,1,Yes,Yes,No,Alzheimer's Disease,Care
+8645,32,90,179,5,1,No,Yes,Yes,None,Well-being
+6974,35,50,177,3,3,Yes,Yes,Yes,None,Well-being
+1921,43,80,168,0,7,Yes,Yes,Yes,Respiratory Problem,Care
+9773,45,98,154,3,2,No,No,Yes,Other,Care
+5803,38,90,168,3,6,No,No,Yes,Heart Problem,Care
+8735,34,54,153,1,7,No,No,No,None,Well-being
+7661,29,73,194,1,4,No,No,Yes,None,Well-being
+5797,35,62,164,2,0,No,No,No,Tuberculosis,Care
+7177,43,79,178,2,2,No,No,No,None,Well-being
+6398,34,77,200,2,2,No,Yes,Yes,Other,Care
+7280,40,81,188,7,6,No,No,Yes,None,Well-being
+9192,40,83,181,3,6,No,No,No,Tuberculosis,Care
+5857,26,73,194,2,5,No,No,Yes,Other,Care
+4046,36,80,200,4,5,No,No,Yes,Respiratory Problem,Care
+3266,40,65,165,7,7,No,No,No,Other,Care
+7070,44,99,162,4,2,No,No,Yes,Alzheimer's Disease,Care
+6270,37,67,170,7,5,No,No,No,None,Well-being
+8812,42,96,153,3,4,No,No,No,None,Well-being
+9057,31,59,178,6,2,No,No,Yes,Cancer,Care
+7960,31,70,151,1,0,No,No,Yes,Tuberculosis,Care
+5401,23,91,170,6,2,No,No,Yes,Cancer,Care
+7770,24,53,196,2,7,Yes,Yes,Yes,None,Well-being
+7515,25,72,171,1,6,No,Yes,Yes,Heart Problem,Care
+2425,43,63,178,2,1,No,No,Yes,Heart Problem,Care
+5976,37,94,164,7,0,Yes,No,No,None,Well-being
+1355,38,68,181,0,6,No,Yes,No,Alzheimer's Disease,Care
+9883,25,87,173,2,6,No,No,No,None,Well-being
+7131,35,66,175,1,4,No,No,No,None,Well-being
+5023,34,74,156,3,3,No,No,Yes,None,Well-being
+5414,38,90,164,4,3,No,No,Yes,Respiratory Problem,Care
+2232,34,75,188,2,7,No,No,No,None,Well-being
+3962,30,50,151,0,0,No,No,Yes,Other,Care
+3324,39,63,191,3,6,No,No,Yes,None,Well-being
+4772,51,63,157,0,7,Yes,Yes,No,Other,Care
+8552,30,94,186,7,1,No,Yes,Yes,None,Well-being
+8915,23,67,195,4,7,No,No,No,None,Well-being
+8828,42,81,200,3,0,No,Yes,Yes,None,Well-being
+3828,29,96,185,2,5,No,No,Yes,Other,Care
+2485,24,81,193,6,5,No,No,Yes,Respiratory Problem,Care
+7715,29,93,160,0,5,No,No,No,None,Well-being
+1766,40,100,163,6,1,No,No,No,None,Well-being
+1169,35,85,192,2,3,No,No,Yes,Tuberculosis,Care
+2526,37,83,192,6,3,No,No,No,None,Well-being
+7362,26,100,182,1,7,Yes,Yes,No,Alzheimer's Disease,Care
+8018,35,68,157,3,2,No,No,Yes,Other,Care
+3241,29,71,174,5,3,No,No,No,None,Well-being
+2272,26,66,194,7,6,No,No,Yes,None,Well-being
+3443,30,98,155,7,4,No,Yes,No,None,Well-being
+6952,38,65,188,7,0,No,No,No,Other,Care
+8209,35,87,193,0,7,Yes,Yes,Yes,None,Well-being
+9386,30,66,187,1,7,Yes,No,No,Heart Problem,Care
+6159,28,54,162,7,7,No,No,No,None,Well-being
+4374,24,94,157,1,2,Yes,No,No,None,Well-being
+3521,35,94,173,1,6,No,No,No,Other,Care
+9774,32,65,158,1,0,Yes,No,No,Other,Care
+6570,33,54,200,2,6,Yes,Yes,Yes,Tuberculosis,Care
+9224,39,82,200,0,1,No,No,No,Tuberculosis,Care
+7588,28,92,180,7,7,No,No,No,None,Well-being
+8650,30,82,159,1,7,No,No,No,Alzheimer's Disease,Care
+5837,28,77,152,5,6,No,No,No,Other,Care
+1963,37,80,189,6,2,No,No,Yes,Heart Problem,Care
+7961,22,95,199,2,0,No,No,Yes,None,Well-being
+7052,25,70,169,7,7,No,No,No,None,Well-being
+3119,29,86,158,7,5,No,No,Yes,None,Well-being
+2190,28,67,168,3,5,No,No,Yes,Respiratory Problem,Care
+8822,25,93,176,4,4,No,No,Yes,None,Well-being
+5047,30,73,195,5,3,No,No,Yes,None,Well-being
+2103,23,90,171,2,7,No,No,No,None,Well-being
+4803,33,66,181,7,4,No,No,Yes,None,Well-being
+2395,38,77,174,5,1,Yes,Yes,No,None,Well-being
+6035,30,97,193,6,3,Yes,No,Yes,Respiratory Problem,Care
+6728,37,64,164,4,5,No,Yes,No,Tuberculosis,Care
+5886,31,76,164,3,7,No,No,No,Cancer,Care
+6164,43,56,155,6,7,No,No,Yes,None,Well-being
+6992,36,83,171,5,0,No,No,No,None,Well-being
+5073,27,63,163,5,5,No,No,Yes,Alzheimer's Disease,Care
+4385,35,54,178,0,6,No,No,Yes,Other,Care
+9283,31,87,191,3,0,No,No,No,Heart Problem,Care
+7202,34,53,166,1,4,No,No,No,Cancer,Care
+8451,34,83,154,3,1,No,No,No,None,Well-being
+2040,33,77,160,3,0,No,Yes,No,Heart Problem,Care
+1222,30,96,161,2,2,No,Yes,No,None,Well-being
+7444,41,53,175,2,2,Yes,Yes,Yes,None,Well-being
+2937,34,65,179,2,1,No,Yes,No,Heart Problem,Care
+4058,25,83,181,6,6,No,No,No,None,Well-being
+6396,32,75,198,4,6,Yes,No,Yes,Heart Problem,Care
+7654,35,74,174,4,5,Yes,No,No,Alzheimer's Disease,Care
+7881,33,100,198,2,4,No,Yes,No,None,Well-being
+6982,52,90,156,4,5,Yes,No,Yes,None,Well-being
+2013,40,80,154,5,5,No,No,Yes,None,Well-being
+6240,37,75,171,7,5,No,No,Yes,None,Well-being
+3016,34,92,199,1,2,No,No,No,Other,Care
+5003,24,62,155,6,4,No,Yes,Yes,None,Well-being
+3183,34,66,163,0,1,Yes,Yes,No,None,Well-being
+8197,40,79,171,5,7,No,No,No,None,Well-being
+1002,30,83,159,4,3,No,Yes,Yes,Tuberculosis,Care
+1061,30,69,166,1,2,No,No,Yes,None,Well-being
+2235,27,97,175,6,5,No,No,No,None,Well-being
+7010,28,77,159,6,7,No,No,Yes,Tuberculosis,Care
+5298,57,77,165,4,3,No,Yes,Yes,Tuberculosis,Care
+9291,40,81,155,2,0,Yes,Yes,Yes,None,Well-being
+2652,37,52,160,4,5,Yes,No,Yes,Heart Problem,Care
+2199,37,56,167,4,1,No,No,Yes,None,Well-being
+8554,48,64,194,4,0,No,No,Yes,Other,Care
+7298,43,65,200,4,5,No,No,No,Heart Problem,Care
+5412,24,80,177,6,1,No,No,No,None,Well-being
+3305,29,72,154,0,0,No,No,Yes,None,Well-being
+3820,38,70,197,6,5,No,No,No,Respiratory Problem,Care
+7976,36,71,159,0,2,No,No,No,None,Well-being
+1794,35,90,173,5,5,No,No,No,None,Well-being
+6515,27,83,187,3,6,No,No,Yes,None,Well-being
+4649,33,79,152,4,5,Yes,No,No,Heart Problem,Care
+2862,39,70,187,3,7,No,No,No,None,Well-being
+3607,31,50,183,3,0,No,No,Yes,Heart Problem,Care
+1040,26,84,176,0,4,No,No,Yes,None,Well-being
+7788,41,65,174,5,2,No,No,No,Heart Problem,Care
+4735,26,97,196,4,2,No,No,Yes,None,Well-being
+1951,41,59,157,0,3,Yes,No,No,Cancer,Care
+8847,33,80,192,4,1,No,Yes,Yes,None,Well-being
+9847,33,89,200,1,1,Yes,No,No,None,Well-being
+4595,39,99,175,3,2,Yes,No,No,None,Well-being
+6372,31,74,170,5,3,No,Yes,Yes,None,Well-being
+1699,46,50,170,7,1,Yes,Yes,No,None,Well-being
+6098,29,96,198,5,1,No,Yes,No,Tuberculosis,Care
+7447,39,67,171,6,1,No,No,Yes,None,Well-being
+5374,30,58,183,1,5,Yes,No,No,Tuberculosis,Care
+1618,36,92,169,1,6,No,Yes,No,Other,Care
+8091,35,54,156,0,1,No,Yes,No,Other,Care
+5480,38,61,191,1,0,No,No,Yes,None,Well-being
+4954,27,50,193,4,3,No,No,Yes,None,Well-being
+7780,43,57,195,6,4,No,No,No,Other,Care
+4420,40,87,157,3,2,No,No,Yes,Heart Problem,Care
+1440,37,94,150,6,1,No,No,Yes,None,Well-being
+5035,30,90,159,3,6,No,No,No,None,Well-being
+9971,30,76,157,4,2,No,Yes,No,Other,Care
+4951,43,69,191,3,7,No,No,No,None,Well-being
+6190,28,82,191,2,1,No,No,Yes,Heart Problem,Care
+9656,31,75,151,1,1,No,No,No,None,Well-being
+1866,47,61,190,7,0,Yes,Yes,No,None,Well-being
+9228,32,87,162,6,5,No,No,Yes,Alzheimer's Disease,Care
+5195,38,56,186,2,3,No,Yes,Yes,None,Well-being
+3885,32,78,195,2,3,No,No,Yes,Cancer,Care
+9470,47,91,187,7,3,Yes,No,No,Heart Problem,Care
+5889,48,67,184,2,0,No,No,No,None,Well-being
+6842,42,64,186,4,0,No,No,Yes,Other,Care
+7623,36,86,151,4,3,Yes,Yes,No,None,Well-being
+7624,35,96,163,5,4,No,No,No,None,Well-being
+4318,40,60,163,1,2,No,No,No,Respiratory Problem,Care
+8536,41,84,192,3,7,No,No,No,Cancer,Care
+7717,34,74,199,7,1,No,Yes,No,None,Well-being
+1451,41,91,187,2,0,No,No,Yes,Respiratory Problem,Care
+1540,36,71,183,1,4,No,No,No,Heart Problem,Care
+4432,26,96,190,1,5,No,No,No,Tuberculosis,Care
+9532,30,98,197,1,1,No,No,No,Other,Care
+9357,38,97,188,0,2,No,No,No,None,Well-being
+3486,37,60,155,2,7,No,No,No,Respiratory Problem,Care
+9976,38,52,170,6,7,No,No,Yes,None,Well-being
+5520,48,55,173,4,2,No,No,Yes,Respiratory Problem,Care
+7584,26,69,160,6,0,No,Yes,Yes,Other,Care
+7271,37,100,151,2,2,Yes,No,Yes,Respiratory Problem,Care
+7747,44,66,191,2,7,No,No,No,Other,Care
+3340,37,67,165,2,1,Yes,No,No,None,Well-being
+2511,30,51,165,6,2,No,No,No,Alzheimer's Disease,Care
+8258,28,73,198,4,0,Yes,No,No,Other,Care
+9854,27,96,151,1,7,No,No,Yes,Cancer,Care
+8440,31,51,199,3,1,No,No,No,Respiratory Problem,Care
+1408,37,79,189,0,5,Yes,No,Yes,None,Well-being
+6294,34,87,170,1,6,No,No,No,Heart Problem,Care
+3510,52,100,157,0,3,No,Yes,No,Other,Care
+9389,26,98,170,6,1,No,No,Yes,None,Well-being
+4017,33,63,151,0,1,No,No,No,None,Well-being
+6538,28,71,180,7,4,No,No,No,None,Well-being
+3290,25,100,172,2,0,Yes,No,No,None,Well-being
+9873,54,68,164,3,6,No,No,Yes,Respiratory Problem,Care
+4529,44,60,163,2,1,No,No,Yes,Heart Problem,Care
+4697,35,76,197,0,5,No,No,Yes,Other,Care
+2048,41,57,197,2,6,No,Yes,Yes,Respiratory Problem,Care
+5844,29,88,155,0,6,Yes,No,Yes,None,Well-being
+2865,28,82,185,2,6,No,No,No,Other,Care
+6828,23,66,168,0,1,No,No,Yes,None,Well-being
+1473,40,63,164,5,1,Yes,No,Yes,None,Well-being
+7225,45,87,195,1,4,No,Yes,Yes,None,Well-being
+2611,32,98,188,6,6,No,No,No,None,Well-being
+6176,26,68,159,5,6,No,No,Yes,None,Well-being
+5718,39,62,161,3,1,Yes,No,No,Cancer,Care
+1888,37,51,185,7,2,No,Yes,No,None,Well-being
+8161,39,70,192,5,3,No,No,No,None,Well-being
+7668,30,51,185,2,6,No,No,No,Other,Care
+9898,33,77,156,2,3,No,No,Yes,None,Well-being
+5148,43,87,200,4,4,No,Yes,Yes,None,Well-being
+2533,28,74,154,0,1,No,No,No,Heart Problem,Care
+1585,39,51,153,1,6,No,No,Yes,Cancer,Care
+4559,34,99,161,3,7,No,No,Yes,Other,Care
+8385,36,78,178,4,6,Yes,No,Yes,Respiratory Problem,Care
+2748,41,85,155,7,7,No,No,No,None,Well-being
+1682,50,51,175,4,1,No,Yes,Yes,Heart Problem,Care
+3456,34,55,179,0,3,No,No,Yes,Respiratory Problem,Care
+8896,26,98,177,3,5,Yes,No,No,Tuberculosis,Care
+8569,23,53,196,2,5,Yes,No,Yes,Heart Problem,Care
+1072,43,65,178,3,4,No,No,No,None,Well-being
+8686,31,61,154,0,2,No,No,No,None,Well-being
+1787,34,83,176,2,5,No,No,No,None,Well-being
+5612,24,82,161,5,6,No,No,No,None,Well-being
+5661,28,57,179,7,0,No,No,Yes,Other,Care
+4062,31,74,184,2,1,No,Yes,Yes,Tuberculosis,Care
+2414,42,84,178,1,4,No,Yes,Yes,None,Well-being
+1858,32,79,198,0,4,No,No,No,None,Well-being
+3944,48,52,171,0,3,No,No,No,None,Well-being
+8088,28,71,197,1,1,No,No,No,Other,Care
+6832,26,55,172,2,3,No,No,Yes,Respiratory Problem,Care
+6857,33,78,167,6,1,No,Yes,No,None,Well-being
+7505,33,59,158,5,3,No,No,No,None,Well-being
+2739,29,93,190,3,5,Yes,No,Yes,None,Well-being
+1403,36,67,184,2,5,No,No,Yes,None,Well-being
+2520,32,65,190,2,4,No,No,Yes,None,Well-being
+7578,31,55,193,5,2,No,No,No,Other,Care
+1223,42,60,175,3,3,No,No,No,Respiratory Problem,Care
+5723,41,75,173,5,0,No,No,Yes,Other,Care
+9076,39,98,181,4,4,No,Yes,No,Respiratory Problem,Care
+5860,51,57,180,7,2,Yes,No,No,None,Well-being
+8548,30,70,162,1,3,No,No,No,None,Well-being
+6006,39,59,194,1,4,No,No,Yes,Other,Care
+8658,45,80,185,0,2,No,Yes,Yes,Alzheimer's Disease,Care
+4666,38,58,171,6,6,No,No,No,None,Well-being
+4025,45,69,160,2,7,No,No,No,None,Well-being
+2314,31,89,168,2,2,No,No,Yes,Heart Problem,Care
+7846,36,50,152,0,2,No,No,Yes,None,Well-being
+5216,36,70,154,3,0,No,No,No,None,Well-being
+8069,27,83,183,6,6,No,No,Yes,Other,Care
+7861,34,90,200,7,4,No,Yes,Yes,Other,Care
+2047,29,83,163,2,1,No,Yes,Yes,Alzheimer's Disease,Care
+8926,43,55,183,3,6,No,Yes,No,Other,Care
+2366,29,92,179,2,2,No,No,Yes,None,Well-being
+8930,48,55,182,7,6,No,No,No,Other,Care
+3909,43,91,180,2,1,No,No,Yes,None,Well-being
+3165,25,59,186,3,6,No,No,No,None,Well-being
+4850,28,65,185,2,3,No,No,Yes,None,Well-being
+4892,31,69,167,6,1,No,No,No,None,Well-being
+1379,38,81,189,1,2,No,No,No,None,Well-being
+4048,46,70,158,3,2,Yes,No,No,Heart Problem,Care
+8219,36,53,185,3,2,Yes,Yes,No,Other,Care
+7238,45,86,178,5,3,No,No,No,None,Well-being
+4546,26,69,165,6,1,No,No,No,Respiratory Problem,Care
+3378,30,91,186,2,5,No,Yes,Yes,Cancer,Care
+9615,46,62,150,6,7,No,No,Yes,None,Well-being
+2808,32,93,194,7,6,No,No,Yes,None,Well-being
+2551,43,75,156,2,2,Yes,No,Yes,Respiratory Problem,Care
+4461,33,97,196,3,0,No,Yes,Yes,Alzheimer's Disease,Care
+6702,46,59,198,4,2,Yes,No,No,None,Well-being
+4840,37,58,159,4,6,Yes,No,No,None,Well-being
+5461,29,91,150,3,5,Yes,No,Yes,Heart Problem,Care
+9880,37,98,158,3,0,No,Yes,No,Respiratory Problem,Care
+1142,33,60,180,3,7,No,Yes,No,Other,Care
+2522,40,87,151,6,3,Yes,No,No,None,Well-being
+5812,43,68,152,3,0,Yes,No,No,Other,Care
+1236,42,78,187,5,5,No,No,No,Cancer,Care
+2488,37,79,177,0,1,Yes,Yes,Yes,None,Well-being
+6096,32,78,175,4,1,No,No,Yes,Heart Problem,Care
+2071,35,82,152,6,7,No,No,No,Tuberculosis,Care
+4302,28,67,181,4,3,No,Yes,No,Heart Problem,Care
+6930,49,83,193,5,7,No,No,Yes,Heart Problem,Care
+6691,32,78,166,6,6,No,No,Yes,Heart Problem,Care
+7633,38,67,175,6,6,No,No,No,Heart Problem,Care
+9459,25,66,187,3,1,No,No,No,None,Well-being
+8214,36,92,195,1,5,No,Yes,No,None,Well-being
+7297,25,81,175,7,3,No,Yes,No,None,Well-being
+6490,48,68,156,6,6,No,No,Yes,None,Well-being
+9799,32,97,194,4,1,No,No,Yes,None,Well-being
+2377,38,53,182,7,2,Yes,No,No,None,Well-being
+7921,38,84,155,3,5,No,No,No,None,Well-being
+7908,26,57,155,7,0,No,No,No,None,Well-being
+8282,31,54,184,6,4,No,Yes,No,Other,Care
+9231,31,64,186,7,5,No,No,Yes,None,Well-being
+1369,23,86,155,4,6,Yes,No,Yes,Respiratory Problem,Care
+1762,38,88,192,6,2,No,No,No,None,Well-being
+4281,24,67,152,5,3,No,No,No,None,Well-being
+7538,40,93,194,3,5,No,No,No,Other,Care
+1000,37,52,188,6,4,No,No,No,None,Well-being
+3688,43,82,169,2,1,No,Yes,Yes,Other,Care
+3548,23,67,184,2,0,No,No,No,Alzheimer's Disease,Care
+5150,47,89,152,6,2,No,No,Yes,None,Well-being
+8878,22,51,189,1,1,No,No,No,None,Well-being
+9423,38,88,190,2,3,No,Yes,Yes,None,Well-being
+1948,25,52,166,5,1,No,No,No,None,Well-being
+3913,33,89,156,6,5,No,No,No,Cancer,Care
+4097,25,80,198,7,1,No,Yes,Yes,None,Well-being
+4165,30,96,150,6,7,No,No,Yes,Other,Care
+1964,38,75,190,6,4,No,No,No,None,Well-being
+2344,36,55,170,5,4,No,No,Yes,Respiratory Problem,Care
+9082,31,94,152,5,1,Yes,Yes,No,Heart Problem,Care
+3415,43,75,163,6,5,No,No,No,Respiratory Problem,Care
+7539,25,74,181,0,0,Yes,No,No,None,Well-being
+2536,25,85,189,6,6,No,No,No,Cancer,Care
+4893,25,99,170,3,3,No,No,Yes,Respiratory Problem,Care
+2304,32,74,200,2,2,No,No,Yes,Respiratory Problem,Care
+2999,24,53,150,6,2,No,Yes,Yes,Respiratory Problem,Care
+1922,34,80,194,7,4,No,No,No,Other,Care
+9762,32,84,183,6,0,Yes,No,No,Respiratory Problem,Care
+9355,30,85,158,3,1,Yes,No,No,Other,Care
+8493,25,76,200,4,2,No,No,Yes,Respiratory Problem,Care
+5394,41,80,171,3,6,No,No,Yes,None,Well-being
+9871,33,57,192,3,5,No,No,No,None,Well-being
+9292,32,68,191,7,5,No,No,No,Heart Problem,Care
+5465,30,98,197,7,1,No,No,Yes,Alzheimer's Disease,Care
+2031,35,62,185,6,2,No,No,Yes,Heart Problem,Care
+8438,46,65,152,4,5,No,Yes,Yes,None,Well-being
+1041,28,59,167,3,5,No,No,Yes,None,Well-being
+5897,28,75,178,7,4,No,Yes,Yes,None,Well-being
+8289,26,53,184,3,5,No,No,No,Other,Care
+8076,35,91,198,5,3,No,Yes,No,None,Well-being
+5299,39,87,177,2,0,No,No,Yes,None,Well-being
+7129,27,93,158,4,6,No,No,No,None,Well-being
+6933,32,67,158,3,3,No,Yes,Yes,None,Well-being
+1298,31,60,186,3,2,No,No,Yes,None,Well-being
+9180,37,57,150,2,3,Yes,Yes,Yes,None,Well-being
+6121,37,50,185,1,4,Yes,No,Yes,Heart Problem,Care
+8019,30,91,165,1,0,No,No,No,None,Well-being
+2744,26,76,187,5,1,Yes,Yes,No,Heart Problem,Care
+1412,26,67,171,6,7,No,No,No,Heart Problem,Care
+7259,29,64,168,0,7,No,Yes,No,None,Well-being
+7258,35,89,150,5,3,No,No,Yes,Respiratory Problem,Care
+1026,27,60,174,7,0,No,No,No,None,Well-being
+7114,35,92,191,7,1,No,No,No,Respiratory Problem,Care
+9208,35,65,158,0,1,Yes,No,No,Other,Care
+4779,51,61,174,0,4,No,No,Yes,None,Well-being
+6441,45,71,182,5,1,No,No,No,None,Well-being
+9427,56,91,185,2,4,Yes,No,Yes,Respiratory Problem,Care
+6345,36,66,196,5,4,No,Yes,No,None,Well-being
+1439,36,73,181,0,0,No,Yes,No,Alzheimer's Disease,Care
+4798,27,79,160,3,2,No,No,No,None,Well-being
+8136,44,100,167,0,0,Yes,No,No,None,Well-being
+5325,29,84,200,5,0,No,Yes,Yes,None,Well-being
+6585,28,73,150,2,7,No,Yes,No,Heart Problem,Care
+6752,45,100,178,0,2,Yes,Yes,Yes,Other,Care
+8193,40,95,170,4,3,No,Yes,No,Other,Care
+2399,27,76,172,2,4,No,No,Yes,None,Well-being
+5236,28,84,155,3,1,Yes,No,Yes,None,Well-being
+1795,29,54,179,4,3,No,No,No,Other,Care
+6095,33,59,176,0,6,No,No,Yes,None,Well-being
+3158,38,69,161,5,3,No,No,No,None,Well-being
+2853,41,78,167,0,6,No,No,Yes,Other,Care
+2287,34,71,199,5,1,Yes,No,Yes,Heart Problem,Care
+1171,32,74,156,0,2,No,No,No,None,Well-being
+6979,38,67,194,1,2,No,No,No,Respiratory Problem,Care
+3447,33,50,160,6,0,Yes,Yes,Yes,None,Well-being
+3046,28,89,171,0,7,No,No,Yes,None,Well-being
+8663,45,53,172,5,0,No,No,No,Heart Problem,Care
+6036,32,99,196,0,3,No,No,Yes,Tuberculosis,Care
+7860,28,89,194,4,1,Yes,No,No,Heart Problem,Care
+4960,31,65,173,5,2,Yes,No,Yes,Other,Care
+9547,39,74,195,7,7,No,No,No,None,Well-being
+2350,27,92,162,4,4,No,No,Yes,Alzheimer's Disease,Care
+8426,45,63,160,5,0,Yes,No,Yes,Cancer,Care
+3047,37,84,166,2,0,No,No,No,None,Well-being
+4473,39,76,193,0,5,No,No,No,None,Well-being
+8887,37,78,164,2,0,No,No,No,None,Well-being
+8514,27,86,161,1,2,No,No,Yes,Respiratory Problem,Care
+6255,37,83,161,1,4,No,No,Yes,None,Well-being
+9146,26,60,156,2,1,No,No,No,None,Well-being
+9789,37,56,177,1,1,No,No,Yes,None,Well-being
+8297,31,80,160,1,6,No,Yes,Yes,None,Well-being
+8751,31,88,159,7,2,No,No,No,Tuberculosis,Care
+1561,27,80,160,0,0,Yes,No,Yes,Respiratory Problem,Care
+8636,32,53,166,1,4,No,No,No,None,Well-being
+6679,37,76,173,3,0,No,No,No,Respiratory Problem,Care
+6531,26,94,159,3,2,Yes,No,Yes,None,Well-being
+3401,29,62,152,2,1,No,No,Yes,Other,Care
+8881,35,75,187,1,3,Yes,Yes,Yes,Respiratory Problem,Care
+6604,22,93,197,1,7,No,No,Yes,None,Well-being
+2595,24,100,151,4,3,No,No,No,Heart Problem,Care
+9550,28,53,173,6,5,No,No,No,Other,Care
+8669,35,75,159,1,6,No,Yes,No,None,Well-being
+8067,36,77,175,3,4,No,Yes,Yes,Other,Care
+7820,37,60,174,2,6,No,Yes,Yes,Respiratory Problem,Care
+2991,36,93,159,1,0,No,No,No,None,Well-being
+6600,37,69,195,1,6,No,No,Yes,Alzheimer's Disease,Care
+8739,29,64,165,4,3,No,Yes,No,Heart Problem,Care
+2070,34,73,196,4,5,No,No,Yes,None,Well-being
+7365,35,75,187,4,5,No,No,Yes,Other,Care
+5037,38,54,177,3,4,Yes,Yes,Yes,Heart Problem,Care
+1605,23,89,169,1,5,Yes,No,Yes,None,Well-being
+6843,32,67,158,3,5,No,No,Yes,Respiratory Problem,Care
+1434,37,100,160,6,1,No,No,Yes,None,Well-being
+2829,28,93,151,0,1,No,No,Yes,Respiratory Problem,Care
+4212,30,78,155,4,5,Yes,No,No,Cancer,Care
+1401,27,67,193,7,0,Yes,Yes,No,None,Well-being
+1080,46,100,171,2,3,No,No,Yes,Other,Care
+3844,28,50,157,4,0,No,Yes,No,None,Well-being
+1839,30,73,170,0,0,Yes,Yes,No,Respiratory Problem,Care
+8638,31,88,169,3,1,No,No,Yes,None,Well-being
+2083,27,74,189,5,5,No,No,Yes,None,Well-being
+7591,35,58,196,5,5,No,No,No,None,Well-being
+5229,32,62,183,2,0,No,No,No,None,Well-being
+6250,49,58,164,6,6,No,No,Yes,Other,Care
+1109,29,88,181,1,2,No,Yes,Yes,Heart Problem,Care
+2105,25,93,185,2,1,No,No,No,None,Well-being
+7438,45,99,175,7,3,No,No,Yes,Alzheimer's Disease,Care
+9597,32,95,182,0,1,No,No,No,Tuberculosis,Care
+8699,31,92,193,2,2,No,No,Yes,Respiratory Problem,Care
+1300,33,53,174,3,7,No,No,No,Respiratory Problem,Care
+3205,40,65,150,7,5,No,No,Yes,Respiratory Problem,Care
+2832,48,54,164,6,2,No,Yes,No,None,Well-being
+7405,25,67,200,7,0,No,No,Yes,Respiratory Problem,Care
+3123,50,96,167,1,1,No,No,Yes,Other,Care
+7102,26,61,153,7,0,No,Yes,Yes,None,Well-being
+1938,45,81,156,2,1,Yes,Yes,Yes,Alzheimer's Disease,Care
+6232,27,86,191,7,6,No,No,Yes,Heart Problem,Care
+9743,34,74,193,0,7,No,No,No,None,Well-being
+4360,29,55,190,6,5,No,No,No,None,Well-being
+9123,32,59,152,2,1,No,No,Yes,Tuberculosis,Care
+1838,40,68,180,0,0,Yes,No,No,Other,Care
+8403,40,78,187,7,4,No,Yes,No,Other,Care
+9140,36,72,170,3,7,Yes,No,Yes,Cancer,Care
+4167,28,90,186,5,2,No,No,Yes,Heart Problem,Care
+6571,37,60,183,2,7,No,No,Yes,None,Well-being
+3553,29,89,185,5,6,No,No,No,Alzheimer's Disease,Care
+6905,34,95,166,1,4,No,No,No,None,Well-being
+3520,38,66,167,7,4,No,No,No,Cancer,Care
+7078,27,53,187,5,6,No,No,No,Alzheimer's Disease,Care
+4545,28,83,187,4,1,No,Yes,Yes,None,Well-being
+3328,27,57,180,0,7,No,No,No,Respiratory Problem,Care
+1608,33,87,158,2,0,No,Yes,Yes,Other,Care
+2393,36,57,163,7,5,No,No,No,None,Well-being
+6310,31,55,186,3,1,No,No,Yes,Cancer,Care
+8506,47,92,197,2,0,No,Yes,Yes,Respiratory Problem,Care
+2166,26,93,192,6,0,Yes,No,No,None,Well-being
+7517,36,74,198,0,2,No,No,No,None,Well-being
+3187,47,100,200,5,0,Yes,No,No,Cancer,Care
+2941,23,83,159,3,0,Yes,Yes,Yes,None,Well-being
+9977,27,100,179,5,0,No,No,No,None,Well-being
+2738,25,61,164,4,7,Yes,Yes,Yes,None,Well-being
+8711,31,79,154,0,1,No,Yes,Yes,None,Well-being
+2887,26,79,196,1,7,No,No,Yes,Cancer,Care
+7125,27,84,164,7,2,No,No,Yes,None,Well-being
+6267,44,52,187,5,6,No,No,No,None,Well-being
+5618,37,78,186,1,2,Yes,Yes,No,Respiratory Problem,Care
+2320,39,54,179,0,7,No,Yes,No,Alzheimer's Disease,Care
+9876,30,72,161,5,1,No,Yes,Yes,Other,Care
+8126,40,61,174,5,4,No,No,No,Respiratory Problem,Care
+4971,26,68,169,7,0,No,No,Yes,None,Well-being
+6493,31,60,150,5,6,No,No,Yes,None,Well-being
+3887,29,92,163,2,5,No,No,Yes,Other,Care
+1234,41,75,172,1,2,No,Yes,No,None,Well-being
+6794,33,54,170,6,3,Yes,No,Yes,None,Well-being
+6178,32,92,196,2,6,Yes,No,Yes,None,Well-being
+2298,31,92,185,5,1,Yes,No,Yes,None,Well-being
+5800,40,64,195,2,1,No,Yes,No,Heart Problem,Care
+4984,32,82,192,1,5,No,No,No,None,Well-being
+6564,25,83,170,4,0,No,No,No,None,Well-being
+1684,49,86,182,7,7,No,No,No,None,Well-being
+7903,36,75,197,4,1,No,No,Yes,None,Well-being
+4395,23,54,162,2,0,No,Yes,Yes,None,Well-being
+7934,33,82,186,1,1,No,No,Yes,None,Well-being
+1873,24,56,191,2,3,Yes,No,Yes,None,Well-being
+1346,29,50,172,3,2,No,Yes,Yes,None,Well-being
+7076,43,72,185,2,6,No,No,No,None,Well-being
+3146,37,94,177,2,7,No,No,No,Respiratory Problem,Care
+1928,29,93,200,3,3,No,No,No,None,Well-being
+8838,48,56,165,6,4,No,Yes,No,Respiratory Problem,Care
+9230,25,95,188,2,1,No,No,No,Alzheimer's Disease,Care
+3710,31,54,183,7,5,No,No,No,Heart Problem,Care
+9655,35,91,152,6,5,No,No,No,None,Well-being
+2541,42,89,158,7,7,No,No,No,None,Well-being
+6260,35,72,192,7,2,No,Yes,No,None,Well-being
+9507,31,75,184,6,2,No,No,No,Respiratory Problem,Care
+9254,25,71,170,3,4,No,No,Yes,Other,Care
+5602,36,90,180,2,6,No,No,Yes,None,Well-being
+2076,30,50,185,7,4,No,No,No,None,Well-being
+9875,56,82,162,4,1,No,No,No,None,Well-being
+7124,25,84,184,1,6,No,No,Yes,Cancer,Care
+2996,48,60,175,2,7,Yes,No,No,None,Well-being
+7784,42,64,150,3,0,No,No,No,None,Well-being
+5417,54,97,156,5,6,No,No,Yes,None,Well-being
+6157,45,52,193,5,6,No,No,No,None,Well-being
+3059,37,74,168,1,4,No,Yes,Yes,None,Well-being
+7658,31,53,182,7,0,No,No,Yes,None,Well-being
+8763,50,63,177,5,1,Yes,No,Yes,None,Well-being
+5811,37,92,171,6,6,No,No,Yes,Heart Problem,Care
+5662,31,99,161,2,2,Yes,Yes,Yes,None,Well-being
+8620,29,66,181,4,7,No,No,Yes,None,Well-being
+5725,26,64,184,3,5,Yes,No,No,Cancer,Care
+9059,43,88,153,0,3,No,No,No,None,Well-being
+2060,26,99,167,3,5,No,No,Yes,Tuberculosis,Care
+2688,51,56,175,1,5,No,No,Yes,Heart Problem,Care
+1989,42,55,166,7,7,No,No,No,None,Well-being
+7594,45,79,157,5,4,No,No,Yes,Cancer,Care
+4683,38,64,181,0,3,Yes,No,Yes,None,Well-being
+7082,24,61,185,1,5,No,No,Yes,Heart Problem,Care
+7548,36,54,170,2,1,No,No,Yes,None,Well-being
+4422,30,100,182,0,1,No,No,Yes,None,Well-being
+3895,36,78,197,6,2,No,No,No,None,Well-being
+1557,22,66,171,0,0,No,Yes,No,None,Well-being
+8976,25,55,184,6,4,No,Yes,Yes,Cancer,Care
+7326,25,92,189,7,5,No,No,No,None,Well-being
+8377,42,72,198,2,1,No,Yes,Yes,Other,Care
+9484,37,92,190,1,2,No,No,No,None,Well-being
+6871,49,63,177,7,2,No,No,No,Heart Problem,Care
+7793,35,71,198,6,1,No,No,No,None,Well-being
+1953,33,71,186,0,0,No,No,No,None,Well-being
+8556,30,79,186,0,5,No,No,Yes,Other,Care
+5953,32,98,196,7,0,No,No,Yes,None,Well-being
+6948,28,84,158,7,4,Yes,No,Yes,Alzheimer's Disease,Care
+6735,25,68,170,0,2,No,No,Yes,Heart Problem,Care
+6648,40,98,175,2,7,Yes,No,No,None,Well-being
+9324,32,89,153,0,5,No,No,No,None,Well-being
+5885,45,55,191,5,6,No,No,Yes,Respiratory Problem,Care
+1737,36,82,165,7,7,No,No,Yes,None,Well-being
+2342,27,65,168,2,1,No,No,Yes,None,Well-being
+2484,39,71,184,4,6,No,Yes,Yes,Respiratory Problem,Care
+2335,44,50,166,2,7,No,No,No,None,Well-being
+7923,49,63,151,6,0,No,No,No,None,Well-being
+4493,34,50,186,2,2,No,No,Yes,None,Well-being
+3970,40,65,199,5,7,No,No,Yes,None,Well-being
+9322,33,67,199,0,3,No,No,No,None,Well-being
+1793,28,98,180,7,0,No,Yes,No,None,Well-being
+6335,39,90,176,0,2,No,No,Yes,None,Well-being
+1665,35,60,164,1,0,No,No,Yes,Heart Problem,Care
+2402,48,94,181,4,1,No,Yes,Yes,None,Well-being
+7347,51,95,189,4,1,No,No,Yes,Cancer,Care
+7553,23,85,180,2,6,No,No,No,Alzheimer's Disease,Care
+3164,37,68,150,4,3,Yes,Yes,No,None,Well-being
+8415,28,78,194,2,0,No,Yes,Yes,None,Well-being
+4767,29,76,196,2,1,No,Yes,No,None,Well-being
+6447,29,89,179,1,3,No,Yes,Yes,Respiratory Problem,Care
+4042,27,80,154,6,7,No,No,No,Cancer,Care
+8728,30,57,181,1,2,No,No,Yes,None,Well-being
+4401,31,69,168,2,2,No,Yes,Yes,Respiratory Problem,Care
+5314,49,97,178,7,2,No,Yes,No,Other,Care
+8845,45,58,180,6,1,No,No,Yes,None,Well-being
+1748,40,94,172,5,1,No,Yes,Yes,None,Well-being
+1879,34,84,175,4,6,No,No,No,None,Well-being
+9437,31,74,153,0,4,No,No,No,Alzheimer's Disease,Care
+7735,47,81,168,2,1,No,Yes,Yes,None,Well-being
+4482,36,90,158,3,5,No,No,Yes,Other,Care
+5904,35,76,170,4,6,Yes,No,Yes,Heart Problem,Care
+7453,36,51,185,6,3,No,No,No,Other,Care
+2195,44,83,186,1,1,No,No,Yes,None,Well-being
+9028,34,97,190,2,3,Yes,No,No,None,Well-being
+8541,26,95,189,0,6,Yes,No,Yes,None,Well-being
+8189,23,74,165,0,0,Yes,No,No,None,Well-being
+5506,27,85,191,5,4,No,Yes,No,None,Well-being
+9588,36,70,198,3,4,No,Yes,Yes,None,Well-being
+4255,29,95,167,6,6,No,No,Yes,None,Well-being
+1478,38,55,194,2,2,No,No,No,None,Well-being
+3402,41,72,182,1,7,No,No,Yes,Alzheimer's Disease,Care
+5899,36,64,172,7,0,Yes,Yes,No,None,Well-being
+6266,27,56,185,1,6,No,No,No,None,Well-being
+8564,28,64,153,4,6,No,Yes,Yes,Alzheimer's Disease,Care
+6953,48,58,186,6,1,No,Yes,No,Cancer,Care
+6755,48,77,177,5,3,No,No,No,None,Well-being
+5011,48,59,178,6,3,No,No,No,Heart Problem,Care
+6168,42,81,196,3,4,No,Yes,Yes,None,Well-being
+3604,48,70,198,1,2,No,No,Yes,Other,Care
+3038,26,89,178,6,7,No,No,No,Cancer,Care
+6364,29,73,150,0,6,No,Yes,No,None,Well-being
+2613,39,67,163,4,0,No,No,No,Other,Care
+6379,27,97,198,5,2,No,No,Yes,None,Well-being
+3231,34,55,199,1,1,No,No,No,None,Well-being
+9328,23,71,193,4,2,No,No,Yes,None,Well-being
+3947,25,99,151,5,1,No,No,Yes,Respiratory Problem,Care
+5656,28,67,155,2,3,No,Yes,Yes,Tuberculosis,Care
+4620,45,65,181,2,1,No,No,No,Heart Problem,Care
+5637,31,52,150,3,4,No,No,Yes,Respiratory Problem,Care
+6508,25,98,191,6,0,No,Yes,No,Other,Care
+5940,40,98,153,4,1,No,No,No,Other,Care
+1547,32,71,164,5,2,No,Yes,No,None,Well-being
+4110,34,80,158,7,0,No,No,No,Respiratory Problem,Care
+2028,38,59,158,3,6,No,No,Yes,Respiratory Problem,Care
+2518,34,50,193,5,5,No,No,Yes,Respiratory Problem,Care
+5214,38,100,174,6,5,No,No,No,Heart Problem,Care
+7207,25,94,157,3,5,No,No,No,Heart Problem,Care
+4981,30,54,150,7,0,No,No,No,None,Well-being
+7092,40,94,197,1,3,No,No,No,None,Well-being
+5324,39,50,170,3,0,Yes,No,Yes,Other,Care
+3472,35,65,164,5,3,No,Yes,Yes,Heart Problem,Care
+7128,32,81,182,6,1,No,No,Yes,None,Well-being
+4355,45,54,178,7,5,No,No,No,None,Well-being
+9045,26,88,179,2,3,No,Yes,Yes,Cancer,Care
+8032,37,99,179,7,2,Yes,Yes,Yes,Other,Care
+8467,27,98,164,7,0,No,No,Yes,Alzheimer's Disease,Care
+3942,38,69,182,5,7,No,No,Yes,Respiratory Problem,Care
+6836,25,69,152,7,6,No,No,Yes,None,Well-being
+4319,41,95,163,5,3,No,No,Yes,Other,Care
+7858,36,53,176,0,4,No,No,No,None,Well-being
+1402,29,50,172,0,2,No,No,No,None,Well-being
+5060,31,97,170,6,7,No,No,No,Other,Care
+3403,37,54,187,0,3,No,No,Yes,Respiratory Problem,Care
+9832,29,61,153,2,2,No,Yes,Yes,None,Well-being
+2375,29,77,188,1,7,Yes,Yes,No,Respiratory Problem,Care
+5849,35,85,175,3,0,No,No,No,None,Well-being
+6248,32,61,197,6,0,Yes,No,Yes,None,Well-being
+1432,59,75,162,7,0,No,No,No,Cancer,Care
+6502,54,100,178,6,3,No,Yes,Yes,None,Well-being
+2968,36,72,189,5,1,No,No,No,Respiratory Problem,Care
+9600,34,55,160,1,6,No,No,Yes,None,Well-being
+6457,24,95,176,7,6,No,No,Yes,Respiratory Problem,Care
+9689,33,97,190,5,0,No,Yes,No,Other,Care
+3029,39,98,176,0,2,Yes,Yes,No,Respiratory Problem,Care
+9367,26,61,199,1,5,No,No,No,Alzheimer's Disease,Care
+4339,32,60,172,3,3,No,Yes,Yes,Other,Care
+9447,28,57,189,3,5,No,No,No,Heart Problem,Care
+9533,47,85,168,3,3,No,No,No,Cancer,Care
+6714,38,51,172,3,1,Yes,No,Yes,Cancer,Care
+5020,32,81,175,3,1,No,No,Yes,Respiratory Problem,Care
+7750,30,67,191,1,3,No,No,No,Heart Problem,Care
+8737,35,92,182,6,4,No,No,Yes,Heart Problem,Care
+2221,24,64,151,0,2,No,No,No,Tuberculosis,Care
+6528,22,56,167,3,2,Yes,No,Yes,None,Well-being
+6234,26,58,159,1,3,No,No,No,Tuberculosis,Care
+2681,34,50,169,7,7,No,No,Yes,None,Well-being
+3759,34,87,185,6,5,No,No,No,Respiratory Problem,Care
+9244,27,83,171,5,3,No,No,No,Tuberculosis,Care
+5474,31,87,199,2,5,No,No,No,None,Well-being
+7596,31,60,185,2,2,Yes,No,No,None,Well-being
+3284,38,69,178,2,6,Yes,No,No,None,Well-being
+4582,31,61,188,0,0,No,No,Yes,None,Well-being
+3773,42,54,180,4,0,Yes,No,Yes,None,Well-being
+4784,36,55,187,3,6,No,No,Yes,Heart Problem,Care
+1934,29,70,175,4,6,Yes,No,Yes,None,Well-being
+6677,30,83,195,5,0,Yes,No,Yes,Respiratory Problem,Care
+2630,32,62,200,6,1,Yes,No,No,Cancer,Care
+5273,24,62,179,2,7,No,No,No,Other,Care
+6033,43,67,177,1,7,No,No,No,Other,Care
+6010,28,62,161,4,2,Yes,Yes,No,Other,Care
+9725,30,86,166,7,0,Yes,No,No,Other,Care
+9483,47,67,154,0,0,No,No,No,None,Well-being
+6101,44,88,151,0,3,No,Yes,No,Heart Problem,Care
+7002,29,82,183,4,4,No,Yes,No,Heart Problem,Care
+1636,32,74,198,3,6,No,No,No,Heart Problem,Care
+1656,46,83,197,0,0,Yes,No,No,None,Well-being
+6008,32,65,173,6,6,No,No,Yes,Alzheimer's Disease,Care
+8671,34,80,191,7,3,Yes,No,No,None,Well-being
+1590,29,55,189,0,7,No,No,Yes,None,Well-being
+6084,51,63,186,6,3,No,No,No,None,Well-being
+7855,39,51,197,5,5,No,No,No,None,Well-being
+4783,40,85,177,1,6,No,No,Yes,Alzheimer's Disease,Care
+1980,42,86,193,0,7,Yes,No,No,None,Well-being
+3635,41,84,160,7,1,No,No,Yes,None,Well-being
+7208,34,69,189,4,2,No,No,Yes,None,Well-being
+2860,39,70,169,0,1,No,No,No,Other,Care
+3106,39,84,178,3,0,No,No,No,None,Well-being
+5425,50,53,194,2,1,No,No,Yes,None,Well-being
+5418,35,67,192,3,1,No,No,No,None,Well-being
+4379,42,66,199,2,1,No,Yes,Yes,Heart Problem,Care
+5828,31,78,153,3,0,No,No,No,None,Well-being
+1799,30,59,183,2,6,No,No,No,None,Well-being
+5755,52,92,151,7,2,No,No,No,None,Well-being
+2706,38,74,157,2,7,No,Yes,No,None,Well-being
+3544,26,53,190,2,6,Yes,No,Yes,Cancer,Care
+4162,26,97,197,4,2,No,No,Yes,Other,Care
+3011,41,61,185,4,7,No,No,No,Alzheimer's Disease,Care
+9616,37,98,194,4,0,No,No,No,Cancer,Care
+4538,36,73,199,4,0,No,No,No,Cancer,Care
+9551,37,72,195,7,7,No,No,No,Other,Care
+4636,33,75,179,6,4,No,Yes,No,None,Well-being
+1846,27,61,188,6,2,Yes,No,No,Heart Problem,Care
+8824,43,62,172,6,2,No,No,No,None,Well-being
+8616,37,95,181,7,2,No,No,Yes,Respiratory Problem,Care
+9219,33,88,183,3,1,Yes,Yes,Yes,Heart Problem,Care
+4168,23,96,197,1,4,No,No,No,None,Well-being
+2409,30,57,151,3,7,No,No,No,Other,Care
+2187,33,69,160,2,4,No,No,No,None,Well-being
+1044,27,56,189,4,6,Yes,No,No,None,Well-being
+4413,27,73,175,2,0,Yes,No,Yes,None,Well-being
+5996,38,59,198,4,0,No,No,Yes,Cancer,Care
+5028,30,92,162,7,5,No,No,Yes,Other,Care
+1712,34,89,197,1,3,No,Yes,Yes,Respiratory Problem,Care
+9218,28,68,185,0,4,No,Yes,No,None,Well-being
+9243,23,50,194,7,6,No,No,No,None,Well-being
+6171,33,65,192,2,5,Yes,No,Yes,Cancer,Care
+7305,25,82,150,5,5,No,No,No,Heart Problem,Care
+4031,27,89,175,5,3,No,Yes,Yes,None,Well-being
+5519,25,87,165,0,4,No,No,No,None,Well-being
+5515,28,95,184,2,2,Yes,No,No,None,Well-being
+1324,21,84,185,6,4,No,No,Yes,Other,Care
+7433,35,88,194,5,1,No,No,No,None,Well-being
+6376,25,62,153,3,7,No,No,No,None,Well-being
+2816,33,88,160,0,1,No,No,No,None,Well-being
+4078,38,59,174,6,1,Yes,No,No,None,Well-being
+5434,27,93,193,2,2,Yes,No,No,None,Well-being
+1064,26,54,168,6,1,No,No,No,None,Well-being
+6809,32,61,165,5,6,No,No,No,Respiratory Problem,Care
+2732,30,74,183,6,0,No,No,Yes,Heart Problem,Care
+1828,26,83,191,1,6,No,Yes,No,Respiratory Problem,Care
+2833,34,60,153,3,0,Yes,Yes,No,Tuberculosis,Care
+6328,31,79,194,5,3,No,No,No,None,Well-being
+3560,36,79,172,7,4,No,No,Yes,None,Well-being
+8307,34,85,188,4,4,No,No,Yes,None,Well-being
+3302,39,74,172,5,3,No,No,Yes,Tuberculosis,Care
+6137,36,59,157,7,7,No,No,Yes,Alzheimer's Disease,Care
+4746,34,58,169,6,0,No,No,No,Respiratory Problem,Care
+3095,37,93,150,1,7,No,No,No,Other,Care
+3358,41,83,178,0,5,Yes,No,Yes,Alzheimer's Disease,Care
+3434,26,96,197,5,3,Yes,No,No,None,Well-being
+8086,30,75,177,4,6,No,No,Yes,Respiratory Problem,Care
+6090,33,85,179,6,0,No,No,No,None,Well-being
+5983,37,50,191,1,2,Yes,No,Yes,Alzheimer's Disease,Care
+1753,36,100,193,2,3,No,No,Yes,Heart Problem,Care
+5174,50,60,175,7,6,No,No,Yes,Respiratory Problem,Care
+9920,32,71,191,2,0,Yes,No,Yes,Heart Problem,Care
+1038,29,62,164,2,4,No,No,Yes,None,Well-being
+2628,31,50,193,7,5,No,No,Yes,Cancer,Care
+7986,31,85,164,1,0,Yes,No,No,None,Well-being
+2888,31,63,163,1,6,No,No,No,None,Well-being
+4824,40,73,153,3,6,No,No,Yes,None,Well-being
+3713,37,96,152,7,4,No,Yes,Yes,Heart Problem,Care
+1115,26,73,182,2,6,No,Yes,No,Heart Problem,Care
+6537,42,65,195,6,3,No,No,Yes,None,Well-being
+3253,33,67,170,7,3,Yes,No,No,None,Well-being
+4202,38,84,195,4,1,No,No,No,Heart Problem,Care
+8551,33,68,188,3,2,No,No,Yes,Alzheimer's Disease,Care
+1474,30,95,185,1,1,No,No,No,Alzheimer's Disease,Care
+6734,26,87,183,4,7,No,No,No,Respiratory Problem,Care
+6910,37,99,182,2,2,No,No,No,Other,Care
+9659,35,53,174,1,3,No,No,No,Other,Care
+8437,46,93,170,6,7,No,No,No,Respiratory Problem,Care
+6446,27,57,153,0,2,No,No,Yes,Heart Problem,Care
+7682,36,71,181,6,5,No,No,No,Other,Care
+7138,40,67,150,0,0,No,No,No,None,Well-being
+3906,32,72,154,6,6,No,No,Yes,None,Well-being
+9766,27,87,189,7,4,Yes,No,No,Alzheimer's Disease,Care
+2678,25,70,180,0,1,No,No,Yes,Heart Problem,Care
+6217,28,82,191,6,0,Yes,No,Yes,Heart Problem,Care
+2848,35,99,167,1,3,No,No,No,Other,Care
+7032,42,59,185,4,1,No,No,Yes,Heart Problem,Care
+9174,24,69,182,0,5,No,No,Yes,Cancer,Care
+5466,37,77,150,2,4,No,No,No,Heart Problem,Care
+1247,37,89,151,7,3,No,Yes,Yes,None,Well-being
+3240,30,82,177,4,2,No,No,No,Respiratory Problem,Care
+3534,38,56,186,6,2,No,No,Yes,None,Well-being
+6369,31,80,168,3,1,No,No,No,Other,Care
+5296,25,83,198,1,7,No,Yes,No,None,Well-being
+4304,35,89,185,0,6,No,No,Yes,Respiratory Problem,Care
+1975,30,87,151,2,2,No,No,No,Heart Problem,Care
+9540,35,95,184,7,0,No,No,No,None,Well-being
+5017,30,78,176,7,5,No,No,Yes,None,Well-being
+1260,38,78,197,3,7,No,No,Yes,Other,Care
+8498,45,85,163,4,7,No,No,No,None,Well-being
+2819,36,87,175,1,2,Yes,No,No,Heart Problem,Care
+2347,39,84,156,2,6,No,No,Yes,None,Well-being
+5611,26,50,175,6,0,No,Yes,No,Alzheimer's Disease,Care
+3855,39,85,188,3,3,No,No,No,None,Well-being
+7448,43,52,176,7,5,No,No,No,None,Well-being
+5188,46,78,150,7,7,No,No,Yes,None,Well-being
+3100,29,71,190,0,5,No,No,Yes,None,Well-being
+1206,31,97,164,4,4,No,No,No,None,Well-being
+7547,34,56,198,2,3,No,No,No,Respiratory Problem,Care
+7792,44,98,175,1,0,No,No,No,None,Well-being
+7771,23,99,190,4,5,No,No,Yes,Other,Care
+4677,26,96,177,4,0,Yes,No,Yes,Tuberculosis,Care
+3847,29,73,178,2,2,No,No,No,None,Well-being
+1578,34,86,155,5,5,No,No,No,None,Well-being
+4756,34,90,197,4,3,No,No,Yes,Other,Care
+2049,31,61,196,1,5,No,No,No,None,Well-being
+2206,27,89,157,6,1,No,No,No,None,Well-being
+5088,38,69,167,7,6,No,No,No,None,Well-being
+9279,34,87,196,2,6,No,No,Yes,Alzheimer's Disease,Care
+2390,34,90,172,0,6,No,Yes,No,Respiratory Problem,Care
+5317,45,97,175,3,4,Yes,No,Yes,None,Well-being
+1556,33,67,189,0,1,No,No,Yes,Other,Care
+5665,34,89,154,5,2,No,No,Yes,Cancer,Care
+3291,47,75,173,6,4,Yes,No,No,Respiratory Problem,Care
+3685,28,87,200,5,6,No,No,Yes,None,Well-being
+5702,39,66,155,4,0,Yes,No,No,None,Well-being
+7920,28,96,163,4,4,No,No,No,Other,Care
+1212,30,67,174,1,5,No,No,No,Respiratory Problem,Care
+4997,34,79,187,5,3,Yes,No,Yes,Heart Problem,Care
+3350,35,73,182,0,0,Yes,No,Yes,Alzheimer's Disease,Care
+5631,28,84,176,2,1,No,Yes,No,Heart Problem,Care
+7344,32,77,169,2,5,No,No,Yes,None,Well-being
+6705,34,96,154,5,4,Yes,No,Yes,Heart Problem,Care
+4903,37,58,160,4,1,Yes,No,Yes,Other,Care
+8624,27,75,177,3,3,No,No,Yes,None,Well-being
+9903,27,61,153,5,6,No,No,No,None,Well-being
+4659,35,66,184,4,3,No,Yes,Yes,Respiratory Problem,Care
+6891,38,65,196,4,5,No,No,Yes,Respiratory Problem,Care
+3381,29,50,161,4,6,No,No,No,None,Well-being
+5572,28,79,190,7,3,No,No,No,Other,Care
+3878,38,99,155,5,2,No,No,Yes,None,Well-being
+9833,40,74,160,5,3,No,No,No,Other,Care
+3597,40,78,199,4,6,No,No,Yes,Alzheimer's Disease,Care
+3420,30,99,186,5,3,Yes,No,No,None,Well-being
+7639,24,92,168,6,5,No,No,No,Heart Problem,Care
+7149,30,68,186,7,3,No,No,No,None,Well-being
+2244,24,100,182,3,7,Yes,No,Yes,Alzheimer's Disease,Care
+4618,33,80,185,0,2,No,No,Yes,Respiratory Problem,Care
+1229,34,75,161,5,4,No,No,No,None,Well-being
+6567,38,97,187,4,0,No,No,Yes,None,Well-being
+9317,31,76,178,0,6,No,No,Yes,Alzheimer's Disease,Care
+3723,46,99,186,0,1,No,No,No,Cancer,Care
+3758,49,67,167,3,7,No,No,Yes,None,Well-being
+3529,42,68,152,4,1,No,No,No,Other,Care
+9443,36,50,168,1,0,Yes,No,No,Respiratory Problem,Care
+1972,37,76,176,1,6,No,No,No,Heart Problem,Care
+5197,35,57,199,3,4,No,No,Yes,None,Well-being
+4590,33,54,177,0,7,No,No,Yes,None,Well-being
+6383,35,100,180,1,1,No,Yes,No,None,Well-being
+3448,33,92,150,2,1,No,Yes,No,Other,Care
+6863,41,94,154,3,6,No,No,Yes,Cancer,Care
+9009,36,81,169,1,6,Yes,No,Yes,Alzheimer's Disease,Care
+7379,35,88,192,6,2,No,No,Yes,Tuberculosis,Care
+2582,34,68,181,1,7,No,No,No,None,Well-being
+9238,25,68,182,3,0,Yes,Yes,No,None,Well-being
+2149,28,82,168,2,2,No,No,Yes,Other,Care
+2927,27,55,168,4,1,No,Yes,No,None,Well-being
+9094,36,82,178,1,0,Yes,No,No,Other,Care
+4377,24,59,150,7,6,No,No,Yes,Other,Care
+8296,35,85,159,2,2,No,No,No,Other,Care
+9119,36,87,188,4,0,Yes,Yes,No,None,Well-being
+6337,37,99,170,3,5,No,No,No,Respiratory Problem,Care
+8182,33,50,200,6,4,Yes,No,No,None,Well-being
+7857,40,83,165,0,2,No,Yes,Yes,None,Well-being
+8721,41,89,171,2,1,No,No,Yes,Other,Care
+9508,32,98,172,7,0,No,No,No,None,Well-being
+6165,37,89,196,7,4,No,No,No,Other,Care
+4128,24,70,172,7,5,No,No,No,None,Well-being
+7273,43,77,186,0,4,No,Yes,No,None,Well-being
+8443,25,65,164,7,4,No,No,Yes,Tuberculosis,Care
+8070,34,69,187,0,2,No,No,No,Respiratory Problem,Care
+5113,36,89,175,4,4,No,No,Yes,None,Well-being
+9320,36,66,161,3,4,No,No,Yes,Other,Care
+4865,32,75,188,1,5,No,No,Yes,None,Well-being
+6680,31,86,174,0,2,No,No,Yes,None,Well-being
+5967,37,58,183,6,3,Yes,Yes,No,None,Well-being
+5443,34,81,168,2,2,No,Yes,Yes,Other,Care
+1248,25,61,175,6,3,No,No,Yes,Alzheimer's Disease,Care
+2358,40,87,160,0,4,No,No,Yes,Respiratory Problem,Care
+3198,44,91,165,3,5,No,No,Yes,None,Well-being
+4657,31,59,161,5,6,No,No,No,Heart Problem,Care
+3841,37,87,189,2,3,Yes,No,Yes,None,Well-being
+6899,31,84,199,1,4,No,No,No,None,Well-being
+5619,35,94,156,1,7,No,No,Yes,Other,Care
+5040,45,100,186,2,1,No,No,Yes,Heart Problem,Care
+7876,31,65,154,1,6,No,No,No,Heart Problem,Care
+6374,36,71,165,2,2,Yes,No,No,None,Well-being
+8985,24,76,164,7,1,Yes,No,No,Respiratory Problem,Care
+3518,30,86,194,2,3,No,Yes,Yes,Other,Care
+7456,28,80,198,4,1,No,No,No,Other,Care
+8169,50,56,199,4,0,No,No,Yes,Other,Care
+7439,37,81,161,4,5,No,No,No,Alzheimer's Disease,Care
+4231,30,98,174,7,6,No,No,Yes,Other,Care
+3881,39,58,170,0,6,No,No,Yes,Other,Care
+7469,26,53,176,2,7,No,No,Yes,None,Well-being
+4290,39,99,163,4,4,No,Yes,No,Tuberculosis,Care
+2002,31,68,181,7,0,No,No,Yes,None,Well-being
+3085,38,83,168,0,7,Yes,No,No,Respiratory Problem,Care
+8119,26,78,191,2,0,No,No,Yes,Heart Problem,Care
+6504,22,78,150,6,3,No,No,Yes,None,Well-being
+6846,40,57,154,2,2,Yes,No,Yes,None,Well-being
+6897,31,58,174,4,3,No,No,Yes,Other,Care
+8131,43,84,188,6,7,No,No,No,Other,Care
+4749,38,77,188,2,0,No,No,Yes,None,Well-being
+3684,40,98,155,3,5,Yes,No,No,Heart Problem,Care
+7371,37,63,183,0,4,No,Yes,Yes,Cancer,Care
+7394,38,56,167,3,7,No,No,No,Respiratory Problem,Care
+4641,33,83,170,6,4,No,No,No,None,Well-being
+6969,29,95,163,7,1,No,Yes,No,Other,Care
+7608,27,80,174,7,5,No,No,Yes,Respiratory Problem,Care
+8350,29,66,172,1,5,No,No,Yes,Other,Care
+6172,38,98,182,2,4,Yes,No,Yes,Other,Care
+4207,46,54,193,5,4,No,No,Yes,None,Well-being
+3105,29,79,161,7,6,No,No,No,Cancer,Care
+8855,37,83,173,4,6,Yes,No,No,Other,Care
+9735,32,64,185,2,7,No,No,No,None,Well-being
+1348,34,53,150,7,1,Yes,Yes,Yes,None,Well-being
+2947,31,53,172,7,7,No,No,No,None,Well-being
+9293,30,56,174,5,6,No,No,No,Other,Care
+4619,40,62,168,4,0,Yes,No,Yes,None,Well-being
+8337,24,62,199,7,3,No,Yes,No,None,Well-being
+3650,35,94,168,7,3,No,No,Yes,None,Well-being
+8047,26,56,152,1,6,No,No,Yes,Heart Problem,Care
+1039,36,85,163,3,5,No,No,Yes,Other,Care
+4235,39,95,182,6,6,No,No,Yes,Respiratory Problem,Care
+4367,40,92,176,6,5,No,No,Yes,None,Well-being
+3054,29,50,152,0,2,Yes,No,Yes,Tuberculosis,Care
+4176,25,51,185,5,4,No,Yes,No,Other,Care
+2418,22,98,162,0,1,No,Yes,Yes,Heart Problem,Care
+3860,25,78,183,1,0,No,No,No,None,Well-being
+9673,48,54,171,2,0,No,No,No,None,Well-being
+7924,41,99,176,6,2,No,No,No,None,Well-being
+8717,38,98,186,4,7,No,No,No,None,Well-being
+1648,23,55,152,5,3,No,No,Yes,None,Well-being
+6409,33,56,185,1,4,Yes,No,Yes,None,Well-being
+5845,29,96,156,6,7,No,No,Yes,Other,Care
+3845,29,76,165,6,5,No,No,Yes,None,Well-being
+7140,36,77,177,6,7,No,No,Yes,None,Well-being
+3558,45,84,188,0,7,No,No,No,None,Well-being
+1093,45,62,185,5,0,No,No,No,None,Well-being
+4929,52,62,186,1,2,No,No,Yes,Other,Care
+8271,31,91,157,4,6,Yes,No,Yes,Heart Problem,Care
+8611,30,95,190,2,7,No,No,Yes,Other,Care
+5796,37,57,156,2,5,No,Yes,No,None,Well-being
+6083,34,72,159,2,2,No,Yes,No,None,Well-being
+2857,21,52,150,7,3,Yes,Yes,Yes,Respiratory Problem,Care
+5252,44,80,200,4,0,No,No,No,None,Well-being
+3826,28,88,173,6,7,No,No,No,Other,Care
+2023,31,85,184,6,5,No,No,No,None,Well-being
+7404,36,64,192,5,6,No,No,No,Alzheimer's Disease,Care
+4492,35,59,151,7,7,No,No,No,None,Well-being
+6263,39,85,163,4,4,No,No,Yes,None,Well-being
+1564,39,73,196,0,2,No,No,Yes,None,Well-being
+7518,27,52,194,7,7,No,No,No,None,Well-being
+8322,28,72,192,0,3,No,Yes,Yes,Tuberculosis,Care
+7246,30,58,194,0,4,No,Yes,Yes,None,Well-being
+3433,35,81,189,5,3,Yes,No,No,Respiratory Problem,Care
+2658,27,79,166,2,6,No,No,Yes,None,Well-being
+1825,27,85,195,5,5,No,No,Yes,None,Well-being
+8435,34,55,187,3,5,Yes,No,No,Tuberculosis,Care
+4075,30,94,179,0,6,Yes,Yes,No,Other,Care
+4689,47,77,196,2,6,No,Yes,No,Heart Problem,Care
+4799,25,87,189,0,6,No,Yes,No,Alzheimer's Disease,Care
+3036,51,77,197,7,0,No,Yes,Yes,None,Well-being
+9075,28,56,161,3,4,No,No,No,None,Well-being
+5698,39,55,192,4,2,Yes,No,No,Other,Care
+1993,50,58,180,5,5,No,No,No,Heart Problem,Care
+1371,29,68,190,4,3,No,No,No,None,Well-being
+8318,37,60,192,7,7,No,No,Yes,Other,Care
+1313,30,100,171,1,7,No,Yes,Yes,Other,Care
+8568,36,82,181,3,2,Yes,No,Yes,None,Well-being
+8266,39,93,178,7,0,No,No,No,None,Well-being
+2925,38,53,166,4,5,Yes,No,Yes,Respiratory Problem,Care
+8933,24,85,189,0,3,No,No,Yes,Heart Problem,Care
+6934,28,75,153,3,0,No,No,No,Alzheimer's Disease,Care
+4966,24,84,182,1,0,Yes,No,No,Respiratory Problem,Care
+7299,33,67,174,0,1,No,Yes,Yes,Alzheimer's Disease,Care
+5172,49,61,152,3,1,No,No,No,None,Well-being
+8313,47,65,184,1,7,No,No,No,Other,Care
+2855,33,80,161,0,0,Yes,Yes,Yes,None,Well-being
+1586,27,67,185,5,0,No,No,No,Tuberculosis,Care
+6518,50,66,191,4,5,No,No,No,Respiratory Problem,Care
+8702,49,65,178,7,1,No,No,No,None,Well-being
+7941,31,56,158,6,6,No,No,Yes,Heart Problem,Care
+4668,27,52,160,2,3,No,No,No,Cancer,Care
+8712,32,68,193,1,1,No,No,Yes,Cancer,Care
+3325,26,82,164,1,6,No,No,Yes,None,Well-being
+3876,31,86,174,7,0,No,No,No,Alzheimer's Disease,Care
+5306,23,94,155,5,2,No,Yes,No,None,Well-being
+1450,28,74,171,3,4,Yes,No,Yes,None,Well-being
+3605,31,78,160,2,2,No,Yes,Yes,Heart Problem,Care
+7570,44,80,171,7,4,No,No,Yes,None,Well-being
+4941,34,58,156,7,1,Yes,No,Yes,Tuberculosis,Care
+2367,31,56,150,6,1,No,No,No,None,Well-being
+4690,30,88,179,5,5,No,No,No,Other,Care
+2698,49,82,154,1,3,No,No,No,None,Well-being
+7778,28,94,153,1,3,No,Yes,Yes,None,Well-being
+7600,22,94,162,6,1,No,No,Yes,None,Well-being
+6174,42,60,188,5,4,No,No,No,Tuberculosis,Care
+5205,32,57,159,7,4,No,No,No,Respiratory Problem,Care
+5224,30,54,190,4,7,No,No,No,Respiratory Problem,Care
+9029,29,52,157,6,3,No,No,Yes,None,Well-being
+1307,35,56,170,6,3,No,No,Yes,None,Well-being
+3342,41,52,191,6,4,No,No,No,Respiratory Problem,Care
+2274,40,94,156,7,7,No,No,Yes,None,Well-being
+2368,37,54,163,3,7,Yes,No,Yes,None,Well-being
+7024,43,60,191,2,4,Yes,No,No,None,Well-being
+7635,28,68,167,2,4,No,No,No,Respiratory Problem,Care
+4710,22,65,198,5,0,No,No,Yes,None,Well-being
+7497,44,77,192,1,5,No,No,No,None,Well-being
+5798,31,90,158,4,5,No,No,No,None,Well-being
+7970,43,70,174,5,4,Yes,No,No,Heart Problem,Care
+6037,25,74,177,6,2,No,No,Yes,None,Well-being
+7058,35,88,193,0,3,No,No,Yes,None,Well-being
+6879,29,93,183,3,3,No,No,Yes,None,Well-being
+4336,34,77,199,5,4,Yes,No,No,Other,Care
+5867,38,51,178,4,3,No,No,No,Tuberculosis,Care
+6733,39,83,189,5,4,No,No,No,None,Well-being
+1066,32,70,188,1,7,No,Yes,Yes,None,Well-being
+7368,27,87,171,4,2,No,No,Yes,Cancer,Care
+1707,32,77,178,4,7,Yes,No,Yes,None,Well-being
+9306,46,66,189,7,1,Yes,No,Yes,None,Well-being
+9260,34,80,172,6,6,No,No,Yes,None,Well-being
+5677,24,81,192,4,4,No,No,Yes,Cancer,Care
+9695,31,51,167,5,0,No,No,Yes,None,Well-being
+2150,36,52,158,4,2,No,No,Yes,None,Well-being
+3834,45,69,152,2,5,Yes,No,No,None,Well-being
+6243,48,98,174,4,1,No,No,Yes,None,Well-being
+8217,39,70,182,5,3,Yes,No,Yes,Heart Problem,Care
+6187,30,88,171,1,3,Yes,No,No,None,Well-being
+8736,29,74,170,6,2,Yes,Yes,Yes,Cancer,Care
+3258,33,75,182,6,3,No,No,No,Respiratory Problem,Care
+6003,34,97,153,7,3,No,No,Yes,None,Well-being
+1595,30,78,184,5,0,No,No,No,None,Well-being
+1634,25,68,191,3,4,No,No,Yes,Other,Care
+6858,37,76,185,7,4,Yes,No,Yes,None,Well-being
+9033,29,63,191,3,0,No,Yes,Yes,None,Well-being
+9086,38,76,173,6,5,No,No,No,None,Well-being
+5032,37,73,165,5,2,No,No,Yes,Other,Care
+2220,44,86,197,1,1,Yes,No,Yes,None,Well-being
+9289,49,94,198,6,5,No,No,Yes,None,Well-being
+6746,26,75,177,1,4,No,No,Yes,Heart Problem,Care
+5791,27,50,167,7,6,No,No,No,Other,Care
+3493,47,95,158,5,6,No,No,Yes,None,Well-being
+1327,41,64,194,3,0,No,No,Yes,Other,Care
+9126,27,54,166,0,5,Yes,No,No,Other,Care
+2783,48,82,171,2,4,No,No,No,Heart Problem,Care
+5894,25,91,164,5,1,No,No,No,None,Well-being
+6041,26,50,159,5,5,No,No,No,None,Well-being
+9125,32,83,199,5,2,No,No,No,Tuberculosis,Care
+6700,41,83,169,1,2,No,No,Yes,Other,Care
+7153,31,98,189,2,3,No,No,Yes,Alzheimer's Disease,Care
+9649,37,95,198,0,0,No,No,Yes,Cancer,Care
+1310,23,56,194,5,7,No,No,No,Heart Problem,Care
+1024,53,70,159,7,3,No,No,Yes,Other,Care
+2369,30,62,153,4,4,Yes,No,Yes,None,Well-being
+4316,37,69,192,5,5,No,No,No,Alzheimer's Disease,Care
+5442,35,97,161,1,2,No,No,No,Cancer,Care
+8459,35,94,197,6,6,No,No,Yes,None,Well-being
+8997,27,92,166,2,1,No,Yes,No,None,Well-being
+3611,24,75,160,6,6,No,No,Yes,Cancer,Care
+7689,29,72,186,3,2,No,No,No,None,Well-being
+1789,38,95,162,2,2,Yes,No,No,None,Well-being
+3630,30,85,179,1,2,No,Yes,Yes,None,Well-being
+8644,41,91,151,2,6,Yes,No,Yes,Heart Problem,Care
+6280,40,100,172,4,7,No,No,Yes,None,Well-being
+3917,24,66,155,5,6,No,No,Yes,Heart Problem,Care
+3232,32,82,185,7,7,No,No,Yes,None,Well-being
+6904,37,63,174,0,6,No,No,Yes,None,Well-being
+2632,28,62,185,6,0,No,No,No,None,Well-being
+6236,43,51,163,5,1,No,No,No,None,Well-being
+8085,32,60,195,4,4,Yes,No,Yes,Other,Care
+8402,25,85,165,5,1,No,No,Yes,Heart Problem,Care
+4323,45,75,181,0,4,No,No,Yes,None,Well-being
+7221,36,74,194,2,2,No,No,No,None,Well-being
+5066,34,95,184,0,1,No,Yes,Yes,Heart Problem,Care
+7372,33,96,169,6,7,No,No,No,None,Well-being
+1931,26,96,167,5,7,No,No,Yes,Alzheimer's Disease,Care
+4123,30,82,194,7,4,No,No,Yes,None,Well-being
+9985,23,98,157,1,7,No,No,Yes,Other,Care
+9316,36,91,177,4,1,No,No,No,Alzheimer's Disease,Care
+2243,31,72,197,2,0,No,No,Yes,Heart Problem,Care
+9611,27,90,159,2,4,Yes,No,No,None,Well-being
+3148,26,53,186,4,6,No,Yes,Yes,None,Well-being
+3732,28,63,162,4,0,Yes,No,No,Other,Care
+1304,29,72,165,2,6,Yes,No,Yes,Cancer,Care
+1524,29,81,158,0,5,No,No,No,None,Well-being
+1587,44,59,195,5,6,No,No,No,None,Well-being
+4626,30,51,193,7,7,No,No,Yes,None,Well-being
+4913,30,67,168,6,0,No,No,No,None,Well-being
+3320,41,86,194,1,1,No,No,Yes,None,Well-being
+5758,27,88,199,2,5,No,Yes,No,None,Well-being
+2722,52,92,186,7,4,No,No,Yes,Tuberculosis,Care
+1342,29,69,196,4,3,No,No,No,Other,Care
+8965,36,99,189,0,7,No,No,Yes,None,Well-being
+2055,45,92,153,1,1,No,No,Yes,None,Well-being
+9544,35,92,166,7,2,Yes,No,Yes,None,Well-being
+3781,23,84,171,5,7,No,No,Yes,None,Well-being
+2134,31,99,193,5,7,No,No,Yes,None,Well-being
+2692,37,90,190,1,3,No,No,No,None,Well-being
+8856,24,51,179,1,4,No,No,No,None,Well-being
+3795,23,94,165,4,1,No,No,No,None,Well-being
+2930,45,73,195,6,0,Yes,Yes,No,Other,Care
+4719,34,74,179,4,0,No,No,No,None,Well-being
+8946,25,87,199,3,6,No,No,Yes,Respiratory Problem,Care
+6200,29,81,153,7,2,Yes,No,Yes,Heart Problem,Care
+1702,33,67,162,0,7,No,No,Yes,Tuberculosis,Care
+8273,36,64,170,7,6,No,No,Yes,None,Well-being
+8577,27,92,150,0,7,No,No,Yes,None,Well-being
+5701,37,51,182,2,5,Yes,No,Yes,None,Well-being
+7841,37,98,183,6,6,No,No,No,None,Well-being
+1308,33,92,160,5,2,No,Yes,Yes,Other,Care
+1160,31,71,189,4,6,No,No,Yes,Cancer,Care
+3190,31,70,167,4,1,Yes,Yes,No,None,Well-being
+5179,35,78,162,0,5,Yes,No,No,None,Well-being
+4037,30,56,184,4,7,No,No,No,Respiratory Problem,Care
+9537,33,62,165,5,4,No,No,Yes,Other,Care
+9701,31,82,180,6,4,No,No,No,Heart Problem,Care
+5094,32,59,197,5,0,No,No,No,Heart Problem,Care
+9164,37,69,156,6,3,Yes,No,No,Other,Care
+3099,39,69,156,1,6,Yes,No,No,Alzheimer's Disease,Care
+1415,33,100,186,0,7,No,No,Yes,None,Well-being
+5112,53,57,185,1,5,No,Yes,Yes,None,Well-being
+1071,33,71,165,1,3,No,No,Yes,None,Well-being
+1055,31,61,157,6,0,No,No,Yes,Cancer,Care
+8160,24,69,162,1,0,No,No,No,Tuberculosis,Care
+2311,31,60,197,1,4,Yes,No,Yes,None,Well-being
+7193,36,87,195,7,0,No,No,No,None,Well-being
+8071,47,82,178,0,4,Yes,No,No,Other,Care
+5806,34,78,174,4,1,No,No,No,Other,Care
+5737,31,69,170,7,3,No,No,Yes,Alzheimer's Disease,Care
+4412,33,81,166,5,1,No,No,Yes,None,Well-being
+7571,49,57,184,1,5,No,No,No,Respiratory Problem,Care
+2303,40,69,180,6,1,Yes,Yes,No,None,Well-being
+4332,40,82,186,7,2,Yes,No,Yes,None,Well-being
+9534,32,74,183,5,6,No,No,No,None,Well-being
+5674,44,58,176,7,0,No,No,No,None,Well-being
+6473,26,76,159,6,3,No,No,No,None,Well-being
+1507,45,53,178,3,5,Yes,No,Yes,Respiratory Problem,Care
+4530,30,91,160,4,3,Yes,Yes,No,Alzheimer's Disease,Care
+8203,33,64,166,4,6,Yes,No,No,Heart Problem,Care
+7718,30,95,164,0,6,No,No,Yes,Other,Care
+5070,38,69,155,2,5,No,No,Yes,None,Well-being
+3679,37,85,171,4,7,No,No,Yes,None,Well-being
+1646,39,60,173,5,4,No,No,Yes,Alzheimer's Disease,Care
+5372,26,80,185,6,7,No,No,Yes,Alzheimer's Disease,Care
+2534,28,54,180,0,1,No,No,Yes,Other,Care
+3958,34,80,186,7,2,No,No,Yes,None,Well-being
+1848,34,61,186,1,7,No,No,Yes,Respiratory Problem,Care
+9731,37,80,150,0,5,Yes,Yes,No,Tuberculosis,Care
+4580,26,95,191,0,1,No,No,Yes,None,Well-being
+3092,26,94,154,0,4,No,Yes,Yes,None,Well-being
+6607,34,60,153,3,6,Yes,No,No,Cancer,Care
+7086,52,73,182,7,2,No,No,Yes,None,Well-being
+9267,27,66,171,7,2,No,No,Yes,None,Well-being
+6920,25,90,179,0,1,No,No,No,Other,Care
+9753,33,89,158,5,1,No,Yes,No,Respiratory Problem,Care
+4410,44,95,159,7,0,No,No,No,None,Well-being
+5405,43,56,171,5,5,No,No,No,None,Well-being
+5139,32,51,200,7,5,No,No,No,Respiratory Problem,Care
+9065,40,65,187,6,2,No,No,Yes,None,Well-being
+5926,27,98,191,6,7,No,No,Yes,Respiratory Problem,Care
+3695,44,83,181,2,6,No,Yes,No,None,Well-being
+2361,30,86,153,3,4,No,No,No,Respiratory Problem,Care
+4171,35,68,150,1,6,No,No,Yes,Respiratory Problem,Care
+6688,35,94,158,2,5,No,Yes,Yes,Other,Care
+2470,36,95,167,0,1,No,Yes,Yes,None,Well-being
+7018,27,50,150,1,4,Yes,No,Yes,None,Well-being
+2731,54,60,160,3,5,No,No,No,Other,Care
+4043,28,77,199,2,4,No,No,Yes,Heart Problem,Care
+3639,45,86,152,0,6,No,No,Yes,None,Well-being
+4645,38,53,195,4,2,No,Yes,No,None,Well-being
+1283,31,73,167,3,3,No,No,No,None,Well-being
+9040,25,85,194,3,5,No,No,No,None,Well-being
+3765,31,64,167,5,3,No,No,Yes,Respiratory Problem,Care
+8617,25,73,162,7,2,Yes,No,Yes,None,Well-being
+8442,30,53,187,4,0,No,Yes,No,None,Well-being
+9481,29,82,152,7,1,No,No,No,None,Well-being
+3089,25,64,196,4,4,No,No,No,None,Well-being
+5293,29,61,182,2,4,No,Yes,No,Respiratory Problem,Care
+1134,46,95,177,3,5,Yes,No,Yes,Other,Care
+5135,28,91,176,7,7,No,No,No,None,Well-being
+5015,30,68,198,6,1,No,No,No,Other,Care
+1219,25,88,163,0,4,No,No,No,Other,Care
+3519,37,72,176,0,5,No,No,Yes,None,Well-being
+8657,32,80,161,0,0,No,Yes,Yes,None,Well-being
+7699,34,68,178,2,3,No,No,Yes,Other,Care
+3306,34,88,178,5,1,No,No,Yes,None,Well-being
+1438,31,76,178,5,1,No,No,Yes,Respiratory Problem,Care
+8667,44,69,165,1,0,No,No,Yes,None,Well-being
+2982,29,100,163,3,7,No,No,Yes,None,Well-being
+1362,41,60,176,1,5,No,No,Yes,None,Well-being
+3406,27,92,153,5,4,No,Yes,No,None,Well-being
+7962,38,75,190,7,3,No,No,Yes,Heart Problem,Care
+9791,24,99,192,0,0,Yes,Yes,Yes,Respiratory Problem,Care
+6177,30,67,156,7,6,No,No,No,Respiratory Problem,Care
+6685,36,88,174,2,2,No,No,Yes,Other,Care
+1840,32,56,161,5,1,No,No,No,None,Well-being
+1577,50,50,171,1,6,No,Yes,No,Respiratory Problem,Care
+6336,35,52,187,6,3,No,No,Yes,None,Well-being
+1095,33,50,159,2,4,No,Yes,No,None,Well-being
+4173,35,93,174,1,4,No,No,Yes,None,Well-being
+5287,34,56,187,2,5,No,No,No,None,Well-being
+2682,30,92,199,3,4,Yes,Yes,Yes,Cancer,Care
+6419,30,50,171,1,3,Yes,No,Yes,None,Well-being
+3321,38,74,179,1,4,No,No,No,Heart Problem,Care
+8754,36,67,170,7,2,No,Yes,Yes,None,Well-being
+5270,26,51,164,3,7,No,No,No,None,Well-being
+1015,35,65,188,1,3,No,No,No,Heart Problem,Care
+2720,30,51,164,2,6,No,No,Yes,Heart Problem,Care
+3522,34,75,165,1,0,Yes,No,No,None,Well-being
+3559,32,68,183,6,7,No,No,Yes,None,Well-being
+4863,25,66,183,1,7,Yes,No,Yes,Respiratory Problem,Care
+5598,37,98,154,7,7,No,No,Yes,Other,Care
+1651,44,62,152,7,1,Yes,No,Yes,None,Well-being
+3631,46,55,167,4,4,Yes,No,Yes,None,Well-being
+1449,27,96,176,5,5,No,No,No,Other,Care
+7056,30,65,150,0,4,No,No,No,Other,Care
+6603,28,79,165,1,7,No,No,Yes,Other,Care
+1528,29,96,159,3,5,No,No,Yes,None,Well-being
+7242,32,55,166,1,3,No,No,Yes,None,Well-being
+7687,32,77,150,5,5,No,No,No,None,Well-being
+6323,44,73,198,4,6,No,No,No,None,Well-being
+2962,28,64,188,3,4,No,No,No,Heart Problem,Care
+8594,42,87,159,5,5,No,No,No,Tuberculosis,Care
+5822,36,50,153,1,1,No,No,Yes,Tuberculosis,Care
+2011,44,100,166,1,2,No,No,Yes,None,Well-being
+8510,34,83,169,6,0,No,No,No,None,Well-being
+7803,30,93,163,1,0,No,No,Yes,None,Well-being
+4158,23,73,170,6,1,No,Yes,Yes,None,Well-being
+8187,28,98,155,6,4,Yes,No,No,None,Well-being
+2218,28,66,198,1,6,No,No,Yes,None,Well-being
+8331,29,77,167,0,3,Yes,No,No,None,Well-being
+4096,33,59,190,6,7,No,No,No,Alzheimer's Disease,Care
+6331,39,60,161,5,2,No,No,Yes,Tuberculosis,Care
+8823,40,90,177,6,1,No,No,Yes,None,Well-being
+6576,34,81,180,1,5,No,No,No,None,Well-being
+7074,26,80,189,0,2,No,No,No,Heart Problem,Care
+4883,35,61,196,6,6,No,No,Yes,None,Well-being
+9088,33,96,179,3,5,No,No,Yes,Tuberculosis,Care
+8034,34,67,193,1,1,Yes,No,No,None,Well-being
+3798,44,75,191,7,6,No,No,No,Cancer,Care
+4921,26,50,184,0,5,No,No,No,None,Well-being
+9170,32,64,160,1,0,No,No,No,Alzheimer's Disease,Care
+3166,25,61,150,7,2,Yes,No,No,None,Well-being
+9690,30,98,163,6,5,No,No,No,Other,Care
+5817,25,69,194,4,2,Yes,No,Yes,Heart Problem,Care
+8665,35,52,159,3,0,No,Yes,Yes,Respiratory Problem,Care
+2284,42,71,163,1,6,No,Yes,No,Heart Problem,Care
+7999,35,57,177,6,6,No,No,No,Heart Problem,Care
+6418,25,66,187,7,0,Yes,No,Yes,None,Well-being
+9129,31,56,181,6,4,Yes,No,No,Respiratory Problem,Care
+1909,29,76,156,3,1,No,Yes,Yes,Respiratory Problem,Care
+8729,23,85,162,7,7,No,No,No,None,Well-being
+9642,47,61,171,3,5,Yes,Yes,Yes,Tuberculosis,Care
+2006,46,78,167,0,3,Yes,No,Yes,None,Well-being
+4676,27,87,180,1,6,Yes,No,No,None,Well-being
+7167,38,71,194,4,5,No,Yes,Yes,None,Well-being
+7542,33,88,188,1,1,No,No,No,None,Well-being
+4291,32,56,155,6,0,No,No,No,None,Well-being
+3404,54,72,192,2,2,Yes,No,Yes,None,Well-being
+5592,37,62,167,7,6,No,No,No,None,Well-being
+3852,28,50,193,7,4,No,Yes,Yes,Alzheimer's Disease,Care
+8761,32,86,188,2,7,Yes,No,Yes,Other,Care
+3971,31,91,185,6,1,No,No,No,None,Well-being
+3309,37,80,165,7,4,No,No,No,None,Well-being
+5685,30,79,193,4,4,No,No,Yes,Other,Care
+1426,39,74,190,5,4,No,No,Yes,Other,Care
+6282,35,96,166,3,5,No,No,Yes,None,Well-being
+8356,22,88,195,6,5,No,No,No,Alzheimer's Disease,Care
+6402,26,85,154,6,7,No,No,Yes,Tuberculosis,Care
+7615,28,79,179,6,1,No,No,No,Tuberculosis,Care
+3865,32,62,162,5,4,Yes,No,Yes,None,Well-being
+2546,28,79,165,5,5,No,No,Yes,Cancer,Care
+5883,27,65,167,7,7,No,No,No,None,Well-being
+4286,39,94,178,0,2,Yes,No,Yes,Heart Problem,Care
+6636,41,75,157,2,1,No,No,No,Heart Problem,Care
+2077,32,100,150,6,5,No,No,Yes,Respiratory Problem,Care
+6575,32,95,190,0,5,No,No,No,Other,Care
+1546,32,71,187,5,0,Yes,No,No,Other,Care
+9117,46,100,163,3,2,No,No,Yes,None,Well-being
+2608,27,94,197,3,6,No,No,No,None,Well-being
+9918,51,61,159,0,7,No,No,Yes,Respiratory Problem,Care
+2008,29,79,151,1,5,No,Yes,Yes,None,Well-being
+4977,31,60,157,6,2,No,No,Yes,Alzheimer's Disease,Care
+2696,31,54,197,2,6,No,No,Yes,None,Well-being
+5190,27,82,164,7,7,No,No,No,Tuberculosis,Care
+7765,24,84,178,2,2,Yes,Yes,Yes,None,Well-being
+9278,30,85,153,4,4,No,No,No,Tuberculosis,Care
+2125,33,86,176,0,6,No,No,Yes,None,Well-being
+6731,43,84,166,0,7,Yes,No,No,Other,Care
+2742,31,82,182,7,2,No,Yes,No,None,Well-being
+3269,33,74,166,1,7,Yes,No,No,Heart Problem,Care
+8833,31,96,195,6,0,No,Yes,No,None,Well-being
+8750,40,54,159,7,3,No,No,No,None,Well-being
+7231,31,100,151,1,1,No,No,Yes,Heart Problem,Care
+6835,37,56,173,2,0,No,No,No,Heart Problem,Care
+7656,30,77,185,5,7,No,No,Yes,None,Well-being
+7063,34,53,156,7,5,No,No,Yes,Respiratory Problem,Care
+7606,42,98,190,3,2,Yes,Yes,No,None,Well-being
+4785,31,79,193,5,3,No,No,No,None,Well-being
+9024,24,75,168,1,5,No,No,Yes,None,Well-being
+9118,35,62,165,7,3,No,No,No,Other,Care
+4448,31,57,197,6,0,No,No,Yes,Heart Problem,Care
+5232,32,73,183,4,6,No,Yes,Yes,None,Well-being
+3653,35,68,197,0,5,No,No,Yes,None,Well-being
+3634,41,98,165,5,2,No,No,Yes,None,Well-being
+9517,28,54,184,4,6,No,No,No,None,Well-being
+1958,33,54,165,5,6,No,No,Yes,None,Well-being
+9569,36,84,150,0,2,Yes,No,Yes,Tuberculosis,Care
+8494,39,50,171,5,4,No,Yes,No,None,Well-being
+3693,29,98,168,7,4,No,No,Yes,Other,Care
+2796,32,66,193,7,2,Yes,No,Yes,Other,Care
+5879,26,89,161,6,7,No,No,No,None,Well-being
+5344,32,83,179,7,5,No,No,Yes,Other,Care
+7508,36,94,163,6,0,No,No,Yes,None,Well-being
+8949,27,65,183,0,1,Yes,No,No,Cancer,Care
+3327,38,54,173,6,6,No,No,No,None,Well-being
+1386,38,95,158,7,4,No,Yes,No,None,Well-being
+1584,34,90,191,2,4,No,No,Yes,Respiratory Problem,Care
+9438,24,75,176,1,5,No,No,No,None,Well-being
+3899,36,70,195,4,1,No,Yes,No,None,Well-being
+8935,25,60,192,6,6,No,No,Yes,None,Well-being
+2398,36,61,184,2,4,No,Yes,Yes,Alzheimer's Disease,Care
+7967,34,85,179,1,2,No,Yes,Yes,None,Well-being
+2944,34,58,200,7,7,No,No,No,None,Well-being
+7211,25,79,197,6,0,No,Yes,No,None,Well-being
+2517,34,84,164,3,4,No,No,No,None,Well-being
+6356,37,77,161,3,2,No,No,Yes,None,Well-being
+5829,28,71,183,5,7,No,No,No,Alzheimer's Disease,Care
+8942,40,78,151,4,2,No,Yes,No,Respiratory Problem,Care
+7842,26,94,193,3,7,No,No,No,Cancer,Care
+4881,35,76,190,4,6,No,No,No,None,Well-being
+8390,44,69,167,4,6,No,No,Yes,Respiratory Problem,Care
+8409,32,71,172,7,7,No,No,Yes,Respiratory Problem,Care
+7851,25,67,160,6,4,Yes,No,No,None,Well-being
+9566,39,57,165,7,1,No,No,No,Alzheimer's Disease,Care
+8637,34,51,157,5,3,No,No,No,Tuberculosis,Care
+2898,47,99,179,1,5,No,No,Yes,None,Well-being
+4857,28,71,186,5,5,No,No,Yes,None,Well-being
+3603,37,82,173,4,1,No,No,No,None,Well-being
+6066,39,79,192,2,1,No,No,No,None,Well-being
+9003,25,73,181,4,4,No,Yes,Yes,None,Well-being
+2024,29,89,166,7,3,Yes,No,No,Tuberculosis,Care
+1898,27,55,200,2,4,No,No,No,Respiratory Problem,Care
+7261,43,61,195,1,0,No,No,Yes,Other,Care
+1674,34,91,165,2,5,No,Yes,No,None,Well-being
+4829,38,97,196,3,4,No,No,Yes,Alzheimer's Disease,Care
+2098,40,79,177,6,1,Yes,No,No,Respiratory Problem,Care
+8368,22,95,163,1,3,Yes,No,No,None,Well-being
+3569,48,83,195,1,6,No,No,Yes,Respiratory Problem,Care
+4133,28,87,152,2,1,No,Yes,Yes,None,Well-being
+6242,41,64,198,6,6,No,No,No,None,Well-being
+7003,44,63,194,1,1,No,No,Yes,Heart Problem,Care
+9677,24,63,200,2,0,No,No,Yes,None,Well-being
+8436,41,54,166,7,6,No,No,Yes,Tuberculosis,Care
+3594,31,79,159,3,1,No,No,Yes,Other,Care
+1538,36,91,192,0,5,No,No,Yes,None,Well-being
+5785,34,99,163,0,6,No,No,Yes,None,Well-being
+7775,25,65,195,2,3,No,No,Yes,Respiratory Problem,Care
+7959,40,51,187,7,1,No,Yes,Yes,Alzheimer's Disease,Care
+7840,45,99,181,4,4,No,No,No,Respiratory Problem,Care
+7262,34,88,196,0,7,Yes,No,No,None,Well-being
+4938,23,71,197,4,5,No,No,Yes,None,Well-being
+6704,32,69,183,2,3,No,No,No,None,Well-being
+5946,41,84,151,0,4,No,No,Yes,None,Well-being
+3753,43,81,199,1,2,Yes,No,Yes,Tuberculosis,Care
+7115,32,97,199,4,4,No,No,Yes,Respiratory Problem,Care
+7585,27,74,157,1,4,No,Yes,Yes,Other,Care
+6971,38,90,167,6,5,No,No,Yes,None,Well-being
+1341,41,67,151,3,4,No,No,No,Tuberculosis,Care
+7287,46,100,177,0,0,No,Yes,Yes,None,Well-being
+9857,39,67,193,2,1,No,No,No,None,Well-being
+3618,33,84,173,0,5,No,No,Yes,None,Well-being
+9354,27,93,173,0,1,Yes,No,No,Cancer,Care
+4919,25,83,190,4,4,Yes,No,Yes,Other,Care
+4053,37,71,195,1,4,No,No,Yes,Cancer,Care
+8749,32,58,155,7,5,No,No,Yes,None,Well-being
+8970,44,97,195,1,7,No,No,No,None,Well-being
+3174,39,70,193,1,6,No,No,No,Other,Care
+1443,29,55,193,0,0,Yes,Yes,No,None,Well-being
+1902,45,99,186,4,4,Yes,No,Yes,None,Well-being
+7891,40,99,159,3,3,No,No,No,None,Well-being
+2346,37,57,192,3,0,No,No,Yes,Cancer,Care
+1851,38,54,196,0,7,No,Yes,No,Respiratory Problem,Care
+1033,47,79,173,4,2,No,No,No,Alzheimer's Disease,Care
+2279,35,92,180,4,7,No,Yes,No,None,Well-being
+2396,33,56,160,1,0,No,Yes,Yes,Other,Care
+5862,34,75,176,0,2,No,No,No,Alzheimer's Disease,Care
+1550,41,79,154,6,4,No,No,No,None,Well-being
+4717,34,93,197,7,0,No,No,No,Heart Problem,Care
+3857,34,87,164,2,0,No,No,No,Heart Problem,Care
+5864,26,67,188,2,6,No,No,Yes,Other,Care
+7291,24,80,168,4,5,No,No,Yes,Other,Care
+6898,30,60,182,1,7,No,No,Yes,Other,Care
+5752,30,98,158,2,0,Yes,No,Yes,None,Well-being
+2570,40,73,178,3,3,Yes,No,No,None,Well-being
+9384,28,71,155,6,5,No,No,Yes,None,Well-being
+8423,32,63,175,6,3,Yes,No,Yes,None,Well-being
+4644,40,83,164,7,2,No,No,No,Other,Care
+7318,34,64,195,7,0,Yes,No,Yes,None,Well-being
+7674,29,82,163,4,5,No,No,Yes,Other,Care
+4639,23,78,156,5,1,No,No,No,None,Well-being
+8535,34,95,172,4,4,No,No,Yes,Other,Care
+3775,39,60,177,4,0,No,No,No,Other,Care
+7524,42,73,189,3,4,No,Yes,No,Alzheimer's Disease,Care
+3452,46,89,188,7,3,No,Yes,Yes,Alzheimer's Disease,Care
+3213,39,93,196,0,2,No,No,Yes,None,Well-being
+3573,43,52,175,7,3,No,No,Yes,None,Well-being
+5823,27,65,159,5,1,No,Yes,No,Respiratory Problem,Care
+3517,49,78,168,3,6,No,No,No,None,Well-being
+9014,41,68,176,5,6,No,No,Yes,Other,Care
+8159,40,97,155,0,2,No,No,No,Other,Care
+6254,36,92,200,7,3,No,No,Yes,None,Well-being
+3392,29,57,152,0,4,No,No,No,None,Well-being
+4523,28,98,178,3,7,No,No,No,Cancer,Care
+4622,28,62,181,1,6,No,No,No,None,Well-being
+6834,36,72,198,7,3,No,No,No,None,Well-being
+8580,36,85,153,5,2,No,No,No,Other,Care
+2515,44,69,197,7,7,No,No,No,None,Well-being
+5736,39,72,152,6,5,No,No,Yes,None,Well-being
+2296,43,67,175,2,4,No,No,No,Other,Care
+5608,31,61,156,5,6,No,No,Yes,Heart Problem,Care
+9004,36,76,189,4,6,No,No,No,Heart Problem,Care
+5580,50,61,157,5,0,No,No,No,None,Well-being
+1513,26,95,182,1,0,Yes,No,Yes,None,Well-being
+6483,29,64,182,5,5,No,No,Yes,None,Well-being
+2556,49,50,156,0,1,Yes,No,Yes,Other,Care
+5564,39,91,155,4,1,Yes,No,No,Other,Care
+5804,47,92,197,3,6,No,Yes,Yes,None,Well-being
+9954,30,88,163,2,5,Yes,No,No,None,Well-being
+3005,26,99,166,0,0,No,No,Yes,None,Well-being
+5767,31,85,172,6,2,No,No,Yes,Other,Care
+5808,47,64,153,6,5,No,No,Yes,Heart Problem,Care
+8483,48,92,196,2,3,No,No,No,Alzheimer's Disease,Care
+6915,31,58,153,6,2,No,No,No,Tuberculosis,Care
+8829,44,56,186,6,0,No,No,Yes,Heart Problem,Care
+6233,43,75,200,4,1,No,No,No,Cancer,Care
+2317,37,84,194,1,7,No,No,No,None,Well-being
+7060,30,72,151,6,0,No,No,No,None,Well-being
+2523,37,94,179,4,5,No,No,Yes,None,Well-being
+9274,23,81,166,2,4,Yes,Yes,No,Heart Problem,Care
+8515,31,93,198,4,7,No,No,Yes,None,Well-being
+8218,34,90,175,1,7,No,No,Yes,None,Well-being
+4569,26,93,174,2,7,No,Yes,No,Other,Care
+1176,31,99,162,4,2,No,No,No,None,Well-being
+9054,29,57,175,5,6,No,No,Yes,None,Well-being
+4751,28,59,170,2,4,Yes,No,Yes,None,Well-being
+4652,46,88,174,1,7,Yes,No,No,Tuberculosis,Care
+4375,45,62,196,1,4,No,No,Yes,None,Well-being
+7619,32,59,158,1,0,No,No,No,None,Well-being
+2087,34,67,194,1,4,No,No,No,None,Well-being
+2271,37,62,193,7,7,No,No,No,Tuberculosis,Care
+5527,32,81,189,1,1,No,No,No,None,Well-being
+2078,31,63,193,5,5,No,No,Yes,None,Well-being
+6014,33,59,162,7,2,No,No,Yes,None,Well-being
+6578,23,51,171,0,3,No,No,No,None,Well-being
+9211,33,78,175,7,6,No,No,Yes,Respiratory Problem,Care
+5716,37,94,182,7,1,No,Yes,No,Tuberculosis,Care
+4908,28,62,156,5,2,No,Yes,No,Other,Care
+8020,31,67,168,5,2,No,No,Yes,Tuberculosis,Care
+7375,35,63,154,7,1,No,No,Yes,Alzheimer's Disease,Care
+9672,46,89,179,0,1,Yes,Yes,Yes,None,Well-being
+4860,33,84,194,5,6,No,No,No,Heart Problem,Care
+5740,34,58,157,5,2,No,No,Yes,None,Well-being
+6923,28,60,161,3,5,No,Yes,No,Heart Problem,Care
+7382,34,85,179,4,7,No,No,Yes,Other,Care
+1135,36,59,157,2,2,Yes,No,Yes,None,Well-being
+8991,33,95,200,3,3,Yes,Yes,Yes,None,Well-being
+8033,24,98,152,6,6,No,No,No,None,Well-being
+9806,34,91,166,3,5,No,No,No,None,Well-being
+1895,28,66,161,1,0,No,No,Yes,None,Well-being
+4475,22,90,183,1,1,No,No,No,None,Well-being
+4907,28,73,186,4,2,Yes,No,No,Respiratory Problem,Care
+2043,41,81,180,7,5,No,No,No,Heart Problem,Care
+3168,29,88,154,5,3,No,No,Yes,None,Well-being
+9232,37,81,158,3,3,No,Yes,No,None,Well-being
+7235,34,62,176,4,7,No,No,Yes,None,Well-being
+4485,33,99,166,7,0,No,No,No,None,Well-being
+2650,29,51,174,7,6,No,No,Yes,None,Well-being
+7061,45,61,198,3,7,Yes,No,No,Heart Problem,Care
+7829,47,60,167,5,7,No,No,No,Other,Care
+1870,36,81,179,0,1,Yes,No,No,Heart Problem,Care
+9513,36,61,196,6,0,No,No,No,Other,Care
+1746,27,52,198,5,7,No,No,Yes,None,Well-being
+2764,34,94,162,6,4,No,No,Yes,Alzheimer's Disease,Care
+4271,34,66,197,5,7,No,No,No,None,Well-being
+4136,28,72,190,3,4,No,No,No,None,Well-being
+5987,48,73,165,7,7,No,No,No,Cancer,Care
+1910,36,64,191,4,5,No,No,No,Tuberculosis,Care
+7047,38,83,150,5,3,No,Yes,No,None,Well-being
+4479,34,65,176,6,4,No,No,No,Cancer,Care
+9482,38,53,167,1,5,Yes,No,Yes,None,Well-being
+5900,31,97,159,6,5,No,No,Yes,None,Well-being
+2276,39,67,194,6,6,No,No,No,None,Well-being
+6107,29,89,180,4,1,No,Yes,Yes,None,Well-being
+8854,41,51,161,7,6,No,No,Yes,None,Well-being
+7321,31,51,177,1,4,No,No,Yes,None,Well-being
+1809,38,91,193,2,6,Yes,No,Yes,Other,Care
+4074,34,53,180,1,1,No,No,Yes,None,Well-being
+7000,28,62,181,7,4,No,No,No,Cancer,Care
+9298,46,82,178,0,5,No,No,No,Other,Care
+7802,33,77,167,0,7,Yes,No,Yes,None,Well-being
+2581,35,82,162,0,3,No,No,Yes,Alzheimer's Disease,Care
+3090,41,93,150,4,4,No,No,No,None,Well-being
+3042,42,100,174,4,3,No,Yes,Yes,None,Well-being
+1575,43,67,152,5,3,Yes,No,No,Heart Problem,Care
+3648,26,95,171,2,6,No,No,Yes,Other,Care
+8153,26,74,162,3,0,No,No,Yes,Alzheimer's Disease,Care
+4841,43,65,151,7,1,No,No,No,Heart Problem,Care
+4452,27,85,170,0,0,No,No,No,None,Well-being
+8191,25,69,183,1,0,No,No,Yes,None,Well-being
+9391,26,81,188,7,3,No,No,No,Cancer,Care
+1233,47,56,173,1,2,No,No,Yes,None,Well-being
+5373,27,82,171,2,5,No,No,Yes,None,Well-being
+4887,27,87,152,3,0,No,Yes,Yes,None,Well-being
+2663,26,74,156,5,0,No,No,No,Cancer,Care
+1842,36,86,158,4,4,No,No,Yes,Tuberculosis,Care
+1406,35,88,194,3,5,No,No,Yes,Heart Problem,Care
+9837,30,78,199,5,4,No,No,No,None,Well-being
+7241,23,57,158,3,7,Yes,No,No,None,Well-being
+6326,41,68,171,5,4,No,No,No,Other,Care
+4624,43,62,193,5,6,No,No,Yes,Other,Care
+9241,36,89,196,0,6,No,No,No,None,Well-being
+9350,28,90,153,0,5,No,No,No,None,Well-being
+1709,26,92,180,6,6,No,No,No,Other,Care
+3282,42,71,193,7,5,No,No,No,Other,Care
+6887,29,93,165,1,6,Yes,No,No,None,Well-being
+1125,36,55,152,5,5,No,No,No,Heart Problem,Care
+1380,46,86,177,3,7,No,Yes,Yes,None,Well-being
+9420,40,54,185,3,4,No,No,No,None,Well-being
+7706,33,64,169,1,2,No,No,Yes,Cancer,Care
+6245,32,60,198,7,6,No,No,No,Tuberculosis,Care
+2370,36,67,189,2,4,No,No,Yes,None,Well-being
+1961,48,70,171,6,6,No,No,No,Heart Problem,Care
+1747,30,85,186,6,4,No,No,Yes,None,Well-being
+9712,40,61,158,2,3,No,No,No,None,Well-being
+3696,26,81,195,4,0,No,No,Yes,None,Well-being
+6964,38,66,200,5,5,No,No,No,Tuberculosis,Care
+7779,25,100,173,7,6,No,No,No,Tuberculosis,Care
+1124,38,90,166,4,3,No,No,Yes,Heart Problem,Care
+2636,41,66,161,0,0,No,Yes,No,Other,Care
+7824,30,55,190,1,5,No,No,No,Other,Care
+3299,44,85,170,0,1,No,No,No,None,Well-being
+4939,41,61,181,0,4,Yes,No,Yes,Other,Care
+2737,33,97,181,0,0,No,Yes,Yes,Cancer,Care
+4160,40,76,173,0,5,No,No,No,Other,Care
+8571,22,82,162,0,4,No,Yes,Yes,None,Well-being
+1670,47,77,154,0,2,No,No,Yes,None,Well-being
+2849,25,68,178,3,2,Yes,No,No,Other,Care
+6089,28,55,176,5,5,No,No,Yes,Other,Care
+5861,22,97,153,2,7,No,Yes,Yes,None,Well-being
+1937,36,77,187,0,5,No,Yes,Yes,Respiratory Problem,Care
+3930,26,65,173,3,3,No,No,Yes,None,Well-being
+9327,39,53,178,4,3,Yes,Yes,No,Heart Problem,Care
+5538,35,71,190,5,1,No,Yes,Yes,Heart Problem,Care
+8873,25,84,182,0,5,Yes,No,Yes,Other,Care
+9147,35,79,194,0,0,No,No,Yes,Other,Care
+2141,30,52,190,2,1,No,Yes,No,Cancer,Care
+3053,39,64,163,7,1,No,No,No,Other,Care
+2679,27,56,181,3,3,Yes,No,No,None,Well-being
+6919,32,88,199,3,3,No,Yes,No,None,Well-being
+2352,31,74,172,4,5,No,No,Yes,Alzheimer's Disease,Care
+8960,36,74,173,0,4,No,No,Yes,None,Well-being
+9479,30,92,160,6,0,No,No,No,None,Well-being
+2753,44,82,151,1,0,No,No,No,Other,Care
+1460,40,91,179,0,0,No,No,Yes,Other,Care
+4973,37,81,181,0,1,No,No,Yes,Other,Care
+3706,48,78,162,5,5,No,No,No,None,Well-being
+9347,23,57,163,5,6,No,No,No,None,Well-being
+8121,40,92,189,2,5,Yes,No,Yes,Other,Care
+2309,42,66,182,7,4,No,No,Yes,None,Well-being
+8491,30,63,184,3,5,No,No,Yes,Respiratory Problem,Care
+2805,36,74,166,6,1,Yes,No,Yes,Heart Problem,Care
+7081,37,52,163,1,3,No,No,Yes,Tuberculosis,Care
+4068,26,71,171,2,6,No,Yes,No,Cancer,Care
+9087,40,57,157,2,2,No,No,No,Cancer,Care
+2266,42,78,191,7,6,No,No,No,None,Well-being
+3733,32,94,192,7,7,No,No,Yes,Alzheimer's Disease,Care
+9790,27,70,163,5,3,No,No,Yes,Tuberculosis,Care
+9436,26,73,178,5,6,No,No,Yes,None,Well-being
+5167,30,51,175,4,3,No,No,No,Cancer,Care
+2599,43,62,172,4,2,Yes,No,Yes,None,Well-being
+4425,37,89,191,1,3,No,No,No,None,Well-being
+6758,35,95,181,0,3,No,No,Yes,Heart Problem,Care
+4691,38,93,160,6,2,No,No,No,Cancer,Care
+9997,42,95,166,6,2,Yes,No,Yes,Other,Care
+7580,37,64,167,6,6,No,No,No,None,Well-being
+8115,56,96,192,0,6,Yes,No,No,None,Well-being
+6131,35,72,156,6,3,No,Yes,No,None,Well-being
+6621,43,81,171,6,1,No,Yes,No,Other,Care
+4932,46,71,167,1,3,No,Yes,Yes,None,Well-being
+9223,38,94,198,5,1,No,No,No,None,Well-being
+4584,32,61,197,4,2,Yes,No,No,None,Well-being
+3760,30,57,168,0,1,No,No,Yes,None,Well-being
+5728,33,68,160,6,5,No,No,No,None,Well-being
+1729,34,89,182,6,6,No,No,Yes,None,Well-being
+7952,41,94,190,1,5,Yes,Yes,Yes,None,Well-being
+8575,27,70,158,3,1,No,No,No,Respiratory Problem,Care
+8110,36,95,150,2,2,No,No,No,Other,Care
+1049,37,65,199,2,0,No,No,No,None,Well-being
+4571,28,78,152,7,7,No,No,Yes,None,Well-being
+2290,34,90,195,6,6,No,No,No,None,Well-being
+6180,37,54,152,7,5,No,No,No,Heart Problem,Care
+1530,44,98,188,7,2,No,No,No,Tuberculosis,Care
+4003,39,87,161,7,6,No,No,No,Alzheimer's Disease,Care
+9397,31,56,185,2,3,No,No,No,None,Well-being
+5254,61,83,151,7,0,No,No,Yes,None,Well-being
+2062,47,55,196,6,2,No,No,Yes,Tuberculosis,Care
+5218,33,50,196,4,4,No,No,No,Other,Care
+4858,27,95,176,2,1,No,No,No,None,Well-being
+7406,32,72,167,2,2,No,No,Yes,Respiratory Problem,Care
+4471,38,70,189,1,5,No,No,Yes,None,Well-being
+8155,40,81,169,5,1,No,No,No,Other,Care
+3716,37,54,181,3,7,No,No,Yes,Cancer,Care
+6230,28,84,157,2,1,No,No,No,None,Well-being
+1008,28,69,193,7,5,No,No,Yes,None,Well-being
+6709,27,81,163,1,1,No,No,Yes,None,Well-being
+1070,31,53,177,5,4,No,Yes,Yes,None,Well-being
+9608,23,69,154,4,0,No,No,Yes,Cancer,Care
+8883,25,100,190,3,2,No,No,No,Other,Care
+1818,22,51,167,3,4,No,No,No,Tuberculosis,Care
+2795,25,50,154,0,4,Yes,Yes,Yes,Tuberculosis,Care
+5575,28,96,180,2,2,No,No,Yes,None,Well-being
+6308,29,81,174,1,7,No,No,No,Other,Care
+8703,24,79,192,1,2,No,No,Yes,None,Well-being
+2053,36,80,164,0,4,No,No,Yes,None,Well-being
+6501,39,79,196,3,4,Yes,No,No,Other,Care
+1078,44,93,152,3,1,No,No,Yes,Tuberculosis,Care
+6412,41,58,152,5,4,No,No,No,None,Well-being
+5646,30,64,183,5,6,No,No,No,None,Well-being
+2405,40,79,185,4,2,Yes,No,Yes,None,Well-being
+7152,35,68,198,0,7,No,No,No,None,Well-being
+6855,37,87,160,2,1,No,Yes,Yes,None,Well-being
+9917,29,69,181,1,1,No,No,Yes,Other,Care
+7373,27,67,156,0,4,No,No,Yes,Other,Care
+6099,31,81,153,4,6,No,Yes,Yes,Respiratory Problem,Care
+8963,25,51,179,3,2,No,No,Yes,None,Well-being
+6687,37,88,193,0,3,No,Yes,No,Alzheimer's Disease,Care
+3396,32,97,182,2,4,No,No,Yes,Heart Problem,Care
+6624,33,93,162,0,1,No,No,Yes,Respiratory Problem,Care
+1705,44,82,200,1,2,No,No,No,Other,Care
+7794,27,93,180,4,0,No,No,No,Tuberculosis,Care
+6961,23,71,166,1,1,Yes,No,No,None,Well-being
+3554,37,52,173,2,2,Yes,No,Yes,None,Well-being
+2277,31,62,185,4,2,No,No,Yes,Other,Care
+3012,35,86,195,4,4,No,No,No,None,Well-being
+3920,40,98,199,5,2,No,Yes,No,Other,Care
+2879,53,69,152,2,3,Yes,No,Yes,Alzheimer's Disease,Care
+9909,43,71,151,7,5,No,No,No,Heart Problem,Care
+4867,32,66,200,4,2,No,No,No,Other,Care
+5440,28,100,187,3,0,No,No,Yes,Other,Care
+2524,35,77,158,7,5,No,No,Yes,None,Well-being
+3167,28,68,191,6,0,No,Yes,Yes,None,Well-being
+4503,37,96,162,6,0,Yes,No,No,None,Well-being
+1215,49,97,166,7,0,No,Yes,No,Other,Care
+7667,56,62,157,6,0,No,No,No,Alzheimer's Disease,Care
+8411,36,90,188,4,4,No,No,No,Respiratory Problem,Care
+9539,30,81,187,4,6,No,No,No,None,Well-being
+3490,34,79,196,1,2,No,Yes,Yes,None,Well-being
+8346,33,64,158,2,4,No,Yes,No,Alzheimer's Disease,Care
+4561,26,79,176,4,0,No,No,Yes,None,Well-being
+7498,35,95,158,2,0,No,No,No,Tuberculosis,Care
+9239,29,76,181,7,4,Yes,No,Yes,Cancer,Care
+6579,32,79,162,2,7,No,No,Yes,None,Well-being
+1292,36,90,190,4,6,No,No,No,None,Well-being
+8255,47,54,173,5,7,No,No,Yes,Heart Problem,Care
+6051,46,64,151,5,0,No,No,Yes,Other,Care
+2878,30,89,180,3,4,No,No,No,Heart Problem,Care
+6076,38,92,173,0,2,No,No,Yes,Heart Problem,Care
+7686,45,98,157,4,5,Yes,No,No,Tuberculosis,Care
+9097,29,72,157,7,5,No,No,Yes,Respiratory Problem,Care
+3712,37,100,177,0,4,No,No,Yes,None,Well-being
+9338,29,90,184,6,7,No,No,No,Tuberculosis,Care
+9572,35,98,156,4,5,Yes,No,No,Respiratory Problem,Care
+9414,36,82,177,5,1,No,Yes,No,Respiratory Problem,Care
+5805,43,52,193,4,6,Yes,No,Yes,None,Well-being
+3353,46,95,198,6,7,No,No,No,None,Well-being
+4138,44,94,173,5,7,No,No,No,Heart Problem,Care
+4715,43,77,168,1,7,No,No,Yes,None,Well-being
+5165,33,57,177,4,5,No,No,No,None,Well-being
+1855,28,78,150,4,0,No,No,Yes,Heart Problem,Care
+6196,24,87,161,6,2,No,No,No,None,Well-being
+2716,43,74,180,2,1,Yes,No,Yes,None,Well-being
+3176,43,73,164,2,4,Yes,No,Yes,Heart Problem,Care
+2976,34,88,152,3,0,No,No,Yes,None,Well-being
+4605,20,67,189,7,7,No,No,Yes,Heart Problem,Care
+9811,30,96,192,7,4,No,No,Yes,Other,Care
+8526,28,94,179,6,2,No,No,No,None,Well-being
+8788,37,73,182,6,6,No,No,No,None,Well-being
+7286,23,88,182,7,2,No,No,No,Respiratory Problem,Care
+5692,35,86,187,2,1,No,No,Yes,None,Well-being
+7562,38,82,166,5,6,No,No,Yes,None,Well-being
+4874,27,91,194,6,6,No,No,No,None,Well-being
+6205,38,97,169,5,7,No,No,No,None,Well-being
+9098,28,75,166,7,6,No,No,Yes,None,Well-being
+7159,37,71,170,2,1,No,Yes,No,None,Well-being
+2146,35,79,173,4,4,Yes,Yes,Yes,None,Well-being
+7369,43,100,193,4,0,Yes,No,Yes,Other,Care
+4002,28,60,155,4,3,Yes,Yes,No,None,Well-being
+2139,30,55,156,1,4,No,No,Yes,None,Well-being
+8791,42,56,171,1,4,Yes,No,No,Tuberculosis,Care
+3512,28,78,186,3,7,No,Yes,Yes,Tuberculosis,Care
+6510,35,84,195,5,6,No,No,No,None,Well-being
+8420,38,57,199,6,2,No,No,No,None,Well-being
+9904,35,84,168,2,6,No,No,Yes,None,Well-being
+9729,41,50,158,7,1,No,Yes,No,None,Well-being
+3077,23,84,192,7,2,Yes,Yes,No,None,Well-being
+9852,24,72,196,6,2,No,No,No,Other,Care
+9865,37,72,152,2,4,Yes,Yes,Yes,Alzheimer's Disease,Care
+9284,44,91,181,5,5,No,No,No,Cancer,Care
+4180,37,68,183,4,3,No,No,Yes,Other,Care
+7786,32,65,161,0,7,Yes,No,Yes,None,Well-being
+7272,31,92,185,2,3,No,No,Yes,None,Well-being
+5175,49,64,181,6,5,No,No,Yes,Respiratory Problem,Care
+4714,35,56,161,6,6,No,No,No,None,Well-being
+8347,33,88,167,2,7,No,No,No,Tuberculosis,Care
+8643,29,64,190,3,0,No,No,No,None,Well-being
+3651,26,68,178,7,3,No,No,No,None,Well-being
+6054,32,94,188,1,2,No,No,Yes,None,Well-being
+4063,37,55,176,2,2,Yes,No,Yes,None,Well-being
+6829,39,95,167,4,3,No,No,Yes,Cancer,Care
+7351,21,87,155,4,2,Yes,No,No,Heart Problem,Care
+9263,31,65,170,2,7,No,No,No,None,Well-being
+8948,30,63,152,0,0,No,No,No,Alzheimer's Disease,Care
+3329,43,77,191,7,7,No,No,Yes,Other,Care
+1539,33,68,167,6,3,No,No,No,Other,Care
+3555,29,99,154,5,4,No,No,Yes,Other,Care
+1046,41,73,156,7,6,No,No,No,None,Well-being
+1714,35,50,152,3,3,No,No,Yes,None,Well-being
+9667,24,55,150,2,2,No,Yes,Yes,Cancer,Care
+8122,26,64,181,6,6,No,No,Yes,Other,Care
+7681,40,64,200,7,2,Yes,No,Yes,None,Well-being
+7144,26,88,190,5,0,Yes,No,No,None,Well-being
+6657,52,79,177,5,3,No,No,Yes,None,Well-being
+7714,32,79,193,0,0,No,No,Yes,Tuberculosis,Care
+9646,54,50,193,4,3,No,No,No,None,Well-being
+4049,32,87,161,5,6,No,No,Yes,Other,Care
+5872,42,99,159,5,7,No,No,Yes,None,Well-being
+1940,31,53,196,4,7,Yes,No,No,Cancer,Care
+5836,37,74,155,0,6,No,No,No,None,Well-being
+4866,35,89,160,4,4,No,No,No,None,Well-being
+2812,39,77,189,5,6,No,No,Yes,Heart Problem,Care
+9487,38,65,156,3,0,Yes,No,Yes,Other,Care
+3072,29,63,181,7,3,No,No,No,Heart Problem,Care
+4150,36,51,154,6,3,Yes,No,Yes,Heart Problem,Care
+8475,36,99,150,2,1,Yes,Yes,Yes,None,Well-being
+1120,35,57,161,5,0,No,No,Yes,None,Well-being
+3624,29,94,156,1,7,No,No,No,Alzheimer's Disease,Care
+4092,48,100,182,7,1,No,Yes,Yes,Other,Care
+7387,36,59,184,2,0,No,Yes,No,None,Well-being
+5905,32,84,196,3,4,No,No,Yes,None,Well-being
+2864,26,88,195,3,2,No,Yes,Yes,None,Well-being
+5481,26,60,173,2,0,No,Yes,Yes,Other,Care
+7913,36,97,163,2,6,No,Yes,No,Heart Problem,Care
+2372,49,84,176,2,0,Yes,Yes,Yes,Other,Care
+5690,25,86,169,1,7,No,No,Yes,None,Well-being
+9613,33,51,178,5,5,No,No,Yes,None,Well-being
+9160,33,89,181,0,0,No,No,No,None,Well-being
+9752,31,60,178,2,7,No,No,Yes,None,Well-being
+6391,37,94,185,3,2,Yes,Yes,No,Heart Problem,Care
+3939,31,89,188,0,5,Yes,No,Yes,Heart Problem,Care
+7346,27,55,179,0,6,No,No,No,Other,Care
+3879,45,60,200,4,0,No,No,Yes,None,Well-being
+9242,40,57,156,4,5,No,No,No,Other,Care
+2242,33,75,197,0,1,No,No,No,Other,Care
+7315,37,58,159,3,0,No,No,No,Tuberculosis,Care
+9062,51,58,170,3,2,Yes,No,No,None,Well-being
+6491,34,73,195,7,2,No,No,No,None,Well-being
+7741,40,66,151,3,6,No,Yes,No,None,Well-being
+4853,39,58,193,7,3,No,No,No,Other,Care
+2429,32,54,185,6,7,No,No,Yes,Alzheimer's Disease,Care
+9035,35,69,150,6,2,Yes,Yes,Yes,Alzheimer's Disease,Care
+8205,30,58,155,5,6,No,No,No,Tuberculosis,Care
+2509,29,83,185,6,2,No,Yes,Yes,Cancer,Care
+2535,32,91,169,3,4,No,No,Yes,Respiratory Problem,Care
+7169,26,61,190,4,6,No,Yes,Yes,Respiratory Problem,Care
+9636,38,88,182,7,2,No,No,Yes,None,Well-being
+3060,33,57,173,3,0,Yes,No,Yes,Other,Care
+9555,51,67,180,2,3,Yes,No,No,None,Well-being
+4910,29,58,166,6,4,No,No,Yes,None,Well-being
+6167,46,90,154,4,6,Yes,No,No,Other,Care
+4869,54,90,176,3,7,No,No,No,Respiratory Problem,Care
+4208,37,88,194,0,6,No,No,No,Cancer,Care
+3506,32,62,155,6,0,Yes,No,Yes,None,Well-being
+8428,34,82,164,2,1,No,Yes,Yes,Heart Problem,Care
+8230,40,73,152,7,6,No,No,No,None,Well-being
+9950,36,50,191,7,3,No,Yes,No,None,Well-being
+1739,26,70,197,4,7,No,No,No,Alzheimer's Disease,Care
+1623,27,82,160,3,0,No,No,No,None,Well-being
+1181,49,51,180,4,1,Yes,No,No,None,Well-being
+5311,24,64,186,0,3,No,No,No,None,Well-being
+6641,29,90,174,6,0,No,No,Yes,None,Well-being
+5272,46,70,155,2,1,Yes,No,Yes,Respiratory Problem,Care
+4517,35,58,167,5,4,Yes,No,No,None,Well-being
+6114,46,98,196,5,0,No,No,Yes,None,Well-being
+2977,38,60,171,4,6,No,No,No,Heart Problem,Care
+8173,31,61,189,4,6,No,Yes,No,Other,Care
+5124,34,53,164,5,4,Yes,Yes,No,None,Well-being
+3957,26,97,170,7,5,No,No,Yes,None,Well-being
+7807,36,60,189,4,6,Yes,Yes,Yes,Respiratory Problem,Care
+1950,37,81,183,7,3,No,No,No,None,Well-being
+5328,21,82,152,4,1,No,No,Yes,None,Well-being
+3333,27,73,168,4,1,No,No,Yes,None,Well-being
+8248,24,85,184,0,2,No,Yes,No,None,Well-being
+8630,40,71,198,7,6,No,No,Yes,None,Well-being
+2216,43,97,196,1,1,No,Yes,No,None,Well-being
+6787,27,58,162,3,3,No,No,Yes,None,Well-being
+9842,21,100,151,7,0,Yes,No,Yes,None,Well-being
+8419,38,80,177,2,1,No,No,Yes,Cancer,Care
+9233,35,94,187,7,3,Yes,No,Yes,None,Well-being
+3941,42,52,160,3,5,No,No,Yes,Respiratory Problem,Care
+8336,31,87,192,4,5,No,No,No,None,Well-being
+6363,35,75,192,4,4,No,No,Yes,None,Well-being
+1470,27,66,181,0,1,No,No,Yes,None,Well-being
+4099,45,52,197,3,6,No,No,No,None,Well-being
+9376,45,94,169,1,7,No,No,No,Other,Care
+9359,47,89,158,1,6,No,No,Yes,Respiratory Problem,Care
+3330,32,93,182,5,1,No,No,Yes,None,Well-being
+5123,35,97,179,1,5,No,No,Yes,None,Well-being
+7845,23,97,165,6,4,No,Yes,No,Other,Care
+6188,31,73,154,2,5,No,No,No,Heart Problem,Care
+7529,27,74,187,7,4,No,No,No,None,Well-being
+1913,35,64,153,5,2,No,Yes,No,Other,Care
+4311,39,86,196,1,6,No,No,No,Respiratory Problem,Care
+7720,38,63,156,1,6,No,No,No,None,Well-being
+9179,37,76,180,3,5,No,No,No,Cancer,Care
+2566,37,50,169,0,0,No,No,Yes,Heart Problem,Care
+8732,38,95,178,4,6,No,No,Yes,None,Well-being
+4480,35,82,194,2,0,No,No,No,None,Well-being
+1824,30,76,158,1,5,Yes,No,No,Heart Problem,Care
+6993,27,81,200,0,3,No,No,Yes,Other,Care
+9240,38,82,154,3,2,No,No,No,Cancer,Care
+9859,25,61,192,4,0,No,No,Yes,None,Well-being
+3831,38,71,158,7,5,No,No,No,Tuberculosis,Care
+2155,43,82,179,0,7,No,Yes,No,Other,Care
+7451,29,96,188,3,2,No,No,Yes,Respiratory Problem,Care
+6085,37,86,155,3,6,No,No,Yes,Other,Care
+1027,45,91,170,4,0,No,No,No,None,Well-being
+8562,24,79,180,6,6,No,No,No,None,Well-being
+5999,30,55,194,5,5,No,No,No,Respiratory Problem,Care
+7264,28,50,157,4,1,Yes,No,Yes,Respiratory Problem,Care
+7421,32,83,181,0,7,Yes,No,Yes,None,Well-being
+9827,38,86,189,6,6,No,No,Yes,Respiratory Problem,Care
+5695,41,74,173,6,7,No,No,No,None,Well-being
+6302,24,62,187,6,7,No,No,Yes,Other,Care
+3987,34,88,150,5,4,No,No,No,Other,Care
+4163,24,82,177,1,0,No,No,No,Respiratory Problem,Care
+6102,50,76,158,5,4,No,No,No,None,Well-being
+1359,50,55,199,4,6,Yes,No,No,None,Well-being
+9378,32,82,170,4,6,No,No,Yes,Tuberculosis,Care
+9288,25,90,152,4,1,No,No,Yes,None,Well-being
+7190,31,100,195,2,5,No,Yes,No,None,Well-being
+8629,24,92,186,4,1,No,No,Yes,None,Well-being
+8009,35,98,199,2,3,No,No,No,None,Well-being
+3192,34,54,162,4,0,No,No,No,Other,Care
+9947,40,82,162,6,3,Yes,No,No,None,Well-being
+8446,30,74,198,6,3,No,No,Yes,Tuberculosis,Care
+4713,29,56,154,7,6,No,No,Yes,None,Well-being
+7281,29,98,152,3,0,No,No,No,Other,Care
+8953,29,89,198,2,3,No,Yes,Yes,Other,Care
+3663,35,92,161,6,5,No,No,Yes,None,Well-being
+7888,39,70,164,7,5,No,No,No,None,Well-being
+2413,38,91,188,0,1,No,No,Yes,None,Well-being
+1446,42,65,200,3,5,Yes,No,Yes,Other,Care
+3458,37,98,184,0,3,No,No,Yes,None,Well-being
+4455,32,82,177,0,3,No,No,No,Tuberculosis,Care
+3037,47,69,189,5,2,No,No,Yes,Heart Problem,Care
+6864,38,83,190,2,6,Yes,No,No,Alzheimer's Disease,Care
+5263,25,57,192,6,2,No,No,No,Other,Care
+8652,24,61,163,7,0,No,No,No,Cancer,Care
+2345,38,61,176,1,3,No,No,Yes,None,Well-being
+5433,47,61,194,3,2,No,No,No,None,Well-being
+4723,23,87,166,1,5,No,No,Yes,None,Well-being
+2571,41,50,153,3,5,No,Yes,No,Respiratory Problem,Care
+3896,41,74,173,7,1,No,No,No,Other,Care
+2873,40,84,176,5,6,No,No,Yes,Other,Care
+1034,25,84,161,3,0,No,No,No,Respiratory Problem,Care
+1421,33,92,163,6,3,Yes,No,Yes,None,Well-being
+1620,39,82,168,7,4,No,No,Yes,None,Well-being
+4895,28,53,195,1,6,No,No,Yes,None,Well-being
+9511,23,70,169,1,4,No,No,Yes,None,Well-being
+8518,59,86,172,1,1,No,No,No,Heart Problem,Care
+2115,25,50,168,6,0,No,No,No,Tuberculosis,Care
+7111,23,96,174,2,4,No,No,Yes,None,Well-being
+8100,26,64,159,1,6,No,No,No,Cancer,Care
+7038,31,67,197,4,0,No,No,No,Heart Problem,Care
+4301,36,92,192,0,5,No,No,No,Other,Care
+7172,31,79,186,5,5,No,No,Yes,None,Well-being
+7702,24,87,161,2,0,No,Yes,No,None,Well-being
+4338,30,78,175,0,1,No,Yes,No,Respiratory Problem,Care
+7804,36,97,164,2,4,No,No,Yes,None,Well-being
+2820,32,98,160,7,4,No,No,No,Alzheimer's Disease,Care
+5364,35,72,166,3,4,Yes,No,No,None,Well-being
+9862,33,56,168,6,3,No,No,Yes,Tuberculosis,Care
+9624,29,70,157,2,3,No,Yes,Yes,Heart Problem,Care
+2730,35,66,195,0,0,No,No,Yes,None,Well-being
+6322,30,81,198,3,7,No,No,Yes,Other,Care
+2672,26,50,185,1,0,Yes,No,Yes,None,Well-being
+7123,33,69,163,3,5,Yes,Yes,Yes,None,Well-being
+2767,29,53,163,1,6,Yes,No,Yes,Tuberculosis,Care
+7334,30,74,167,2,3,No,No,Yes,None,Well-being
+1430,42,97,194,6,0,No,No,Yes,Respiratory Problem,Care
+4923,32,55,155,4,7,No,No,No,Cancer,Care
+5733,25,89,152,6,7,No,No,Yes,None,Well-being
+3526,36,64,189,6,1,No,Yes,Yes,None,Well-being
+6566,35,83,197,0,4,No,No,Yes,None,Well-being
+6125,52,93,182,7,7,No,No,Yes,None,Well-being
+4296,34,61,164,6,3,No,Yes,Yes,None,Well-being
+4073,33,57,159,6,5,No,No,No,Heart Problem,Care
+6512,32,81,198,5,2,No,No,No,None,Well-being
+1666,26,93,185,5,5,No,No,Yes,None,Well-being
+7317,43,77,198,4,4,No,No,Yes,None,Well-being
+9034,31,73,176,0,2,No,No,Yes,None,Well-being
+9441,39,92,171,4,2,No,No,Yes,None,Well-being
+4680,37,59,173,1,7,No,No,Yes,None,Well-being
+1808,43,92,196,3,7,No,No,No,Tuberculosis,Care
+1050,38,87,153,6,7,No,No,Yes,Other,Care
+8808,45,64,194,0,4,Yes,No,Yes,None,Well-being
+8238,36,99,150,7,1,No,No,No,None,Well-being
+5108,34,97,170,0,6,No,No,Yes,None,Well-being
+2591,27,90,156,7,6,No,No,No,None,Well-being
+8747,28,75,190,3,1,No,No,Yes,None,Well-being
+3079,32,52,193,3,6,No,No,No,Tuberculosis,Care
+3784,29,61,175,1,3,No,No,No,Other,Care
+8879,42,75,170,4,0,No,No,Yes,Respiratory Problem,Care
+6822,27,86,167,3,5,No,Yes,No,None,Well-being
+6385,48,73,185,1,3,No,No,No,Other,Care
+4080,27,71,173,2,6,Yes,Yes,Yes,None,Well-being
+4174,30,89,173,0,6,No,No,Yes,Heart Problem,Care
+2618,24,94,184,6,2,No,No,Yes,Respiratory Problem,Care
+1311,37,98,187,7,5,No,No,Yes,None,Well-being
+9185,27,79,162,4,4,No,No,No,None,Well-being
+9959,34,57,162,4,6,No,No,No,Heart Problem,Care
+1296,24,59,159,2,4,No,No,Yes,None,Well-being
+1911,29,54,189,4,0,No,No,No,None,Well-being
+4020,31,75,182,1,7,No,No,Yes,Heart Problem,Care
+5438,33,87,188,0,5,No,No,No,None,Well-being
+8288,25,94,196,0,5,No,No,Yes,None,Well-being
+5184,32,87,152,2,1,No,No,Yes,None,Well-being
+5891,34,90,154,2,4,No,No,No,None,Well-being
+3729,28,62,175,2,0,No,No,No,None,Well-being
+3755,36,96,170,1,2,No,No,Yes,Alzheimer's Disease,Care
+1582,35,72,181,1,6,No,No,No,None,Well-being
+2714,39,82,186,6,4,No,No,Yes,None,Well-being
+2586,31,58,199,2,3,Yes,No,No,None,Well-being
+1417,36,61,176,1,3,No,No,No,None,Well-being
+7550,38,69,152,3,5,No,No,Yes,Respiratory Problem,Care
+6111,27,84,182,1,2,Yes,No,Yes,None,Well-being
+9053,35,77,194,2,2,No,No,Yes,Respiratory Problem,Care
+7378,30,71,190,7,0,Yes,No,No,None,Well-being
+2626,24,68,173,0,2,No,No,No,Cancer,Care
+4632,24,91,168,3,1,Yes,No,No,None,Well-being
+7631,35,66,180,7,2,No,No,Yes,None,Well-being
+5943,37,79,185,2,6,Yes,Yes,No,Other,Care
+4139,38,97,168,2,2,No,No,No,Respiratory Problem,Care
+6790,36,61,179,7,4,No,No,Yes,None,Well-being
+5462,34,61,155,1,4,No,No,Yes,None,Well-being
+3374,31,81,184,4,2,No,Yes,No,None,Well-being
+6286,44,73,192,4,7,No,Yes,Yes,None,Well-being
+4294,44,83,171,3,2,No,Yes,No,None,Well-being
+5821,35,76,197,7,7,No,No,No,None,Well-being
+6939,41,97,155,3,5,No,No,No,None,Well-being
+7245,43,71,197,7,2,No,No,No,Heart Problem,Care
+5774,31,86,177,2,6,No,No,No,Other,Care
+9449,45,89,181,7,1,No,No,No,None,Well-being
+8345,34,91,157,0,0,Yes,No,No,Other,Care
+4370,28,99,198,0,6,No,No,No,None,Well-being
+7625,45,61,180,4,6,No,No,Yes,Cancer,Care
+8612,27,87,179,2,5,Yes,No,No,Cancer,Care
+4797,41,77,179,5,7,No,No,Yes,None,Well-being
+3249,25,99,171,7,5,No,No,Yes,None,Well-being
+6088,43,80,180,1,2,No,Yes,No,Heart Problem,Care
+5313,25,66,175,6,6,No,No,No,Other,Care
+4261,49,60,168,3,5,No,No,No,None,Well-being
+2499,41,62,174,5,2,No,No,Yes,None,Well-being
+4754,29,83,194,3,4,No,No,Yes,None,Well-being
+1121,29,55,166,3,6,No,No,No,Other,Care
+9297,49,69,166,3,0,No,Yes,No,Tuberculosis,Care
+3982,38,53,191,6,3,No,No,Yes,None,Well-being
+6797,36,97,191,5,3,No,No,Yes,None,Well-being
+9050,41,60,180,2,5,No,No,Yes,Other,Care
+1325,31,94,187,6,1,No,No,Yes,None,Well-being
+8309,34,94,156,3,2,No,No,Yes,Cancer,Care
+8811,43,81,180,1,2,No,No,No,Respiratory Problem,Care
+8745,24,72,200,6,1,No,No,No,Tuberculosis,Care
+8196,27,73,158,5,7,No,No,No,Respiratory Problem,Care
+6296,32,99,195,2,3,No,No,Yes,None,Well-being
+4552,34,62,172,6,4,No,Yes,No,Tuberculosis,Care
+1360,33,73,170,0,7,No,No,Yes,None,Well-being
+7302,27,83,184,0,7,No,No,No,None,Well-being
+7705,26,50,170,0,1,Yes,No,No,None,Well-being
+4999,29,96,185,6,6,No,No,No,Other,Care
+2417,36,94,177,2,1,No,Yes,Yes,Alzheimer's Disease,Care
+1179,29,53,170,2,1,No,Yes,No,Heart Problem,Care
+8038,34,54,167,5,7,No,No,Yes,Heart Problem,Care
+1668,30,85,155,7,4,No,No,Yes,Other,Care
+6139,31,78,169,5,5,No,No,No,None,Well-being
+9271,31,65,186,5,2,No,No,Yes,Cancer,Care
+8675,36,74,154,1,7,No,No,No,None,Well-being
+3081,32,88,152,0,0,No,Yes,Yes,None,Well-being
+9577,30,69,161,4,6,Yes,No,No,Respiratory Problem,Care
+2263,35,76,171,3,3,No,No,No,Other,Care
+8220,39,86,175,2,2,No,Yes,Yes,Heart Problem,Care
+2585,37,91,185,2,7,No,No,No,Alzheimer's Disease,Care
+3482,28,91,182,3,6,No,No,No,None,Well-being
+2104,23,71,150,0,4,No,No,Yes,None,Well-being
+4737,44,78,189,3,2,No,Yes,Yes,Other,Care
+3708,23,54,179,7,5,No,No,No,None,Well-being
+4321,32,70,185,1,7,No,No,No,Tuberculosis,Care
+8600,38,62,197,6,5,No,No,Yes,Alzheimer's Disease,Care
+3620,45,97,194,0,5,Yes,Yes,Yes,None,Well-being
+8668,30,85,165,7,0,No,Yes,No,None,Well-being
+7312,38,68,196,2,4,Yes,No,Yes,Heart Problem,Care
+3052,28,83,173,3,0,No,No,No,Alzheimer's Disease,Care
+7069,30,84,175,6,5,No,No,Yes,Other,Care
+4494,31,100,165,5,4,Yes,Yes,No,None,Well-being
+9358,23,58,172,0,4,Yes,No,No,None,Well-being
+6936,30,90,184,5,5,No,No,Yes,None,Well-being
+4270,30,83,151,2,4,No,Yes,Yes,Other,Care
+3505,32,75,174,0,1,No,No,Yes,Tuberculosis,Care
+7416,30,51,195,4,7,No,No,Yes,None,Well-being
+3823,28,80,151,6,0,No,No,No,Tuberculosis,Care
+6560,32,63,185,3,6,No,Yes,Yes,Other,Care
+5445,38,96,164,3,5,Yes,No,Yes,None,Well-being
+8104,25,76,175,3,0,No,No,Yes,Alzheimer's Disease,Care
+1106,34,96,185,6,7,No,No,Yes,Heart Problem,Care
+9299,35,86,187,7,3,Yes,No,No,None,Well-being
+7541,36,64,190,4,6,No,No,No,Other,Care
+2691,33,64,176,1,2,No,No,Yes,Respiratory Problem,Care
+2710,38,100,197,4,7,No,Yes,Yes,None,Well-being
+8344,42,64,191,3,1,No,No,Yes,Other,Care
+3375,31,55,166,4,7,Yes,No,Yes,Cancer,Care
+5423,44,68,172,2,6,No,No,No,Cancer,Care
+5632,30,64,196,7,0,No,No,No,Respiratory Problem,Care
+4352,36,65,188,6,5,No,No,Yes,Other,Care
+4842,29,69,177,4,4,Yes,Yes,No,Respiratory Problem,Care
+3455,33,84,166,1,5,No,No,No,Other,Care
+1188,27,80,171,0,5,No,No,No,None,Well-being
+5657,33,54,159,6,3,No,Yes,No,None,Well-being
+7603,34,60,178,3,3,Yes,No,Yes,None,Well-being
+4012,30,68,198,6,7,No,No,Yes,None,Well-being
+3431,24,62,200,1,3,No,No,No,Respiratory Problem,Care
+2655,28,95,188,0,5,No,No,No,None,Well-being
+3224,42,71,165,4,0,No,No,No,Respiratory Problem,Care
+2382,29,75,175,4,0,Yes,No,No,None,Well-being
+5043,33,94,197,5,3,Yes,No,No,None,Well-being
+4424,45,66,155,5,1,Yes,No,Yes,None,Well-being
+7233,36,53,168,6,0,No,No,No,Respiratory Problem,Care
+3068,41,71,156,2,6,No,Yes,No,Alzheimer's Disease,Care
+3139,30,80,189,7,0,No,No,No,Heart Problem,Care
+1995,37,61,177,6,6,No,No,No,Other,Care
+5189,38,78,164,7,3,Yes,No,Yes,None,Well-being
+2064,35,50,188,2,0,No,No,No,None,Well-being
+4650,26,70,191,7,2,Yes,Yes,Yes,Respiratory Problem,Care
+6584,32,92,193,2,5,No,Yes,No,None,Well-being
+5211,34,73,168,3,1,No,No,Yes,None,Well-being
+2423,38,98,177,3,6,No,No,No,Other,Care
+5848,32,71,184,3,7,No,Yes,No,None,Well-being
+9294,27,62,157,7,2,Yes,No,No,None,Well-being
+8111,38,63,165,1,5,No,No,Yes,Respiratory Problem,Care
+8775,35,77,160,2,6,Yes,No,Yes,Other,Care
+9245,43,54,180,1,7,Yes,No,Yes,Other,Care
+9810,32,88,192,5,0,No,No,No,Heart Problem,Care
+9093,26,64,190,5,2,No,No,Yes,Other,Care
+3322,42,83,200,6,7,No,No,Yes,None,Well-being
+7752,40,78,178,4,1,No,No,Yes,Heart Problem,Care
+6573,46,99,172,2,6,No,No,Yes,None,Well-being
+8918,30,57,175,3,1,No,Yes,No,Respiratory Problem,Care
+7827,35,82,169,5,4,No,No,Yes,None,Well-being
+1099,27,50,193,6,6,No,No,No,None,Well-being
+8511,42,62,166,0,1,No,No,No,Other,Care
+5542,32,63,191,0,1,Yes,Yes,Yes,Alzheimer's Disease,Care
+7737,31,65,170,7,6,No,No,Yes,Heart Problem,Care
+6462,27,99,175,0,7,No,No,No,Heart Problem,Care
+1042,32,80,170,4,6,No,Yes,No,None,Well-being
+1820,39,100,155,6,4,No,No,No,None,Well-being
+4700,32,89,159,3,4,No,No,Yes,Heart Problem,Care
+4974,50,62,198,3,1,No,No,Yes,None,Well-being
+1692,29,63,180,1,3,No,No,Yes,None,Well-being
+5331,31,52,190,7,6,No,No,Yes,None,Well-being
+4804,56,67,156,5,4,No,No,No,Alzheimer's Disease,Care
+9836,36,98,188,7,0,Yes,No,No,Respiratory Problem,Care
+2965,38,94,180,5,0,No,Yes,No,Other,Care
+1146,38,94,178,4,0,No,No,No,Tuberculosis,Care
+7015,36,80,186,2,1,No,No,Yes,Other,Care
+7072,25,61,168,1,6,No,Yes,No,None,Well-being
+1650,25,82,191,0,0,No,No,Yes,Respiratory Problem,Care
+8414,39,71,188,2,2,No,No,Yes,None,Well-being
+1522,40,98,177,1,6,Yes,No,Yes,None,Well-being
+3379,34,62,159,3,5,No,No,Yes,Cancer,Care
+2086,33,96,159,0,4,Yes,No,Yes,Other,Care
+4233,24,68,159,5,0,No,No,No,Respiratory Problem,Care
+8310,28,91,150,5,5,No,No,No,Other,Care
+9379,38,92,200,2,7,No,No,Yes,Alzheimer's Disease,Care
+5621,32,100,154,2,2,Yes,No,Yes,None,Well-being
+1780,40,56,160,3,2,No,Yes,Yes,Respiratory Problem,Care
+7944,36,95,180,0,4,No,No,Yes,Other,Care
+6788,35,83,163,7,2,Yes,No,Yes,None,Well-being
+6741,27,53,183,0,3,No,No,No,Heart Problem,Care
+4365,32,65,184,0,3,No,No,No,None,Well-being
+8981,33,100,163,7,0,No,No,Yes,Tuberculosis,Care
+7831,34,82,183,2,3,No,No,Yes,Respiratory Problem,Care
+7939,30,91,197,3,5,Yes,No,No,None,Well-being
+2960,36,64,179,1,5,No,No,Yes,None,Well-being
+3040,46,99,151,6,6,No,No,Yes,None,Well-being
+6016,30,55,156,1,6,No,No,No,None,Well-being
+7897,53,81,181,1,7,Yes,No,Yes,None,Well-being
+2197,39,80,159,1,6,Yes,No,No,Cancer,Care
+1276,29,71,158,0,5,No,No,No,None,Well-being
+3134,28,78,160,0,5,No,No,No,Heart Problem,Care
+5917,46,56,186,6,4,No,No,No,Other,Care
+7878,25,96,178,4,4,No,Yes,Yes,Heart Problem,Care
+6776,32,67,150,2,0,Yes,No,Yes,Tuberculosis,Care
+2643,32,54,164,4,1,No,Yes,No,None,Well-being
+6676,34,50,153,0,0,No,Yes,Yes,Other,Care
+1284,39,83,200,3,4,No,No,Yes,Respiratory Problem,Care
+3727,29,68,175,6,2,No,No,Yes,Respiratory Problem,Care
+2310,32,57,160,1,6,No,No,Yes,None,Well-being
+4942,36,54,190,6,4,No,No,No,None,Well-being
+4725,36,56,190,0,3,No,Yes,Yes,None,Well-being
+4761,43,68,167,6,6,No,No,No,None,Well-being
+6416,27,92,184,3,2,No,No,No,None,Well-being
+1552,39,97,193,4,7,No,No,No,None,Well-being
+7293,33,69,183,4,0,No,No,Yes,Tuberculosis,Care
+2629,37,65,200,2,4,No,No,No,None,Well-being
+4739,30,75,192,7,6,No,No,Yes,Alzheimer's Disease,Care
+7054,40,59,172,1,1,No,No,Yes,None,Well-being
+9863,29,79,177,6,6,No,No,Yes,Respiratory Problem,Care
+1087,39,77,187,7,0,No,No,No,Other,Care
+3562,38,91,177,3,6,No,No,No,None,Well-being
+3239,31,78,179,0,2,No,No,No,None,Well-being
+8756,50,58,173,6,3,No,No,Yes,None,Well-being
+3366,38,98,193,6,3,No,No,Yes,Respiratory Problem,Care
+2703,29,71,163,0,7,Yes,No,Yes,None,Well-being
+3424,35,70,193,7,0,No,No,No,None,Well-being
+2162,29,65,176,6,0,No,Yes,Yes,None,Well-being
+8383,37,52,153,7,6,No,No,Yes,Other,Care
+5476,40,81,156,6,4,No,Yes,Yes,Respiratory Problem,Care
+1016,29,93,180,2,5,No,No,Yes,None,Well-being
+7449,24,83,154,3,3,No,No,No,None,Well-being
+4634,24,61,198,4,4,Yes,Yes,No,None,Well-being
+3954,45,91,194,2,4,No,No,Yes,None,Well-being
+8250,36,56,166,6,5,No,No,Yes,Respiratory Problem,Care
+8769,35,97,153,5,6,No,No,No,Cancer,Care
+8392,32,80,172,4,2,No,No,Yes,None,Well-being
+5573,29,50,196,2,7,No,Yes,No,None,Well-being
+2131,25,52,171,5,3,Yes,No,No,Cancer,Care
+5457,46,82,165,7,2,No,No,Yes,None,Well-being
+3310,27,92,183,4,1,No,No,No,Other,Care
+6940,37,84,174,1,0,No,No,No,None,Well-being
+1294,37,97,168,1,5,No,Yes,No,Respiratory Problem,Care
+3242,31,67,165,3,7,Yes,No,Yes,Other,Care
+6998,28,72,170,0,1,No,No,No,None,Well-being
+3214,36,78,164,1,3,No,No,No,None,Well-being
+5129,30,55,178,5,6,No,No,No,Heart Problem,Care
+5681,27,65,188,7,0,Yes,No,Yes,None,Well-being
+8299,28,54,185,2,2,No,No,Yes,None,Well-being
+5587,31,87,177,6,0,Yes,No,No,None,Well-being
+9965,25,80,155,1,0,No,Yes,Yes,Heart Problem,Care
+6783,23,89,190,6,0,No,Yes,Yes,None,Well-being
+3377,24,81,181,6,6,No,No,No,None,Well-being
+4817,34,66,192,6,1,No,No,Yes,Cancer,Care
+1012,23,51,154,7,5,No,No,No,Other,Care
+2159,23,55,169,4,2,No,No,No,None,Well-being
+3479,41,64,178,6,2,No,No,No,None,Well-being
+5016,28,50,178,6,1,No,Yes,Yes,Heart Problem,Care
+3642,34,93,153,5,4,Yes,No,Yes,Heart Problem,Care
+2548,41,79,172,1,0,Yes,No,Yes,Cancer,Care
+7991,29,56,183,6,7,No,No,Yes,Respiratory Problem,Care
+5235,41,69,187,1,4,No,No,No,Respiratory Problem,Care
+2362,34,64,162,6,7,No,No,No,None,Well-being
+3664,37,52,172,4,4,No,No,No,None,Well-being
+9933,43,92,199,2,5,No,No,Yes,Alzheimer's Disease,Care
+3150,30,81,192,0,1,No,No,Yes,Heart Problem,Care
+7616,38,73,171,5,1,No,No,No,None,Well-being
+7154,22,58,199,5,3,No,No,Yes,None,Well-being
+3622,23,67,173,0,0,No,No,No,None,Well-being
+5049,38,91,185,7,1,No,No,Yes,None,Well-being
+1798,31,84,168,4,3,No,No,No,Alzheimer's Disease,Care
+3643,34,94,190,7,0,No,No,No,Alzheimer's Disease,Care
+8092,27,97,185,3,0,No,Yes,Yes,None,Well-being
+8298,37,84,182,0,4,Yes,No,Yes,None,Well-being
+2443,44,70,164,2,0,No,Yes,No,Heart Problem,Care
+7328,33,60,166,7,1,Yes,No,No,None,Well-being
+6925,34,57,163,1,4,Yes,Yes,No,None,Well-being
+9699,34,52,167,5,1,No,No,No,Alzheimer's Disease,Care
+1309,28,89,159,6,4,No,No,No,Alzheimer's Disease,Care
+8150,31,63,188,0,6,No,No,Yes,None,Well-being
+5502,25,69,189,1,2,No,No,No,None,Well-being
+7163,49,62,177,4,3,No,No,No,Heart Problem,Care
+9390,38,85,198,1,5,Yes,No,Yes,Respiratory Problem,Care
+6097,37,85,187,7,6,No,No,No,Heart Problem,Care
+4768,35,50,199,2,5,Yes,No,No,Other,Care
+5794,51,77,174,6,4,No,No,No,Other,Care
+7852,22,82,188,6,6,No,No,Yes,None,Well-being
+9858,26,52,186,7,0,Yes,No,No,Respiratory Problem,Care
+6737,41,94,175,2,1,Yes,No,No,None,Well-being
+4834,44,79,183,2,1,No,No,No,Heart Problem,Care
+2892,32,54,160,7,0,No,No,Yes,None,Well-being
+2670,47,54,193,7,2,Yes,No,No,None,Well-being
+8755,37,89,184,5,4,No,No,Yes,None,Well-being
+1496,52,76,200,5,6,No,No,No,Respiratory Problem,Care
+6346,41,97,196,6,4,Yes,No,No,None,Well-being
+7170,36,83,181,0,3,No,Yes,No,None,Well-being
+8627,32,76,197,7,0,No,No,Yes,None,Well-being
+5961,40,60,157,7,5,No,No,Yes,None,Well-being
+2160,27,57,181,2,7,No,No,Yes,None,Well-being
+6468,29,75,166,0,1,No,No,Yes,Other,Care
+9543,33,77,171,2,5,No,No,Yes,Cancer,Care
+5044,44,89,161,0,7,Yes,No,Yes,None,Well-being
+3301,38,60,178,3,6,No,No,No,None,Well-being
+8421,41,83,174,2,2,No,No,Yes,None,Well-being
+1457,41,73,181,4,0,No,No,Yes,None,Well-being
+2430,43,80,164,5,0,No,Yes,No,Respiratory Problem,Care
+3686,35,54,168,0,1,Yes,No,Yes,Other,Care
+8242,38,69,196,3,0,Yes,No,No,Cancer,Care
+3616,37,98,191,2,0,No,No,No,Respiratory Problem,Care
+4177,44,79,193,3,0,No,No,Yes,Other,Care
+7634,33,53,190,6,1,No,No,Yes,None,Well-being
+6956,30,79,176,4,3,No,No,Yes,None,Well-being
+7604,24,62,168,7,7,No,No,Yes,Other,Care
+5583,33,85,184,7,5,No,No,No,None,Well-being
+5431,30,54,193,5,5,No,No,No,None,Well-being
+4504,34,56,175,4,3,Yes,No,No,None,Well-being
+8851,25,68,191,4,3,No,No,Yes,None,Well-being
+8375,40,68,195,0,4,No,No,No,Respiratory Problem,Care
+3323,43,89,180,2,3,No,No,No,Heart Problem,Care
+3351,27,78,185,4,4,No,No,Yes,None,Well-being
+6549,27,53,199,2,4,No,Yes,Yes,Other,Care
+5815,40,83,197,4,3,No,No,No,Other,Care
+5241,35,66,167,0,7,No,No,Yes,None,Well-being
+6005,24,70,178,4,5,No,No,Yes,None,Well-being
+3992,40,90,156,1,2,No,No,Yes,None,Well-being
+3901,41,79,190,7,0,No,No,Yes,Heart Problem,Care
+8846,28,78,175,2,4,No,No,No,Alzheimer's Disease,Care
+5160,26,100,197,3,7,No,No,Yes,Tuberculosis,Care
+2046,36,77,162,6,1,No,No,Yes,Respiratory Problem,Care
+1742,28,82,173,7,2,No,No,Yes,None,Well-being
+7157,31,68,178,7,1,No,No,Yes,None,Well-being
+8074,32,91,169,7,5,No,No,No,Other,Care
+4308,39,81,183,6,4,No,No,Yes,None,Well-being
+6203,42,72,157,2,5,No,No,Yes,None,Well-being
+4159,31,81,174,3,2,No,No,No,None,Well-being
+7260,30,82,193,7,5,No,No,No,Respiratory Problem,Care
+8480,31,88,162,1,4,No,No,No,Cancer,Care
+7385,36,74,192,4,5,No,No,No,None,Well-being
+3556,20,92,154,5,7,No,No,No,None,Well-being
+5639,23,62,155,6,7,No,No,Yes,Respiratory Problem,Care
+7141,42,96,179,6,0,No,No,Yes,Cancer,Care
+7620,46,79,174,4,7,No,No,No,None,Well-being
+2189,37,80,169,1,0,No,No,Yes,Heart Problem,Care
+1117,27,89,200,4,6,No,Yes,Yes,Other,Care
+1467,28,79,164,0,5,No,No,Yes,None,Well-being
+5115,40,76,159,3,0,No,No,Yes,Other,Care
+8977,38,75,188,0,3,No,No,Yes,None,Well-being
+8357,25,93,162,1,4,No,Yes,No,Other,Care
+3676,39,82,164,0,7,No,No,Yes,None,Well-being
+6253,33,63,179,5,6,No,No,No,Other,Care
+2022,31,52,186,7,1,No,No,No,None,Well-being
+1493,27,59,196,1,1,No,No,No,None,Well-being
+5643,26,98,175,4,1,No,No,Yes,Tuberculosis,Care
+9504,40,63,192,1,5,No,No,Yes,None,Well-being
+5382,38,96,154,3,6,No,No,Yes,None,Well-being
+3462,34,68,188,4,0,No,No,No,Tuberculosis,Care
+8407,34,59,181,1,1,No,No,Yes,None,Well-being
+6118,37,77,193,0,6,No,No,No,None,Well-being
+8464,27,59,188,4,2,No,No,No,Heart Problem,Care
+1541,44,72,185,2,4,No,Yes,No,Other,Care
+9585,34,68,150,0,3,Yes,Yes,Yes,None,Well-being
+3270,37,85,188,6,2,No,No,No,None,Well-being
+1919,43,72,182,3,2,No,Yes,No,Heart Problem,Care
+2380,30,53,184,5,4,No,Yes,No,Alzheimer's Disease,Care
+8466,34,62,194,4,4,No,Yes,Yes,None,Well-being
+2066,28,67,199,1,5,No,Yes,No,None,Well-being
+1768,37,63,180,5,0,No,No,Yes,Respiratory Problem,Care
+1566,32,64,159,4,3,No,Yes,No,None,Well-being
+4835,31,77,170,6,2,No,No,No,Other,Care
+2544,29,89,168,0,7,No,No,No,Respiratory Problem,Care
+3163,31,86,162,7,0,No,No,Yes,None,Well-being
+8784,40,51,183,0,5,No,Yes,No,Other,Care
+3082,27,54,155,5,3,No,No,Yes,Heart Problem,Care
+3777,39,68,178,7,5,No,No,No,None,Well-being
+9201,25,83,151,5,3,No,No,No,None,Well-being
+8694,22,71,178,5,3,No,No,No,Cancer,Care
+5289,35,92,163,4,6,No,No,No,Respiratory Problem,Care
+5120,40,53,178,1,6,Yes,No,No,None,Well-being
+3994,26,59,189,2,1,No,No,No,None,Well-being
+9838,41,76,191,3,0,No,No,No,None,Well-being
+9448,31,58,163,5,2,No,No,No,None,Well-being
+6135,23,50,179,1,4,No,Yes,No,None,Well-being
+5133,42,92,182,4,4,No,No,No,Other,Care
+9137,26,100,195,7,7,No,No,No,None,Well-being
+3541,36,93,182,0,4,No,No,No,Heart Problem,Care
+6667,27,71,199,6,4,Yes,No,No,None,Well-being
+5686,44,88,155,3,1,Yes,No,Yes,None,Well-being
+9603,36,83,157,7,0,No,No,No,Other,Care
+4573,25,60,151,6,3,Yes,No,Yes,Respiratory Problem,Care
+4819,31,56,152,0,1,No,No,Yes,Tuberculosis,Care
+9913,36,78,152,2,0,No,No,No,None,Well-being
+9478,33,98,167,6,6,No,No,No,Heart Problem,Care
+8589,31,68,173,0,0,No,No,Yes,None,Well-being
+4514,55,73,151,1,6,No,No,Yes,Heart Problem,Care
+8042,29,56,163,3,2,Yes,No,Yes,None,Well-being
+8995,32,80,169,1,3,No,No,Yes,Tuberculosis,Care
+2214,49,64,188,1,5,No,Yes,Yes,None,Well-being
+5141,42,57,167,6,5,No,No,Yes,None,Well-being
+5923,27,96,195,4,6,No,No,Yes,Heart Problem,Care
+3986,51,50,156,6,5,No,No,No,Heart Problem,Care
+4104,31,99,172,0,7,No,Yes,No,None,Well-being
+2171,39,75,191,2,2,No,No,No,Cancer,Care
+6586,30,97,190,7,2,Yes,No,Yes,None,Well-being
+1110,45,64,174,5,3,No,No,Yes,Cancer,Care
+5851,30,87,178,4,5,No,No,Yes,Other,Care
+4705,32,51,177,5,4,No,No,Yes,None,Well-being
+9536,42,90,155,0,0,No,No,Yes,Heart Problem,Care
+9067,45,69,178,0,2,No,No,Yes,Respiratory Problem,Care
+9439,39,55,178,6,2,No,No,No,Tuberculosis,Care
+6032,34,52,156,6,3,No,No,Yes,None,Well-being
+2505,34,63,198,6,1,Yes,No,No,None,Well-being
+6618,43,74,168,6,4,No,No,No,Other,Care
+6643,44,53,197,1,4,No,No,No,None,Well-being
+4040,29,82,177,1,0,Yes,No,Yes,None,Well-being
+1499,24,59,150,3,2,No,No,No,None,Well-being
+5841,26,52,199,5,2,No,No,No,None,Well-being
+9768,44,83,168,0,1,No,No,Yes,Other,Care
+4815,33,50,181,1,7,Yes,No,Yes,None,Well-being
+2406,30,87,157,4,3,No,No,Yes,None,Well-being
+7574,30,76,181,6,5,No,No,Yes,Other,Care
+6867,48,63,160,4,3,No,Yes,No,None,Well-being
+3335,44,70,193,1,4,Yes,No,Yes,None,Well-being
+7621,35,94,185,1,6,Yes,No,No,Heart Problem,Care
+8804,40,63,179,3,0,Yes,No,No,Cancer,Care
+4736,38,54,156,4,7,No,No,Yes,Alzheimer's Disease,Care
+5275,31,57,167,5,5,No,No,Yes,None,Well-being
+6625,37,75,182,5,2,No,No,No,Heart Problem,Care
+8384,32,52,157,4,5,No,No,No,Other,Care
+9921,44,93,200,4,1,No,No,No,None,Well-being
+2821,35,60,177,1,7,No,No,Yes,None,Well-being
+5745,37,62,155,4,3,No,No,Yes,None,Well-being
+7020,33,97,150,4,5,Yes,No,No,None,Well-being
+6968,36,91,155,6,4,No,No,Yes,Other,Care
+9500,40,63,164,7,2,No,Yes,Yes,None,Well-being
+3261,35,63,192,2,5,No,No,Yes,Respiratory Problem,Care
+5285,42,96,180,7,6,No,No,Yes,None,Well-being
+4800,40,50,171,0,3,No,No,No,Respiratory Problem,Care
+8681,38,64,188,5,3,No,No,No,None,Well-being
+2940,34,83,156,4,6,No,No,Yes,None,Well-being
+7166,36,90,169,6,1,No,Yes,Yes,None,Well-being
+3748,39,94,174,7,0,Yes,No,Yes,Heart Problem,Care
+8065,28,66,168,7,1,No,No,Yes,None,Well-being
+2101,31,91,185,6,1,No,No,No,None,Well-being
+5761,26,93,171,1,3,No,No,No,Other,Care
+4454,38,87,185,4,3,No,No,No,Alzheimer's Disease,Care
+5078,31,71,180,7,7,No,No,Yes,Respiratory Problem,Care
+3584,29,54,184,3,7,No,No,No,Respiratory Problem,Care
+2713,33,67,167,5,0,Yes,No,Yes,None,Well-being
+7940,27,87,185,1,6,No,No,No,Other,Care
+5653,26,82,196,0,4,No,No,No,Other,Care
+5907,30,70,157,0,6,No,Yes,No,Other,Care
+1628,30,63,193,1,3,Yes,No,Yes,Other,Care
+7856,37,70,180,4,6,No,Yes,Yes,Heart Problem,Care
+9124,21,50,200,5,6,No,No,No,Other,Care
+2468,46,75,150,0,6,No,No,Yes,None,Well-being
+9091,48,55,178,6,6,No,No,Yes,None,Well-being
+1624,29,63,164,6,7,No,No,No,Cancer,Care
+5283,26,99,161,6,0,No,No,No,Respiratory Problem,Care
+4011,47,87,175,6,0,No,No,No,None,Well-being
+8509,27,56,168,0,3,No,No,Yes,Other,Care
+4755,33,65,178,0,2,Yes,No,No,None,Well-being
+7237,43,54,193,2,1,No,No,No,Tuberculosis,Care
+9770,26,52,180,2,5,No,No,No,None,Well-being
+4586,27,93,173,1,0,No,No,Yes,Other,Care
+7278,38,62,197,2,2,No,No,Yes,Other,Care
+2192,42,78,187,1,2,Yes,No,Yes,None,Well-being
+4001,40,94,167,4,3,No,No,Yes,None,Well-being
+7512,28,82,188,6,0,No,No,Yes,None,Well-being
+7432,45,100,168,4,7,No,No,Yes,Other,Care
+8578,43,53,179,5,1,No,No,Yes,Cancer,Care
+7587,30,85,151,3,5,No,No,No,Respiratory Problem,Care
+7815,36,84,181,7,7,No,No,Yes,Respiratory Problem,Care
+1785,33,88,190,2,5,No,No,No,None,Well-being
+7650,43,99,193,6,3,Yes,No,No,Heart Problem,Care
+2501,38,64,200,3,6,No,No,Yes,None,Well-being
+6723,27,89,166,6,6,No,No,No,Other,Care
+5430,27,65,166,5,4,Yes,Yes,Yes,Respiratory Problem,Care
+1529,29,82,160,0,0,No,No,No,Other,Care
+8405,26,72,175,6,6,No,No,Yes,Respiratory Problem,Care
+8471,31,50,167,1,5,No,No,No,None,Well-being
+1312,36,80,178,3,3,No,No,Yes,None,Well-being
+5193,35,95,192,2,5,Yes,No,Yes,Alzheimer's Disease,Care
+1214,38,81,165,2,6,No,Yes,Yes,None,Well-being
+3388,29,84,167,6,7,No,No,Yes,Heart Problem,Care
+7549,38,82,188,1,4,No,No,No,Tuberculosis,Care
+8874,40,90,195,6,2,No,No,No,None,Well-being
+5913,46,55,198,3,4,No,No,Yes,Heart Problem,Care
+7268,22,93,167,1,5,Yes,No,No,None,Well-being
+1985,27,70,199,4,6,No,Yes,Yes,None,Well-being
+6506,38,100,196,5,7,No,No,Yes,None,Well-being
+2099,28,88,200,4,4,No,No,No,None,Well-being
+3656,28,53,180,7,3,Yes,No,No,None,Well-being
+8573,36,96,198,3,2,No,Yes,Yes,Heart Problem,Care
+9498,39,96,174,2,4,No,No,No,None,Well-being
+6650,28,87,193,5,1,No,No,Yes,Other,Care
+9844,26,71,180,2,3,No,No,Yes,None,Well-being
+7048,33,90,191,4,6,No,No,No,None,Well-being
+5031,22,97,174,7,0,No,No,Yes,None,Well-being
+8199,24,78,171,0,0,No,Yes,Yes,None,Well-being
+8609,34,87,153,7,4,No,Yes,Yes,Cancer,Care
+6673,41,59,169,4,4,Yes,No,No,None,Well-being
+2719,43,53,198,3,6,No,Yes,No,None,Well-being
+2868,37,58,177,1,6,No,No,Yes,None,Well-being
+5420,29,98,198,3,0,No,Yes,Yes,None,Well-being
+1232,34,86,152,0,7,No,No,Yes,Other,Care
+3288,37,68,159,3,1,No,Yes,Yes,None,Well-being
+7239,27,53,200,6,0,No,No,Yes,None,Well-being
+7532,28,57,184,1,0,Yes,Yes,No,None,Well-being
+8389,25,56,191,1,7,Yes,No,Yes,Other,Care
+3211,36,90,173,7,5,No,No,Yes,None,Well-being
+7764,25,96,167,7,1,No,Yes,No,None,Well-being
+3846,26,80,183,4,6,No,No,Yes,Heart Problem,Care
+7150,39,79,152,0,0,Yes,No,Yes,Tuberculosis,Care
+7436,37,100,195,1,6,No,Yes,Yes,Other,Care
+7877,49,72,182,2,1,No,No,No,None,Well-being
+2452,38,53,200,4,0,No,No,No,None,Well-being
+1475,40,94,164,0,6,No,No,No,None,Well-being
+1194,25,83,156,7,6,No,No,No,Respiratory Problem,Care
+6892,40,98,150,6,6,No,No,Yes,None,Well-being
+9979,36,62,190,7,4,No,No,Yes,Other,Care
+4727,30,98,164,5,1,No,No,Yes,None,Well-being
+4752,27,51,156,4,0,No,No,No,Heart Problem,Care
+5348,30,56,189,6,3,Yes,Yes,Yes,None,Well-being
+6847,29,64,164,4,1,No,No,No,None,Well-being
+3859,26,97,198,1,5,No,No,Yes,None,Well-being
+8913,41,86,184,0,5,No,No,Yes,None,Well-being
+2800,30,98,165,4,7,Yes,No,Yes,None,Well-being
+3502,33,88,190,3,2,No,No,Yes,Other,Care
+7419,36,56,176,2,0,No,No,No,Respiratory Problem,Care
+2778,32,61,171,1,2,No,No,No,Other,Care
+3428,32,56,189,7,4,No,No,Yes,None,Well-being
+5642,44,89,175,5,1,No,Yes,Yes,Heart Problem,Care
+4795,41,70,166,7,0,No,No,Yes,Heart Problem,Care
+8502,37,95,183,0,7,No,No,Yes,Cancer,Care
+2489,47,84,161,2,4,No,No,No,None,Well-being
+1320,53,77,194,5,4,No,No,Yes,None,Well-being
+6486,43,68,193,7,3,No,No,No,None,Well-being
+2422,34,70,183,4,4,No,No,Yes,Heart Problem,Care
+2640,24,62,188,0,1,No,No,Yes,None,Well-being
+1077,46,60,186,0,6,No,Yes,No,Other,Care
+3259,26,86,165,7,6,No,No,Yes,Tuberculosis,Care
+7905,39,74,170,6,2,No,Yes,Yes,Heart Problem,Care
+6338,30,83,199,0,0,No,Yes,Yes,Respiratory Problem,Care
+3130,28,60,200,2,0,No,No,Yes,Heart Problem,Care
+9584,43,77,186,2,2,No,No,Yes,None,Well-being
+4116,32,93,158,7,2,No,Yes,No,None,Well-being
+4247,32,63,171,3,4,No,No,Yes,None,Well-being
+4010,43,67,189,5,5,No,No,Yes,None,Well-being
+6038,39,82,191,3,4,No,No,No,None,Well-being
+3628,34,72,170,7,5,No,No,Yes,Other,Care
+6970,27,79,186,5,2,No,Yes,No,None,Well-being
+7139,25,66,184,1,1,No,No,Yes,None,Well-being
+9251,29,84,197,7,4,No,Yes,Yes,None,Well-being
+4469,33,51,181,2,0,No,No,No,Other,Care
+5552,26,68,163,5,7,No,No,No,Respiratory Problem,Care
+3140,42,94,185,4,6,No,No,Yes,Tuberculosis,Care
+6185,33,74,159,4,2,No,No,No,None,Well-being
+1723,40,72,157,0,6,No,No,Yes,None,Well-being
+8943,29,80,194,7,2,No,No,Yes,Other,Care
+6329,28,58,192,0,1,No,No,Yes,None,Well-being
+7740,33,55,182,0,4,No,Yes,No,Respiratory Problem,Care
+9960,25,73,196,5,5,No,No,No,None,Well-being
+4437,31,98,174,4,7,No,No,Yes,None,Well-being
+5194,34,82,172,2,4,No,No,Yes,Other,Care
+1804,35,92,197,6,3,No,No,Yes,None,Well-being
+8181,34,75,191,1,3,No,No,No,None,Well-being
+8567,22,91,159,4,1,No,No,No,None,Well-being
+7085,33,56,195,6,7,No,No,No,Respiratory Problem,Care
+9372,48,78,156,4,3,No,No,Yes,Cancer,Care
+5048,38,94,183,3,6,Yes,No,Yes,None,Well-being
+8003,26,70,183,0,4,Yes,No,Yes,Tuberculosis,Care
+4459,51,52,190,0,5,Yes,Yes,No,Heart Problem,Care
+1112,32,71,189,5,7,No,No,No,None,Well-being
+7500,39,52,181,3,7,No,Yes,No,None,Well-being
+2223,34,62,161,5,0,No,Yes,Yes,None,Well-being
+5990,34,67,199,3,5,Yes,No,No,None,Well-being
+5584,27,52,174,0,7,No,No,Yes,Alzheimer's Disease,Care
+3152,26,97,174,3,3,No,No,Yes,Other,Care
+3478,28,71,159,1,5,No,No,Yes,None,Well-being
+5369,28,62,192,6,5,No,No,No,Tuberculosis,Care
+9329,31,80,159,2,4,Yes,No,No,Other,Care
+3633,32,54,157,3,0,Yes,No,No,None,Well-being
+9133,36,92,164,3,5,No,No,Yes,Other,Care
+7819,31,66,163,7,4,No,No,No,Heart Problem,Care
+9225,25,58,175,6,0,No,No,Yes,Other,Care
+3817,26,70,150,5,6,No,No,No,None,Well-being
+7403,26,84,175,7,2,Yes,Yes,Yes,Cancer,Care
+5979,29,86,180,1,3,No,No,No,None,Well-being
+8450,45,59,185,6,1,Yes,Yes,Yes,Other,Care
+5647,40,99,158,4,5,No,Yes,No,Respiratory Problem,Care
+6046,32,83,188,2,2,No,No,Yes,None,Well-being
+2907,41,60,188,5,6,No,No,No,Respiratory Problem,Care
+6551,25,74,168,0,7,No,No,Yes,Heart Problem,Care
+3525,38,81,162,1,5,No,No,Yes,Heart Problem,Care
+9601,28,59,168,5,7,No,No,Yes,None,Well-being
+3189,26,83,164,3,1,Yes,No,Yes,None,Well-being
+7883,36,51,199,4,0,No,No,No,Cancer,Care
+9565,43,66,173,6,7,No,No,No,None,Well-being
+6403,31,60,194,3,3,No,No,Yes,None,Well-being
+6129,39,64,163,7,5,No,No,No,None,Well-being
+1242,35,71,185,7,5,No,No,No,Respiratory Problem,Care
+3504,37,97,194,3,0,Yes,Yes,Yes,None,Well-being
+2699,27,69,175,7,4,No,No,Yes,None,Well-being
+6749,34,74,186,2,2,No,No,No,Heart Problem,Care
+8980,29,92,195,4,1,No,No,Yes,None,Well-being
+2842,29,78,176,0,4,No,No,No,Tuberculosis,Care
+2056,28,59,151,6,5,No,No,Yes,None,Well-being
+6460,35,59,195,4,3,No,Yes,Yes,None,Well-being
+3752,37,51,189,5,3,No,No,No,Respiratory Problem,Care
+8489,27,75,167,7,4,No,No,Yes,None,Well-being
+4607,31,76,190,3,0,No,No,Yes,None,Well-being
+5249,36,58,168,4,0,No,No,Yes,Respiratory Problem,Care
+6300,32,87,154,0,0,No,No,No,None,Well-being
+2157,34,68,186,3,0,No,No,Yes,Cancer,Care
+5531,24,72,173,0,3,Yes,No,No,None,Well-being
+2133,35,64,172,1,5,No,No,Yes,None,Well-being
+4013,25,54,171,3,6,Yes,No,Yes,Heart Problem,Care
+3572,29,89,162,4,1,Yes,Yes,No,None,Well-being
+5161,30,72,163,1,0,No,No,Yes,Respiratory Problem,Care
+1869,29,70,196,2,4,No,No,Yes,None,Well-being
+4320,25,70,199,3,3,No,Yes,Yes,None,Well-being
+5390,39,54,187,1,4,No,Yes,No,None,Well-being
+2884,23,69,196,1,5,No,No,Yes,Respiratory Problem,Care
+6912,31,65,184,6,6,No,No,No,None,Well-being
+1388,27,58,194,7,2,No,Yes,No,Other,Care
+1067,40,58,166,0,3,No,Yes,No,None,Well-being
+4758,27,85,161,3,6,No,No,Yes,Respiratory Problem,Care
+3228,29,58,174,6,0,No,No,No,None,Well-being
+4440,28,93,165,0,2,No,No,No,Other,Care
+8959,36,91,172,0,6,No,No,No,Other,Care
+1996,38,91,151,0,5,No,Yes,No,None,Well-being
+1444,33,87,198,0,5,No,No,No,None,Well-being
+3966,25,58,166,3,6,Yes,Yes,Yes,Respiratory Problem,Care
+1775,48,78,175,1,1,No,No,No,None,Well-being
+5250,35,83,166,0,3,Yes,No,Yes,Cancer,Care
+4117,36,73,151,0,4,Yes,No,No,Respiratory Problem,Care
+4295,36,91,192,2,2,No,Yes,No,None,Well-being
+3791,28,68,185,6,7,No,No,Yes,Other,Care
+7557,23,94,181,4,3,No,Yes,Yes,Respiratory Problem,Care
+7179,36,50,157,0,3,No,No,Yes,Respiratory Problem,Care
+2349,37,89,151,7,5,No,No,No,Other,Care
+8013,38,81,175,4,4,No,No,Yes,None,Well-being
+7843,30,91,159,2,2,No,No,No,Respiratory Problem,Care
+7943,46,51,197,2,4,No,No,No,None,Well-being
+5119,26,84,182,6,4,No,No,No,None,Well-being
+9353,25,54,184,0,2,No,No,Yes,Heart Problem,Care
+7729,41,95,164,7,3,No,No,Yes,None,Well-being
+2843,44,75,198,3,1,No,No,Yes,None,Well-being
+4811,25,68,175,1,5,Yes,No,No,Respiratory Problem,Care
+4166,37,83,188,6,0,Yes,No,No,None,Well-being
+1328,37,60,195,4,2,No,No,Yes,Respiratory Problem,Care
+9196,36,94,190,0,4,No,No,Yes,Alzheimer's Disease,Care
+6043,43,62,197,4,6,No,No,No,Heart Problem,Care
+2667,24,64,154,5,3,Yes,Yes,No,None,Well-being
+5779,29,77,151,1,5,Yes,No,No,Alzheimer's Disease,Care
+3441,27,61,188,2,4,No,No,No,Respiratory Problem,Care
+8284,36,69,164,2,0,No,No,No,Heart Problem,Care
+4292,31,78,178,5,5,No,No,Yes,None,Well-being
+9590,38,64,175,7,3,No,No,Yes,None,Well-being
+4026,20,64,159,5,6,No,No,Yes,None,Well-being
+3889,26,69,184,5,1,No,Yes,Yes,Other,Care
+8184,44,66,199,1,6,No,No,Yes,None,Well-being
+6959,36,100,162,5,6,No,No,Yes,None,Well-being
+7001,29,66,150,2,3,No,No,No,Cancer,Care
+4948,30,60,176,5,6,No,No,Yes,None,Well-being
+8198,49,50,164,4,3,No,No,Yes,Alzheimer's Disease,Care
+4194,34,87,166,7,0,No,No,Yes,Other,Care
+2677,33,95,150,1,7,No,No,No,None,Well-being
+2779,43,72,199,3,4,No,No,Yes,Heart Problem,Care
+6377,28,95,165,5,4,No,No,No,Heart Problem,Care
+2673,34,98,150,4,6,No,No,No,None,Well-being
+8565,34,84,195,7,6,No,No,Yes,None,Well-being
+5759,37,84,155,5,6,No,No,Yes,None,Well-being
+1597,51,81,162,1,4,Yes,No,Yes,Heart Problem,Care
+5633,23,99,195,1,6,Yes,No,No,None,Well-being
+9430,36,80,175,2,1,No,Yes,Yes,None,Well-being
+7481,29,91,185,6,7,No,No,Yes,None,Well-being
+3446,33,59,171,7,5,No,No,Yes,Respiratory Problem,Care
+3440,44,68,198,1,3,No,No,Yes,Respiratory Problem,Care
+7435,37,71,155,7,1,No,No,Yes,Heart Problem,Care
+1410,28,75,169,5,3,No,Yes,No,Respiratory Problem,Care
+6633,34,97,197,2,1,Yes,Yes,No,None,Well-being
+4442,26,98,198,7,7,No,No,No,Heart Problem,Care
+8270,25,52,154,4,3,No,No,No,None,Well-being
+2701,26,93,164,6,6,No,No,No,None,Well-being
+5807,40,62,198,2,6,No,No,No,None,Well-being
+5422,34,68,159,2,1,Yes,No,Yes,Cancer,Care
+8603,44,53,186,3,7,Yes,Yes,Yes,Heart Problem,Care
+7017,32,87,198,0,1,No,Yes,No,None,Well-being
+1580,43,81,177,1,6,No,No,No,None,Well-being
+5706,27,51,150,5,4,No,No,Yes,None,Well-being
+4729,40,56,157,5,4,No,No,No,None,Well-being
+6628,43,88,174,0,1,No,No,Yes,Other,Care
+9778,34,73,186,4,3,No,Yes,No,Heart Problem,Care
+2980,26,50,156,1,5,No,No,Yes,None,Well-being
+5010,28,88,181,3,2,Yes,No,Yes,None,Well-being
+7613,29,100,199,5,6,No,No,No,None,Well-being
+2639,38,84,151,4,7,Yes,No,No,None,Well-being
+7576,50,95,168,0,5,No,No,Yes,None,Well-being
+7768,24,90,186,3,5,Yes,Yes,Yes,None,Well-being
+1293,35,99,175,7,7,No,No,No,Other,Care
+9394,28,74,183,0,4,No,Yes,Yes,None,Well-being
+7357,36,70,199,5,7,No,No,No,None,Well-being
+3608,34,94,169,5,3,No,No,No,None,Well-being
+6360,38,67,150,5,0,No,No,Yes,None,Well-being
+8582,37,82,172,4,1,No,No,No,None,Well-being
+8406,37,60,170,5,3,No,No,Yes,Other,Care
+2050,42,54,153,3,2,Yes,Yes,Yes,Other,Care
+9934,37,98,158,6,1,Yes,No,No,None,Well-being
+4113,34,90,153,0,1,Yes,No,Yes,None,Well-being
+8226,43,90,174,7,3,Yes,No,No,None,Well-being
+3491,41,97,181,4,0,No,Yes,No,None,Well-being
+6044,35,73,150,4,2,No,Yes,No,Other,Care
+2603,38,72,197,7,1,No,No,No,None,Well-being
+1267,32,66,165,5,2,Yes,No,Yes,Tuberculosis,Care
+7880,48,60,151,2,1,No,No,Yes,Tuberculosis,Care
+1059,32,65,156,4,5,No,No,Yes,Other,Care
+1555,29,57,163,1,4,No,No,Yes,Cancer,Care
+8222,30,89,158,2,7,No,Yes,No,Other,Care
+5342,43,91,180,7,2,No,No,Yes,None,Well-being
+5226,38,60,194,7,6,No,No,No,None,Well-being
+6461,26,92,199,5,2,Yes,Yes,Yes,None,Well-being
+9682,37,58,194,5,3,No,No,Yes,None,Well-being
+9869,30,76,187,7,0,No,Yes,No,None,Well-being
+3128,52,73,181,7,2,No,Yes,Yes,Respiratory Problem,Care
+3088,24,75,169,2,3,No,Yes,No,Tuberculosis,Care
+4453,29,87,163,7,1,No,No,No,Tuberculosis,Care
+7977,45,81,183,4,4,No,Yes,No,None,Well-being
+2440,39,69,164,7,3,No,No,Yes,Tuberculosis,Care
+1043,36,83,154,6,1,No,No,No,None,Well-being
+3866,32,65,194,3,1,No,No,No,Respiratory Problem,Care
+6004,37,71,167,5,5,No,No,No,Heart Problem,Care
+6018,26,71,163,0,0,Yes,Yes,No,Cancer,Care
+7901,44,61,186,5,6,No,No,Yes,Other,Care
+2472,32,56,181,7,4,No,No,Yes,None,Well-being
+2749,21,59,182,2,2,Yes,Yes,Yes,Heart Problem,Care
+7930,36,79,176,0,6,No,No,Yes,Heart Problem,Care
+5096,28,89,162,2,0,No,Yes,No,Heart Problem,Care
+2718,38,71,184,4,4,No,Yes,Yes,None,Well-being
+4209,40,93,160,0,6,No,No,Yes,None,Well-being
+4293,37,94,179,5,1,No,No,No,None,Well-being
+8802,34,93,200,3,4,No,Yes,Yes,Heart Problem,Care
+6289,34,85,179,4,5,No,No,No,Other,Care
+5332,47,75,194,7,7,No,No,No,None,Well-being
+5371,34,93,187,2,3,No,No,No,Respiratory Problem,Care
+9099,33,90,161,4,4,No,No,No,Other,Care
+6192,26,96,197,5,5,No,No,No,Respiratory Problem,Care
+8867,30,69,192,6,1,No,No,No,Heart Problem,Care
+9440,36,91,173,4,4,Yes,No,No,Cancer,Care
+9984,39,76,199,2,3,No,No,No,Cancer,Care
+2424,30,98,172,1,1,No,Yes,Yes,None,Well-being
+1759,46,98,157,1,7,No,Yes,Yes,None,Well-being
+5616,50,54,175,4,2,No,Yes,No,Respiratory Problem,Care
+1162,26,73,193,7,2,Yes,No,No,Other,Care
+3836,35,81,187,3,3,No,No,No,None,Well-being
+9788,33,90,157,5,2,No,No,Yes,None,Well-being
+1685,30,73,150,3,6,No,Yes,Yes,Heart Problem,Care
+8052,39,78,161,7,3,No,No,No,None,Well-being
+8447,43,70,166,2,7,No,No,Yes,Alzheimer's Disease,Care
+1569,32,69,151,7,2,No,No,No,None,Well-being
+5319,28,87,182,0,0,No,No,Yes,None,Well-being
+7040,32,80,173,4,2,No,No,Yes,None,Well-being
+3813,36,56,170,5,3,Yes,Yes,Yes,None,Well-being
+1853,38,78,166,5,1,Yes,No,Yes,None,Well-being
+9650,37,75,161,4,5,No,No,No,Other,Care
+8595,39,59,191,6,6,No,No,Yes,None,Well-being
+4100,38,55,184,4,6,No,No,Yes,Other,Care
+7739,32,100,154,6,7,No,No,No,Other,Care
+6182,40,74,176,7,6,No,No,Yes,Cancer,Care
+2179,45,68,165,7,0,No,Yes,No,None,Well-being
+6802,27,81,179,7,4,No,No,Yes,Heart Problem,Care
+1396,40,55,192,0,3,No,No,Yes,Respiratory Problem,Care
+3757,29,70,150,3,3,Yes,Yes,Yes,Alzheimer's Disease,Care
+5957,28,62,193,4,3,Yes,No,Yes,None,Well-being
+5782,37,62,198,5,4,No,Yes,Yes,Cancer,Care
+5951,27,81,176,2,2,Yes,No,Yes,None,Well-being
